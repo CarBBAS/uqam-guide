@@ -1,7 +1,7 @@
 ---
 title: "A beginner's guide to UQÀM and Canada"
 author: "CarBBAS"
-date: "Last updated on: 06 May 2020"
+date: "Last updated on: 08 May 2020"
 output:
   html_document:
     toc: true
