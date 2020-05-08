@@ -1,0 +1,284 @@
+---
+title: "A beginner's guide to UQÀM and Canada"
+author: "CarBBAS"
+date: "Last updated on: 16 April 2020"
+output:
+  html_document:
+    theme: paper
+    hightlight: tango
+    number_sections: false
+    toc: false
+    toc_float: false
+---
+
+---
+
+# A few words
+Welcome! You are joining UQÀM and you are heading towards an adventure to live in Montréal. This is a list of things that you need to do before and after ariving in Montréal and other things are just for informative purposes. Information given here are merely a help for you to go through the sometimes a bit overwhelming steps until you get settled with us. This list is not a definitive instruction, we will try to keep the points and links updated to its best but be aware that things may change and information are not 100% accurate anymore. If there is something unclear, don't hesitate to contact any of the current lab members.
+
+---
+
+# Students {.tabset .tabset-fade}
+## Before arrival {.tabset}
+Here are some things that you need to do before arriving in Canada:
+
+::: {#before-arrival .section . level3}
+### UQÀM registration
+    To register to UQÀM, you have to fill in several forms. Now, you can also apply online instead of sending the documents by post!
+You can find a step guide [here](https://etudier.uqam.ca/etudiants-etrangers). It is in French, but you can make use of Google Chrome and the automatic google translate option.
+
+You’ll need to find the program number for a
+
+* [Masters in biology](https://etudier.uqam.ca/programme?code=3440) (No. 3440)
+OR
+* [Doctorate in biology](https://etudier.uqam.ca/programme?code=3805) (No. 3805)
+    
+As mentioned above, admission can be done [online now](https://etudier.uqam.ca/admission-en-ligne). You can find the documents that will be needed [here](https://etudier.uqam.ca/documents-requis). Essentially, you will need your transcripts from previous degrees (in French or English), copy of your diploma and other UQÀM forms that need to be filled. And you have to pay the admission fee of around $126 by credit card.
+
+> **Tip**: Make sure that your passport is valid for several years! You cannot get the CAQ and study permit for longer than your passport is valid. Otherwise you will need to renew your passport and get an extension while you’re studying (and pay the fee again).
+
+:::
+
+::: {#before-arrival .section . level3}
+### CAQ
+  Before you can apply to a study permit, you’ll need the **CAQ** (Certificat d'acceptation du Quebec) which allows you to study in Québec.
+
+UQÀM is a designated learning institution (DLI# O19359011134) or check [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html) for more details. So once, you have the letter of admission from UQÀM, you can apply fairly easily. Check the steps for CAQ application [here](http://www.immigration-quebec.gouv.qc.ca/en/immigrate-settle/students/obtaining-authorizations/certificat-acceptation/index.html).
+
+You can [apply online](http://www.immigration-quebec.gouv.qc.ca/en/electronic-services/caq-electronic/index.html) and you will need:
+
+* a recent ID photo (35 mm x 45 mm)
+* photocopy of your passport
+* letter of admission from the registrar
+* pay the processing fee (~CAD$114)
+
+Processing times vary, with an average of 20 days.
+
+:::
+
+::: {#before-arrival .section . level3}
+### Study permit
+  Once you have received the **CAQ**, you can apply for the **study permit**. Application to a study permit depends largely on which country you are from. Consult the website of the [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html) for further instructions.
+
+For sure is, you will have to pay around CAD$150 and processing times vary depending on where you apply from. Check processing times [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html). You will need to provide:
+
+* a photocopy of your passport (for some countries you need to send your passport to a Canadian embassy)
+* CAQ approval
+* UQÀM admission letter
+* a financial support letter from your supervisor or a confirmation of your scholarship
+
+You may need to do medical exams and get police certificates depending on your country of origin. Consult what you need by proceeding in the online application [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html).
+
+---
+
+> **Tip**: We recommend you to bring a buffer of cash to survive for at least a month or two, because processing times until UQÀM makes the first payment takes time (~5 weeks)!
+
+> **Tip**: Finding apartments from abroad is tricky. Sometimes students/post-docs leave at the same time as you arrive, so you can ask around. Otherwise, we recommend to book an AirBnb for a month and explore which neighbourhood you like.
+
+:::
+
+## After arrival 
+<!-- {.tabset}
+First of all, the biology department is not located at the main UQÀM campus close to Berri-UQÀM station but at the Science campus close to Place-des-arts (Green Line) metro station. Our offices are located in the the SB building on the second floor. So don’t get lost.
+
+Here are some things you need to do or should know to get started:
+
+---
+
+::: {#after-arrival .section . level3}
+#### 1. Get a Social insurance number (SIN)
+  You will need to get your social insurance number (SIN) and provide it to UQÀM. To get your SIN, go to:
+
+>*Service Canada*
+>
+>*Guy-Favreau Complex, Suite 034*
+>
+>*200 René-Lévesque Boulevard West*
+>
+>*Open Mon-Fri 8:30 am – 4 pm*
+
+Accessible through the underground from Place-des-arts (Green Line) or Place-d’Armes (Orange line) metro stations.
+
+You will have to bring:
+
+* your passport with the study permit
+* fill out their form
+
+Check further information [here](https://www.canada.ca/en/employment-social-development/services/sin/before-applying.html#primary).
+
+> **Tip**: Whenever you renew your study permit, you need to update your social insurance number, too!
+
+:::
+
+::: {#after-arrival .section . level3}
+#### 2. Bring documents to UQÀM registrariat
+  If you were admitted with a condition (provide proof of graduation from BSc or MSc if you applied before graduating), bring the documents to the [UQÀM registrariat](https://etudier.uqam.ca/coordonnees-registrariat).
+
+>Pavillon J.-A.DeSève
+>
+>Local DS-R110
+>
+>320 Rue Sainte-Catherine Est
+>
+>Open Mon-Tue 9 am – 6 pm, Wed-Fri 10 am – 5 pm
+
+It should say in your acceptance letter what documents you need. Bring **three copies** of each document that you have to provide. Be aware that people at the registrariat *are not allowed to speak English*. Gesture and a few before-hand translated words will help you getting what you need. Sometimes you’re lucky and the person doesn’t care. But don’t count on it.
+
+:::
+
+::: {#after-arrival .section . level3}
+#### 3. Sign stipend form
+  Once the main things have been settled ask Alice (Paul’s student) or Yves to sign the form to receive your stipend. It can take more than a month until you receive your first payment!
+You can sign up for direct deposit [here](https://www.rhu.uqam.ca/index.aspx?id=p710).
+
+Proceed as *‘Sans nom d’utilisateur (code MS)’*. It may not work at first if your SIN is not registered with the UQÀM registrariat yet.
+
+:::
+
+::: {#after-arrival .section . level3}
+#### 4. Student Card
+  Get a student card to get access to student benefits and the gym. Make sure to bring your passport and they will make a picture on-site. Consult opening hours [here](http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html). The place is one floor down of the UQÀM registrariat in the UQÀM main campus.
+  
+:::
+
+::: {#after-arrival .section . level3}
+#### 5. UQÀM Online Portal for students
+There is an [online portal](https://portailetudiant.uqam.ca/) where we have all the necessary information that we need (tuition to be paid, courses etc.). To access this you will need:
+
+* Code permanent (should be in your acceptance letter or when you applied online)
+* NIP
+
+If you do not have any of this information, consult with the UQÀM registrariat.
+
+:::
+
+::: {#after-arrival .section . level3}
+#### 6. Access to UQÀM mail
+  Get your code MS [here](https://code.uqam.ca/simplesaml/module.php/core/loginuserpass.php?AuthState=_f48a2d8e5f41af83ca172569f190a0df81f42890c6%3Ahttps%3A%2F%2Fcode.uqam.ca%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dcode.uqam.ca%26RelayState%3Dhttps%253A%252F%252Fcode.uqam.ca%252Fsimplesaml%252Fmodule.php%252Fuqam%252Fstatus.php%26cookieTime%3D1575498828).
+
+You will need your:
+
+* Code permanent
+* NIP
+
+Log-in to your UQÀM microsoft account [here](https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&protectedtoken=true&domain_hint=uqam.ca&nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ). The password is the *first three letters of your surname in captial + NIP* (e.g. UQA00000).
+
+:::
+
+::: {#after-arrival .section . level3}
+#### 7. Opus card for students
+  To get a cheaper faire for the public transport, get a student opus card. You will be able to purchase a cheaper 4-month pass.
+
+Log-in to the *portail étudiant*. Go to ‘Attestation carte OPUS’. Click the semester of interest and click on ‘Obtenir la carte opus étudainte par la poste’. You can only do this if you have your student card already. With this, you can let your OPUS card be shipped to your home.
+
+If you need to get your card more urgently, you can go to the OPUS student office close to Berri-UQÀM metro station. You will need be able to log-in on-site to the *portail étudiant* to show your document.
+
+:::
+
+::: {#after-arrival .section .level3}
+#### 8. Pay tuition
+<details>
+  <summary>Master</summary>
+  As an international Master student, one has to pay the extra fee for foreign students. To get exempt of this, apply to an exemption scholarship on [RIBÉ](https://www.apps.uqam.ca/application/bourses/login/login.aspx). Log-in with your:
+  
+  * Code permanent
+  * NIP
+  You have to fill out *'Mon profil'* and validate the profile with the button on the top left corner. You can fill your profile in French or English. Although French might reveal more appealing to the reviewers of the scholarships (e.g. UQÀM foundation).
+  
+  Go to *"Recherche bourses"* and look for a foreigner student fee exemption scholarship and apply.
+  
+  If you do not get the exemption scholarship, ask your supervisor to write you a cheque with the amount of tuition that needs to be paid.
+  
+  In case you have received the exemption scholarship, the amount will automatically be removed from your tuition bill on the *portail étudiant* and you just need to pay the rest.
+
+</details>
+
+<details>
+  <summary>PhD</summary>
+  To pay your tuition go to the *portail étudiant* and follow these steps:
+  
+  * Click on *‘Factures courante et solde’*
+  * Scroll down the *‘Facture’* of the next semester
+  * Click on the ‘+’ next to *Scolarité 3e cycle*
+  * From the *‘Total’* amount at the very bottom of the page, subtract the *‘Frais majorés étudiant étranger’*
+  
+  This will be the amount that you need to pay. 
+  
+  Make sure to provide your *‘Code de paiement’* listed at the beginning of the page when you make the payment via bank transfer. Expect a tuition between 1000 - 2800$ depending on which semester. Usually, you pay more in the autumn semester, because one pays additionally the health insurance.
+  
+</details>
+:::
+
+::: {#after-arrival .section .level3}
+#### 9. Register to a class
+
+  Each semester, you have to register for a course. To do so, send an email to [](cyclesupbiologie@uqam.ca) with the code for the course.
+  
+<details>
+  <summary>Master</summary>  
+  A Master's in Biology (3440) degree requires four courses (12 credits): Two mandatory and two of choices from multiple offered courses.
+  Mandatory courses:
+  * BIO8501 Methodology in biology
+  * BIO8071 Research seminar
+  
+  For more information about the courses offered, visit the website for Master's in Biology program [3440] (https://etudier.uqam.ca/programme?code=3440)
+  
+</details>
+  
+<details>
+  <summary>PhD</summary>
+  Usually, a PhD starts with:
+  
+  * BIO9000 Thesis proposal
+  
+  Followed by 'ACTIF EN RECHERCHE' in the semesters where you do not take courses but do lab or office work. Other courses that have to be taken are:
+  
+  * ADM9001 Human resources
+  * DDD9667 Teaching
+  * BIO9010 Synthesis exam
+  * BIO9020 Seminar
+  * Thesis
+  
+  Be aware that Human resources and Teaching are taught in French. Both courses allow you to write the final home work in English.
+  
+</details>
+:::
+
+::: {#after-arrival .section .level3}
+#### 10. Scholarships
+  You can apply to several scholarships after you have been admitted to UQÀM as an international student.
+  
+  * [Vanier](https://vanier.gc.ca/
+  * [FRQNT](http://www.frqnt.gouv.qc.ca/en/accueil)
+  * [PBEEE](https://ssa.uqam.ca/nos-services/bourses/bourses-dexcellence/pbeee.html)
+  
+  All three of these scholarships are highly competitive and usually there is an internal UQÀM pre-selection. Do not mix up and miss the internal deadline before the overall deadline.
+  
+  There are several smaller scholarships from UQÀM. Check each semseter what scholarships you can apply to on [RIBÉ](https://www.apps.uqam.ca/application/bourses/login/login.aspx).
+
+:::
+
+::: {#after-arrival .section .level3}
+#### 11. Health insurance</summary>
+
+  You will get a health insurance card by e-mail once you’ve paid your first tuition. It is a private insurance provided by **Desjardins**. You can check what is covered in [this leaflet](https://vie-etudiante.uqam.ca/medias/fichiers/vous-etes_etudiant-etranger/Q178_en_br_Foreign_University_Students.pdf). As a foreign student, you do not have access to the Québec insurance called *RAMQ* (except a few exemption countries such as France and Belgium).
+  
+  You can get access to an online account of Desjardins to ask for reimbursement of medical expenses [here](https://auth.desjardins.com/Account/SignIn?ReturnUrl=%252fissue%252fwsfed%253fwa%253dwsignin1.0%2526wtrealm%253dhttp%25253a%25252f%25252fsession.desjardins.com%25252fadfs%25252fservices%25252ftrust%2526wctx%253d5cb0841a-41a3-4e94-ae34-dace07d7486a%2526wct%253d2020-01-03T21%25253a45%25253a17Z%2526whr%253dhttp%25253a%25252f%25252fauth.desjardins.com%25252ftrust%25252finitial%2526owtrealm%253dhttps%25253a%25252f%25252fICA%2526owctx%253drm%25253d0%252526id%25253dpassive%252526ru%25253d%2525252fAGEA-GBIM%2525252fAthntfctn%2525252fAccl%2525252fAccueil_Home.aspx%2526fav%253dhttps%25253a%25252f%25252fsession.desjardins.com%25252fadfs%25252fls%25252f%25253fwa%25253dwsignin1.0%252526wtrealm%25253dhttps%25253a%25252f%25252fICA%252526wctx%25253drm%25253d0%252526id%25253dpassive%252526ru%25253d%252525252fAGEA-GBIM%252525252fAthntfctn%252525252fAccl%252525252fAccueil_Home.aspx%252526wct%25253d2020-01-03T21%25253a45%25253a17Z%252526whr%25253dhttp%25253a%25252f%25252fauth.desjardins.com%25252ftrust%25252finitial%252526wreply%25253dhttps%25253a%25252f%25252fwww.agea-gbim.dsf-dfs.com%25252fAGEA-GBIM%25252fDefault.aspx). You can create an account once you have your insurance card. If you have any questions, you can always contact them with the online form. They usually respond quite quickly.
+  
+  
+<details>
+  <summary>When you need to go to a doctor</summary>
+  The system works here, that usually you need to go to a generalist first and get a referal. So, usually people see their family doctor. It is hard to find a family doctor in Montréal, however, there are several walk-in clinics for people without a family doctor. Some walk-in clinics are without appointments (expect long waiting hours) or with appointment.
+  
+  To get an appointment in a walk-in clinic consult their homepage. Usually, you can only get an appointment for the next day. Most clinics use an appointment system called *‘Bonjour-Santé’*. Whenever you need to provide your RAMQ information insert ‘XXXXDDMMYYYY’ instead, where DDMMYYYY is replaced by your birth date. And you can provide any date in the future for the expiration date. You will have to pay a fee for your appointment, which can vary by clinic. Make sure to call and ask before.
+  
+  To give you an example:
+  
+  * [**Forcemedic clinics**](https://www.forcemedic.com/) (Payment: $160, Appointment registration start: 7 pm the day before)
+  * [**Clinique 1851**](https://l.facebook.com/l.php?u=https%3A%2F%2Fbonjour-sante.ca%2FTriathlon%2F%3Ffbclid%3DIwAR3yjRyvwA-1nCvhfYWK1_SrOLrsKW8FLqyzRfq8wXWheW15K47fVSMZ81Q%23%2Fidentification%2F1851&h=AT3eQ9dsRykT4e77GQvh1BgOaPgMRisjhPshA7ox6CH8Bs7xjw-1V2aUhZvyE6T7DhoUyT7qNJLt377roOL7ygnQTheeAZR7Z-QjYFzXQfoqbmhDlhGuaQis1us) (Payment: ?, Appointment registration start: 8 pm the day before)
+  * [**MetroMedic**](http://www.metromedic.com/index_en.html) (Payment: ?, Schedule appointment online)
+
+</details>
+:::
+
+## {-} -->
