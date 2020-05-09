@@ -115,8 +115,23 @@ It should say in your acceptance letter what documents you need. Bring **three c
 
 ---
 
-### 3. Sign stipend form
-Once the main things have been settled ask Alice (Paul’s student) or Yves to sign the form to receive your stipend. It can take more than a month until you receive your first payment!
+### 3. Submit stipend form
+Once the main things have been settled, fill out form "Demande de Versement de Bourse" (Scholarship Payment Request). 
+**Physically**, you can find this form in the biology department room in PK building, then ask Alice Parkes (for Paul’s student) or Yves Prairie to sign the form to receive your stipend, and submit it to the same biology office that you get the form from. 
+**Virtually**, you can send your personal information in an email from your UQAM email address to your director so that they can forward this request to Financial services.
+
+Information/Documents you need to submit the stipend form:
+
+* A photocopy/scan of your study permit
+* A photocopy/scan of the first page your passport
+* Full name
+* Social Insurance Number (SIN)
+* UQAM Permanent code
+* DOB
+* Current address with postal code
+* Phone number
+
+It can take more than a month (typically five weeks) until you receive your first payment!
 You can sign up for direct deposit [here](https://www.rhu.uqam.ca/index.aspx?id=p710).
 
 Proceed as *‘Sans nom d’utilisateur (code MS)’*. It may not work at first if your SIN is not registered with the UQÀM registrariat yet.
@@ -128,7 +143,7 @@ Get a student card to get access to student benefits and the gym. Make sure to b
 
 ---
 
-### 5. UQÀM Online Portal for students
+### 5. Access UQÀM Online Portal for students
 There is an [online portal](https://portailetudiant.uqam.ca/) where we have all the necessary information that we need (tuition to be paid, courses etc.). To access this you will need:
 
 * Code permanent (should be in your acceptance letter or when you applied online)
@@ -138,7 +153,7 @@ If you do not have any of this information, consult the UQÀM registrariat.
 
 ---
 
-### 6. Access to UQÀM mail
+### 6. Access to UQÀM email
 Get your code MS [here](https://code.uqam.ca/simplesaml/module.php/core/loginuserpass.php?AuthState=_f48a2d8e5f41af83ca172569f190a0df81f42890c6%3Ahttps%3A%2F%2Fcode.uqam.ca%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dcode.uqam.ca%26RelayState%3Dhttps%253A%252F%252Fcode.uqam.ca%252Fsimplesaml%252Fmodule.php%252Fuqam%252Fstatus.php%26cookieTime%3D1575498828).
 
 You will need your:
@@ -191,7 +206,7 @@ Make sure to provide your *‘Code de paiement’* listed at the beginning of th
 ---
 
 ### 9. Register to a class
-Each semester, you have to register for a course. To do so, send an email to [](cyclesupbiologie@uqam.ca) with the code for the course.
+Each semester, you have to register for a course. To do so, send an email to [Biology Department email address](cyclesupbiologie@uqam.ca) (cyclesupbiologie@uqam.ca) with the code for the course.
 
 #### Master
 A Master's in Biology (3440) degree requires four courses (12 credits): Two mandatory and two of choices from multiple offered courses.
@@ -301,7 +316,7 @@ You may need to do medical exams and get police certificates depending on your c
 
 ---
 
-#### Bringing a partner
+### Bringing a partner
 If you and your partner have decided to move together to Montréal, he/she needs to apply for an **open** work permit. This application is also exempted from the CAQ.
 
 The most advisable thing to do is to apply together for both work permits at the same time. This can be easily done by the main applicant – the person applying for the **specific** work permit - by adding their partner when applying. By doing this, the main applicant will be leading both applications and will need to add some documents to its own application and also some documents will be asked for the partner's application. 
@@ -331,12 +346,12 @@ Such kind of a joint application will cost approximately $450 in total, includin
 ---
 
 ## After arrival
-### Sign contract
+### 1. Sign contract
 ?
 
 ---
 
-### Get a Social insurance number (SIN)
+### 2. Get a Social insurance number (SIN)
 You will need to get your social insurance number (SIN) and provide it to UQÀM. To get your SIN, go to:
 
 >*Service Canada*
@@ -360,22 +375,22 @@ Check further information [here](https://www.canada.ca/en/employment-social-deve
 
 ---
 
-### Student Card
+### 3. Student Card
 As a post-doc, you get a student card and get access to student benefits and the gym. Make sure to bring your passport and they will make a picture on-site. Consult opening hours [here](http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html). The place is one floor down of the UQÀM registrariat in the UQÀM main campus.
 
 ---
 
-### Access to UQÀM mail
+### 4. Access to UQÀM mail
 ?
 
 ---
 
-### Opus card for metro
+### 5. Opus card for metro
 Unfortunately, post-docs are not elgibile for the student price of the OPUS card. You need to pay the general annual or monthly pass.
 
 ---
 
-### Health insurance
+### 6. Health insurance
 
 As a post-doc or temporary research intern (have a specific work permit) you can apply to the provincial health insurance called **RAMQ** (Régie de l'assurance maladie du Québec). This is a free medical insurance offered by Québec but covers you across Canada. You will get free assistance in specific medical centers but, unless an emergency occurs, you will need to wait many hours to be attended.
 
@@ -396,7 +411,7 @@ Be aware that you will have to wait more than 14 days to receive your insurance 
 
 ---
 
-### Driving licence
+### 7. Driving licence
 As a post-doc you are only allowed to drive with your driving license from your original country up to six months (count the days since your arrival in Québec).
 The first day after six months have passed, you will be driving illegally. Make sure to exchange your licence. If your driving licence is from a certain country, you can easily exchange your driving licence. You need to bring:
 
@@ -418,6 +433,7 @@ Find the details at [SAAQ](https://saaq.gouv.qc.ca/en/drivers-licences/foreign-d
 ## Wi-fi at UQÀM
 Depending on what device your using, the set-up of wi-fi will differ. Essentially, you will be using **eduroam**. Follow the instructions provided [here](https://servicesinformatiques.uqam.ca/services/R%C3%A9seau%20sans%20fil). There is a section for each operating system (e.g. Windows, Mac, Android, iPhone etc.).
 
+If you have trouble with connecting to the wifi when you just arrive, contact Alice Parkesor Sara for a temporary visitor wifi login before you can connect to eduroam.
 ---
 
 ## Access to labs and keys
@@ -492,7 +508,7 @@ If you're more interested in the GRIL, we have several groups that are part of G
 ---
 
 ## Expense Reports
-Whenever you go to a conference or spend money during a research activity (e.g. attending workshops or internships), you need to file expense reports. Make sure to keep all your receipts. You will need to glue or tape them on seperate A4 papers so UQÀM can easily scan them. With all your receipts separately and visibly glued on paper, you will need to fill an "Expense report" and give this to Alice or directly send/bring it to the finances office of UQÀM.
+Whenever you go to a conference or spend money during a research activity (e.g. attending workshops or internships), you need to file expense reports. Make sure to keep all your receipts. You will need to attach them using transparent tape on seperate letter-size papers (one-sided) so UQÀM can easily scan them. With all your receipts separately and visibly taped on paper, you will need to fill an "Expense report" and give this to Alice or directly send/bring it to the finances office of UQÀM.
 
 If you don't have enough money in your private bank account to pay for large amounts such as a plane ticket to a conference location, you can ask for an advance payment or book the plane ticket through a travel agency that UQÀM uses.
 
