@@ -5,5 +5,6 @@ Resources from UQAM: Go to [Services a la vie etudiante](https://vie-etudiante.u
 The staff from UQAM Advisory Services will be in contact with you and connect you to the services you need that works for your budget.
 
 The average cost is CA$D82-100 per session.
-Note: Dejardins Insurance currently offer CAD$500 deductible per coverage year, with the maximum of CAD$50 applied per visit.
+Note: *Dejardins Insurance* currently offer CAD$500 deductible per coverage year, with the maximum of CAD$50 applied per visit.
+
 #
