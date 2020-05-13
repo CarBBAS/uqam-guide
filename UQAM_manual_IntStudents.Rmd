@@ -1,7 +1,7 @@
 ---
 title: "A beginner's guide to UQÀM and Canada"
 author: "CarBBAS"
-date: "Last updated on: 08 May 2020"
+date: "Last updated on: 13 May 2020"
 output:
   html_document:
     toc: true
@@ -11,13 +11,15 @@ output:
 ---
 
 # A few words
-Welcome! You are joining UQÀM and you are heading towards an adventure to live in Montréal. This is a list of things that you need to do before and after ariving in Montréal and other things are just for informative purposes. Information given here are merely a help for you to go through the sometimes a bit overwhelming steps until you get settled with us. This list is not a definitive instruction, we will try to keep the points and links updated to its best but be aware that things may change and information are not 100% accurate anymore. If there is something unclear, don't hesitate to contact any of the current lab members.
+Welcome! You are joining UQÀM and you are heading towards an adventure to live in Montréal. This is a list of things that you need to do before and after ariving in Montréal, and other things are just for informative purposes. Information given here is merely a help for you to go through the sometimes overwhelming steps until you get settled in with us. This list is not a definitive instruction, and we will try to keep the points and links updated to the best of our knowledge, but be aware that things may change and information are not 100% accurate anymore. If there is something unclear, don't hesitate to contact any of the current lab members.
 
 ---
 
 # Students
 ## Before arrival
-### UQÀM registration
+Here are some things that you will need to do before arriving in Canada:
+
+### 1. UQÀM registration
 To register to UQÀM, you have to fill in several forms. Now, you can also apply online instead of sending the documents by post!
 You can find a step guide [here](https://etudier.uqam.ca/etudiants-etrangers). It is in French, but you can make use of Google Chrome and the automatic google translate option.
 
@@ -27,13 +29,13 @@ You’ll need to find the program number for a
 OR
 * [Doctorate in biology](https://etudier.uqam.ca/programme?code=3805) (No. 3805)
     
-As mentioned above, admission can be done [online now](https://etudier.uqam.ca/admission-en-ligne). You can find the documents that will be needed [here](https://etudier.uqam.ca/documents-requis). Essentially, you will need your transcripts from previous degrees (in French or English), copy of your diploma and other UQÀM forms that need to be filled. And you have to pay the admission fee of around $126 by credit card.
+As mentioned above, admission can be done [online now](https://etudier.uqam.ca/admission-en-ligne). You can find the documents that will be needed [here](https://etudier.uqam.ca/documents-requis). Essentially, you will need your transcripts from previous degrees (in French or English), copy of your diploma and other UQÀM forms that need to be filled. And you have to pay the admission fee of around CAD$126 by credit card.
 
 > **Tip**: Make sure that your passport is valid for several years! You cannot get the CAQ and study permit for longer than your passport is valid. Otherwise you will need to renew your passport and get an extension while you’re studying (and pay the fee again).
 
 ---
 
-### CAQ
+### 2. CAQ
 Before you can apply to a study permit, you’ll need the **CAQ** (Certificat d'acceptation du Quebec) which allows you to study in Québec.
 
 UQÀM is a designated learning institution (DLI# O19359011134) or check [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html) for more details. So once, you have the letter of admission from UQÀM, you can apply fairly easily. Check the steps for CAQ application [here](http://www.immigration-quebec.gouv.qc.ca/en/immigrate-settle/students/obtaining-authorizations/certificat-acceptation/index.html).
@@ -49,7 +51,7 @@ Processing times vary. The average is 20 days.
 
 ---
 
-### Study permit
+### 3. Study permit
 Once you have received the **CAQ**, you can apply for the **study permit**. Application to a study permit depends largely on which country you are from. Consult the website of the [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit.html) for further instructions.
 
 For sure is, you will have to pay around CAD$150 and processing times vary depending on where you apply from. Check processing times [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html). You will need to provide:
@@ -100,7 +102,7 @@ Check further information [here](https://www.canada.ca/en/employment-social-deve
 
 ---
 
-### 2. Open bank account
+### 2. Open a bank account
 Note that some bank accounts do not offer direct deposits to UQÀM to pay your tuition. Make sure to open a bank account with any of the following financial institutions:
 
 * Desjardins
@@ -133,7 +135,7 @@ It should say in your acceptance letter what documents you need. Bring **three c
 ---
 
 ### 4. Submit stipend form
-Once the main things have been settled, fill out form "Demande de Versement de Bourse" (Scholarship Payment Request). 
+  Once the main things have been settled, fill out form "Demande de Versement de Bourse" (Scholarship Payment Request). 
 **Physically**, you can find this form in the biology department room in PK building, then ask Alice Parkes (for Paul’s student) or Yves Prairie to sign the form to receive your stipend, and submit it to the same biology office that you get the form from. 
 **Virtually**, you can send your personal information in an email from your UQAM email address to your director so that they can forward this request to Financial services.
 
@@ -151,7 +153,7 @@ Information/Documents you need to submit the stipend form:
 >It can take more than a month (typically five weeks) until you receive your first payment!
 
 You can sign up for direct deposit [here](https://www.rhu.uqam.ca/index.aspx?id=p710).
-Proceed as *‘Sans nom d’utilisateur (code MS)’*. It may not work at first if your SIN is not registered with the UQÀM registrariat yet.
+Proceed as *‘Sans nom d’utilisateur (code MS)’* (Without user name (MS code)). It may not work at first if your SIN is not registered with the UQÀM registrariat yet.
 
 ---
 
@@ -161,7 +163,7 @@ Get a student card to get access to student benefits and the gym. Make sure to b
 ---
 
 ### 6. Access UQÀM Online Portal for students
-There is an [online portal](https://portailetudiant.uqam.ca/) where we have all the necessary information that we need (tuition to be paid, courses etc.). To access this you will need:
+There is an [online student portal](https://portailetudiant.uqam.ca/) where we have all the necessary information that we need (tuition to be paid, courses etc.). To access this you will need:
 
 * Code permanent (should be in your acceptance letter or when you applied online)
 * NIP
@@ -170,7 +172,7 @@ If you do not have any of this information, consult the UQÀM registrariat.
 
 ---
 
-### 7. Access to UQÀM mail
+### 7. Access to UQÀM email
 Get your code MS [here](https://code.uqam.ca/simplesaml/module.php/core/loginuserpass.php?AuthState=_f48a2d8e5f41af83ca172569f190a0df81f42890c6%3Ahttps%3A%2F%2Fcode.uqam.ca%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dcode.uqam.ca%26RelayState%3Dhttps%253A%252F%252Fcode.uqam.ca%252Fsimplesaml%252Fmodule.php%252Fuqam%252Fstatus.php%26cookieTime%3D1575498828).
 
 You will need your:
@@ -183,47 +185,51 @@ Log-in to your UQÀM microsoft account [here](https://login.microsoftonline.com/
 ---
 
 ### 8. OPUS card for students
-To get a cheaper faire for the public transport, get a student opus card. You will be able to purchase a cheaper 4-month pass.
+To get a cheaper fare for the public transport, get a student opus card. You will be able to purchase a cheaper 4-month pass.
 
-Log-in to the *portail étudiant*. Go to ‘Attestation carte OPUS’. Click the semester of interest and click on ‘Obtenir la carte opus étudainte par la poste’. You can only do this if you have your student card already. With this, you can let your OPUS card be shipped to your home.
+Log-in to the *portail étudiant* (Student Portal). Go to ‘Attestation carte OPUS’. Click the semester of interest and click on ‘Obtenir la carte opus étudainte par la poste’. You can only do this if you have your student card already. With this, you can let your OPUS card be shipped to your home.
 
-If you need to get your card more urgently, you can go to the OPUS student office close to Berri-UQÀM metro station. You will need be able to log-in on-site to the *portail étudiant* to show your document.
+If you need to get your card more urgently, you can go to the OPUS student office close to Berri-UQÀM metro station. You will need be able to log-in on-site to the *portail étudiant* (Student Portal) to show your document.
 
 ---
 
 ### 9. Pay tuition
-#### Master
-**Important**: As an international Master student, one has to pay the extra fee for foreign students. To get exempt of this, apply to an **exemption scholarship** on [RIBÉ](https://www.apps.uqam.ca/application/bourses/login/login.aspx). Log-in with your:
+  To pay your tuition go to the *Portail étudiant* (Student Portal) and follow these steps:
+
+* Click on *‘Factures courante et solde’* (Current invoices and balance)
+* Scroll down the *‘Facture’* (Bill) of the next semester
+* Click on the ‘+’ next to *'Scolarité 3e cycle'* (3rd cycle education)
+* From the *‘Total’* amount at the very bottom of the page, subtract the *‘Frais majorés étudiant étranger’* (Higher fees for foreign students)
+
+This will be the amount that you need to pay. 
+
+Make sure to provide your *‘Code de paiement’* (Payment code) listed at the beginning of the page when you make the payment via bank transfer. Expect a tuition between CAD$1000 - 2800 depending on which semester. Usually, you pay more in the autumn semester, because one pays additionally the health insurance.
+
+To understand what the charges on your tuition bill are for, visit the [Financial services website](https://servicesfinanciers.uqam.ca/droits-de-scolarite-et-autres-frais.html) to get a detailed list and description of all your charges.
+
+---
+
+### 10. Tuition exemption
+**Important**:  International students have to pay an extra fee -*'Frais majorés étudiant étranger'* (Higher fees for foreign students)- in addition to their tuition bill. For perspective, this fee is CAD$495.89 per credit for the 2019-2020 school year, which comes out to about CAD5580 per semester.
+This fee is only applicable to *Master's students*, as it is automatically waived for PhD students.
+
+ To get exempt of this, apply to a ***Bourses d'exemption des frais supplémentaires*** (Additional fee Exemption scholarship) on [RIBÉ](https://www.apps.uqam.ca/application/bourses/login/login.aspx). Log-in with your:
 
 * Code permanent
 * NIP
 
-You have to fill out *'Mon profil'* and validate the profile with the button on the top left corner. You can fill your profile in French or English. Although French might reveal more appealing to the reviewers of the scholarships (e.g. UQÀM foundation).
+You have to fill out *'Mon profil'* (My profile) and validate the profile with the button on the top left corner. You can fill your profile in French or English. Although French might be more appealing to the reviewers of the scholarships (e.g. UQÀM foundation).
 
-Go to *"Recherche bourses"* and look for a foreigner student fee exemption scholarship and apply.
+Go to *'Recherche bourses'* (Search scholarship) and look for a foreigner student fee exemption scholarship and apply. Typically, these scholarships are semester-specific so pay attention to the notation in their names (i.e. A2019 indicates the semester and the year it applies to; A = Automne/Autumn, H = Hiver/Winter, E = Été/summer).
 
-If you do not get the exemption scholarship, ask your supervisor to write you a cheque with the amount of tuition that needs to be paid.
+If you do not get the exemption scholarship, ask your supervisor to write you a cheque with the amount of tuition that needs to be paid, and try to apply for the exemption the following semester.
 
-In case you have received the exemption scholarship, the amount will automatically be removed from your tuition bill on the *portail étudiant* and you just need to pay the rest.
-
----
-
-#### PhD
-To pay your tuition go to the *portail étudiant* and follow these steps:
-
-* Click on *‘Factures courante et solde’*
-* Scroll down the *‘Facture’* of the next semester
-* Click on the ‘+’ next to *Scolarité 3e cycle*
-* From the *‘Total’* amount at the very bottom of the page, subtract the *‘Frais majorés étudiant étranger’*
-
-This will be the amount that you need to pay. 
-
-Make sure to provide your *‘Code de paiement’* listed at the beginning of the page when you make the payment via bank transfer. Expect a tuition between 1000 - 2800$ depending on which semester. Usually, you pay more in the autumn semester, because one pays additionally the health insurance.
+In case you have received the exemption scholarship, the amount will automatically be removed from your tuition bill on the *Portail étudiant* (Student Portal) and you just need to pay the rest.
 
 ---
 
-### 10. Register to a class
-Each semester, you have to register for a course. To do so, send an email to [Biology Department email address](cyclesupbiologie@uqam.ca) (cyclesupbiologie@uqam.ca) with the code for the course.
+### 11. Register to a class
+Each semester, you have to register for a course. To do so, send an email to [Biology Department email address](mailto:cyclesupbiologie@uqam.ca) (<cyclesupbiologie@uqam.ca>) with the code for the course.
 
 #### Master
 A Master's in Biology (3440) degree requires four courses (12 credits): Two mandatory and two of choices from multiple offered courses.
@@ -233,7 +239,14 @@ Mandatory courses:
 * BIO8501 Methodology in biology
 * BIO8071 Research seminar
 
-For more information about the courses offered, visit the website for Master's in Biology program [3440](https://etudier.uqam.ca/programme?code=3440)
+For more information about the courses offered at UQÀM, visit the website for Master's in Biology program [3440](https://etudier.uqam.ca/programme?code=3440)
+
+To find courses offer by other universities (McGill, UdeM, Concordia), here are three steps to register and get credit for the course:
+(1) You can search for offered courses on the [BCI flatform](https://mobilite-cours.crepuq.qc.ca/4DSTATIC/ENAccueil.html) (formerly known as CREPUQ). Under *'URL links to Québec Universities'*, you can find *'Course offerings'* that will prompt you to select a university that you want to find courses from. 
+(2) After selecting the course that you want and consulting with your director that this course fits your study plan, send an email to the [Biology Department](mailto:cyclesupbiologie@uqam.ca) to register it: include the course code and a link to the course description. 
+(3) You will then be instructed to register for the class via the [BCI flatform](https://mobilite-cours.crepuq.qc.ca/4DSTATIC/ENAccueil.html). Under *'You can access the system as:'*, select *'Student'*. Go through the questions and fill out the fields in one-go because this will not allow you to save and return later.
+
+> Tips: Most courses at McGill and Concordia are taught in English, and even some special courses at UdeM. The best way to be sure is to contact the course instructor before register for it.
 
 Other courses:
 
@@ -258,7 +271,7 @@ Be aware that Human resources and Teaching are taught in French. Both courses al
 
 ---
 
-### 11. Scholarships
+### 12. Scholarships
 You can apply to several scholarships after you have been admitted to UQÀM as an international student.
 
 * [Vanier](https://vanier.gc.ca/)
@@ -271,7 +284,7 @@ There are several smaller scholarships from UQÀM. Check each semseter what scho
 
 ---
 
-### 12. Health insurance
+### 13. Health insurance
 You will get a health insurance card by e-mail once you’ve paid your first tuition. It is a private insurance provided by **Desjardins**. You can check what is covered in [this leaflet](https://vie-etudiante.uqam.ca/medias/fichiers/vous-etes_etudiant-etranger/Q178_en_br_Foreign_University_Students.pdf). As a foreign student, you do not have access to the Québec insurance called *RAMQ* (except a few exemption countries such as France and Belgium).
 
 Usually, the insurance card will be sent to you within a month after paying the tuition. However, this means that you're not covered by an insurance until you have your card. Make sure to be covered by a travel insurance from your country of origin (e.g. [blue cross](http://www.bluecross.ca/en/index.html)) or take a private insurance (e.g. [Desjardins](https://www.desjardinslifeinsurance.com/en/individual-insurance/life-health-disability-insurance/health-disability-insurance/healthcare-insurance)) to live through this un-covered period without being worried constantly.
@@ -285,14 +298,14 @@ Unfortunately, we cannot have access to all the other insurances provided by ASE
 ---
 
 #### When you need to go to a doctor
-The system works here, that usually you need to go to a generalist first and get a referal to a specialist. So, usually people see their family doctor. It is hard to find a family doctor in Montréal, however, there are several walk-in clinics for people without a family doctor. Some walk-in clinics are without appointments (expect long waiting hours) or with appointment.
+How the system works here is that you usually need to go to a generalist first then get a referal to a specialist. So, people usually see their family doctor. It is hard to find a family doctor in Montréal, however, there are several walk-in clinics for people without a family doctor. Walk-in clinics are either without appointments (expect long waiting hours) or with appointment.
 
-To get an appointment in a walk-in clinic consult their homepage. Usually, you can only get an appointment for the next day. Most clinics use an appointment system called *‘Bonjour-Santé’*. Whenever you need to provide your RAMQ information insert ‘XXXXDDMMYYYY’ instead, where DDMMYYYY is replaced by your birth date. And you can provide any date in the future for the expiration date. You will have to pay a fee for your appointment, which can vary by clinic. Make sure to call and ask before.
+To get an appointment in a walk-in clinic consult their homepage. Usually, you can only get an appointment for the next day. Most clinics use an appointment system called *‘Bonjour-Santé’*. Whenever you need to provide your RAMQ information insert ‘XXXXDDMMYYYY’ instead, where DDMMYYYY is replaced by your birth date. And you can provide any date in the future for the expiration date. You will have to pay a fee for your appointment, which can vary by the clinic. Make sure to call and ask before going.
 
-To give you an example:
+Some examples of clinics in Montréal:
 
 * [Forcemedic clinics](https://www.forcemedic.com/)
-  (Payment: $160, Appointment registration start: 7 pm the day before)
+  (Payment: CAD$160, Appointment registration start: 7 pm the day before)
 * [Clinique 1851](https://l.facebook.com/l.php?u=https%3A%2F%2Fbonjour-sante.ca%2FTriathlon%2F%3Ffbclid%3DIwAR3yjRyvwA-1nCvhfYWK1_SrOLrsKW8FLqyzRfq8wXWheW15K47fVSMZ81Q%23%2Fidentification%2F1851&h=AT3eQ9dsRykT4e77GQvh1BgOaPgMRisjhPshA7ox6CH8Bs7xjw-1V2aUhZvyE6T7DhoUyT7qNJLt377roOL7ygnQTheeAZR7Z-QjYFzXQfoqbmhDlhGuaQis1us) (Payment: ?, Appointment registration start: 8 pm the day before)
 * **Clinique Dentaire Villeray**: Dentist who gives students 30% off. The student dental insurance covres 70%, thus your dental visit becomes free (e.g. cleaning once a year)! Located at: 57 Rue Villeray, Montréal, QC H2R 1G2
 
@@ -308,33 +321,35 @@ One of them is:
 
 ---
 
-### 13. Travel insurance
+### 14. Travel insurance
 Be aware that the Desjardins insurance *does not* cover you for more than **14 days** of travel outside of Canada, U.S. or your home country. Whenever you go somewhere else or more than 14 days within those three countries make sure to get a separate travel insurance. Internships in a foreign country that are recognised by the university are covered up to **120 days**.
 
 We **cannot** apply for most of the travel insurance because we do not have the *RAMQ* (e.g. blue cross etc). Find an international travel insurance such as [April](https://www.april.ca/) or [IMG](https://www.imglobal.com/?gclid=CjwKCAiA6bvwBRBbEiwAUER6JQQLPD5IGwkprlG7gY2alZ1CXagiqUcVEy5FpmXOtS6UnyqehiTy3xoCrQMQAvD_BwE).
 
 ---
 
-### 14. Driving licence
+### 15. Driving licence
 Students are allowed to use the driving license of their origin of country as long they have an official translation of it if it is not indicated in French or English. For more information, check the [SAAQ](https://saaq.gouv.qc.ca/).
 
 Whenever you are driving, make sure to have your original driving licence, your translation and your UQÀM student card with you. You need to be able to proof that you're a student in order to drive with your original (non-Québecois) driving licence.
 
 ---
 
-### 15. Extending your study permit
+### 16. Extending your study permit
 Depending on how long your first permit is valid, you will need to apply for a study permit extension. Processing times may be longer than your initial study permit waiting period.
 
 The process is almost the same. You will need to first apply for a CAQ. After you have received the CAQ you can apply to the study permit extension.
 Documents are almost the same. Such as photograph, letter from your supervisor for financial support etc. You will need to provide the number of your previous study permit, too.
 
-Additionally, you will need to ask UQÀM for documents to prove that you are a student. Visit the registrary to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you all you need. You will have to pay for the documents (~$35). Make sure to scan your UQÀM documents. You will need to send the original documents for the CAQ application, but the study permit only requires the electronic scan.
+Additionally, you will need to ask UQÀM for documents to prove that you are a student. Visit the registrary to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you all you need. You will have to pay for the documents (~CAD$35). Make sure to scan your UQÀM documents. You will need to send the original documents for the CAQ application, but the study permit only requires the electronic scan.
 
-> **Tip**: Whenever you renew your study permit, you need to update your social insurance number after you have received your new study permit!
+A useful resource at UQAM is the [International Student Office](vie-etudiante.uqam.ca/etudiant-etranger) or contact one of their staff members about upcoming events/workshops on how to extend your study permit ([Yannick Richer](mailto:richer.yannick@uqam.ca))
+
+> **Tip**: Whenever you renew your study permit, you need to visit the Social Insurance Number office to update them with your new permit to keep your SIN status up-to-date!
 
 ---
 
-### 16. Implicit status
+### 17. Implicit status
 If you have applied to a permit extension, but did not receive your permit before your old permit expires, you will fall into an implicit status.
 
 You cannot leave the country during this time. You will get out, but you will not be able to come back to Canada without a valid permit. Additionally, you will not be covered by your health insurance during this period.
@@ -345,7 +360,8 @@ Additionally, you may not be able to receive your stipend.
 
 # Post-docs (and research internship)
 ## Before arrival
-### UQÀM
+
+### 1. UQÀM
 Before you can apply to the work permit, you need a LMIA **exemption number** from UQÀM. Our research agent Alice will help you through the process, however, if you have any questions regarding the registration process contact:
 
 * Post-docs: [Stagiaires postdoctoraux Faculté des sciences](<mailto:stagesfs_postdoc@uqam.ca>)
@@ -353,17 +369,17 @@ Before you can apply to the work permit, you need a LMIA **exemption number** fr
 
 ---
 
-### Work permit
+### 2. Work permit
 You will need to apply for a **work permit**. Application for a work permit depends largely on which country you are from. Consult the website of the [Government of Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/work-permit-types.html) for further instructions.
 
-For sure is, you will have to pay around $155 and processing times vary depending on where you apply from. Check processing times [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html).
+For sure is, you will have to pay around CAD$155 and processing times vary depending on where you apply from. Check processing times [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html).
 
 As an academic, you are eligible for an *employer-specific work* permit.
 
 Before you submit your work permit application, your employer must:
 
 * submit an offer of employment to Immigration, Refugees and Citizenship Canada,
-* pay a $230 employer compliance fee, and
+* pay a CAD$230 employer compliance fee, and
 * provide you with an offer of employment number
 
 **Note**: When you complete your work permit application, select “Exemption from Labour Market Impact Assessment” as the type of work permit in the “Details of intended work in Canada” section.
@@ -380,7 +396,7 @@ You may need to do medical exams and get police certificates depending on your c
 
 ---
 
-### Bringing a partner
+### 3. Bringing a partner
 If you and your partner have decided to move together to Montréal, he/she needs to apply for an **open** work permit. This application is also exempted from the CAQ.
 
 The most advisable thing to do is to apply together for both work permits at the same time. This can be easily done by the main applicant – the person applying for the **specific** work permit - by adding their partner when applying. By doing this, the main applicant will be leading both applications and will need to add some documents to its own application and also some documents will be asked for the partner's application. 
@@ -392,14 +408,14 @@ The documents that will be added to the main applicants' **specific** work permi
     * Married couples: Marriage certificate
     * Un-married couples: Proof of living together at least for a year
     
-For the **open** permit of the partner, you will need a
+For the **open** permit of the partner, you will need:
 
 * passport photograph
 * other short forms
 
 The system seems to be pretty open to these joint applications. However, the more labour intensive application will be for the main applicant as you have to provide many more letters for the application of the **specific** work permit.
 
-Such kind of a joint application will cost approximately $450 in total, including the permits and any other fees associated to it.
+Such kind of a joint application will cost approximately CAD$450 in total, including the permits and any other fees associated to it.
 
 ---
 
@@ -435,7 +451,7 @@ Check further information [here](https://www.canada.ca/en/employment-social-deve
 
 ---
 
-### 2. Open bank account
+### 2. Open a bank account
 One of the most important things is to get a bank account to receive your first payment. Consult our section on [banks](#banks) if you need any information about what kind of banks are here in Montréal.
 
 ---
@@ -468,14 +484,14 @@ Be aware that you will have to wait more than 14 days to receive your insurance 
 ---
 
 #### When you need to go to a doctor
-The system works here, that usually you need to go to a generalist first and get a referal to a specialist. So, usually people see their family doctor. It is hard to find a family doctor in Montréal, however, there are several walk-in clinics for people without a family doctor. Some walk-in clinics are without appointments (expect long waiting hours) or with appointment.
+How the system works here is that you usually need to go to a generalist first then get a referal to a specialist. So, people usually see their family doctor. It is hard to find a family doctor in Montréal, however, there are several walk-in clinics for people without a family doctor. Walk-in clinics are either without appointments (expect long waiting hours) or with appointment.
 
-To get an appointment in a walk-in clinic consult their homepage. Usually, you can only get an appointment for the next day. Most clinics use an appointment system called *‘Bonjour-Santé’*. Whenever you need to provide your RAMQ information insert ‘XXXXDDMMYYYY’ instead, where DDMMYYYY is replaced by your birth date. And you can provide any date in the future for the expiration date. You will have to pay a fee for your appointment, which can vary by clinic. Make sure to call and ask before.
+To get an appointment in a walk-in clinic consult their homepage. Usually, you can only get an appointment for the next day. Most clinics use an appointment system called *‘Bonjour-Santé’*. Whenever you need to provide your RAMQ information insert ‘XXXXDDMMYYYY’ instead, where DDMMYYYY is replaced by your birth date. And you can provide any date in the future for the expiration date. You will have to pay a fee for your appointment, which can vary by clinic. Make sure to call and ask before going.
 
-To give you an example:
+Some examples of clinics in Montréal:
 
 * [Forcemedic clinics](https://www.forcemedic.com/)
-  (Payment: $160, Appointment registration start: 7 pm the day before)
+  (Payment: CAD$160, Appointment registration start: 7 pm the day before)
 * [Clinique 1851](https://l.facebook.com/l.php?u=https%3A%2F%2Fbonjour-sante.ca%2FTriathlon%2F%3Ffbclid%3DIwAR3yjRyvwA-1nCvhfYWK1_SrOLrsKW8FLqyzRfq8wXWheW15K47fVSMZ81Q%23%2Fidentification%2F1851&h=AT3eQ9dsRykT4e77GQvh1BgOaPgMRisjhPshA7ox6CH8Bs7xjw-1V2aUhZvyE6T7DhoUyT7qNJLt377roOL7ygnQTheeAZR7Z-QjYFzXQfoqbmhDlhGuaQis1us) (Payment: ?, Appointment registration start: 8 pm the day before)
 * **Clinique Dentaire Villeray**: Dentist who gives students 30% off. Maybe they will give post-docs discounts, too? Maybe worth a try.
 
@@ -486,7 +502,7 @@ Once you have a registration number, as a post-doc and research intern, you get 
 
 ---
 
-### 6. Access to UQÀM mail
+### 6. Access to UQÀM email
 ?
 
 ---
@@ -534,17 +550,17 @@ You cannot leave the country during this time. You will get out, but you will no
 ---
 
 # Universal
-## Wi-fi at UQÀM
+## 1. Wi-fi at UQÀM
 Depending on what device your using, the set-up of wi-fi will differ. Essentially, you will be using **eduroam**. Follow the instructions provided [here](https://servicesinformatiques.uqam.ca/services/R%C3%A9seau%20sans%20fil). There is a section for each operating system (e.g. Windows, Mac, Android, iPhone etc.).
 
 If you have trouble with connecting to the wifi when you just arrive, contact Alice Parkes or Sara Mercier-Blais for a temporary visitor wifi login before you can connect to eduroam.
 
 ---
 
-## Access to labs and keys
+## 2. Access to labs and keys
 
-We have several labs that are shared among the universities at UQÀM. To get access to the labs, get the key **NE 91** from Katherine ($5 deposit in cash).
-You can also get keys to other labs and offices. Our key manager, Sylvie Guilbeault, is located in the RC floor of the SB-building (SB-R860). Usually, a deposit of around $10 (in cash) for each key is necessary. You will get this money back, once you give the key back.
+We have several labs that are shared among the universities at UQÀM. To get access to the labs, get the key **NE 91** from Katherine (CAD$5 deposit in cash).
+You can also get keys to other labs and offices. Our key manager, Sylvie Guilbeault, is located in the RC floor of the SB-building (SB-R860). Usually, a deposit of around CAD$10 (in cash) for each key is necessary. You will get this money back, once you give the key back.
 
 Some labs/rooms have calendars to manage it's usage:
 
@@ -560,31 +576,31 @@ Other equipment/trucks that are based on reservation can be found [here](https:/
 
 ---
 
-## Group communication
-We have a slack workspace to share information between all the group members of Paul and Yves' labs. Ask anyone in the group upon arrival to send you an invitation.
+## 3. Group communication
+We have a Slack workspace to share information between all the group members of Paul and Yves' labs. Ask anyone in the group upon arrival to send you an invitation.
 
-On the more private note, we also have a Whatsapp group to communicate among students and post-docs. Again ask to be joined!
-
----
-
-## Freely available software
-There is a suit of software that you can access through UQÀM (e.g. JMP, SPSS etc.). To see which programs you can download check [here](https://servicesinformatiques.uqam.ca/services/Laboratoire%20virtuel). You can log-in to the  [*virtual lab*](https://www.bureauvirtuel.uqam.ca/Citrix/XenAppSitel/site/default.aspx) to download the software.
-
-To get access to **ArcGIS** send an email to [geolab@uqam.ca](<mailto:geolab@uqam.ca>) to ask for the instructions.
-
-Other universally open-access software are [R](https://www.r-project.org/) for statistical computing, [QGIS](https://qgis.org/en/site/) for maps and geographical computing and [Mendeley](https://www.mendeley.com/?interaction_required=true) for organising your references.
+On the more private note, we also have a Whatsapp group to communicate among students and post-docs. Again, ask to join!
 
 ---
 
-## Access to publications
+## 4. Freely available software
+There are various softwares that you can access through UQÀM (e.g. JMP, SPSS etc.). To see which programs you can download, check [here](https://servicesinformatiques.uqam.ca/services/Laboratoire%20virtuel). You can log-in to the  [*virtual lab*](https://www.bureauvirtuel.uqam.ca/Citrix/XenAppSitel/site/default.aspx) to download the software.
+
+To get access to **ArcGIS** send an email to [geolab@uqam.ca](<mailto:geolab@uqam.ca>) to ask for the academic lisence and installation instructions.
+
+Other universally open-access software are [R](https://www.r-project.org/) for statistical computing, [QGIS](https://qgis.org/en/site/) for maps and geographical computing, and [Mendeley](https://www.mendeley.com/?interaction_required=true) or [Zotero](https://www.zotero.org/) for organising your references.
+
+---
+
+## 5. Access to publications
 Only employees can access the UQÀM VPN (due to security reasons). 
 
 For students and post-docs, if you need to get access to papers:
 
-1. **At UQÀM**:
+a. **At UQÀM**:
 If you're using the Wi-fi of the university, you will be automatically directed to the UQÀM library services when downloading papers.
 
-2. **Outside of UQÀM**:
+b. **Outside of UQÀM**:
 You need to set up a link to the UQÀM library in your browser. Refer to instructions [here](https://bibliotheques.uqam.ca/ressources-electroniques/).
 
 You will be asked for your *code MS* and *password* every time you access a non open-access resource.
@@ -595,8 +611,8 @@ Some journals are not accessible through our university. Then [*Sci-hub*](sci-hu
 
 ---
 
-## Seminars
-We have two regular seminars every week. Departmental ecology seminars on Wednesdays and a limnology seminar on Fridays. Both at 12:15 pm, bring your lunch.
+## 6. Seminars
+We have two regular seminars every week: a departmental ecology seminars on Wednesdays and a limnology seminar on Fridays. Both at 12:15 pm, so bring your lunch.
 
 Here are the mailing lists for both seminars:
 
@@ -612,12 +628,12 @@ Additionally, our laboratories are part of an interuniversity limnology society 
 
 ---
 
-## GRIL member
-We are part of an interuniversity limnology research group called [GRIL](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=543). And usually every student and post-doc joins this society. We also have an **Annual symposium** around March and a **student workshop** in autumn called ÉcoLac.
+## 7. GRIL member
+We are part of an interuniversity limnology research group called [GRIL](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=543). Typically, every student and post-doc joins this society. GRIL also organizes an **Annual symposium** around March and a **student workshop** in autumn called ÉcoLac.
 
 If you arrive in spring or autumn, make sure to ask your colleagues if these events are happening soon, to not miss the registration period. The GRIL Symposium usually takes place *mid March* and the ÉcoLac workshop in the *end of October/beginning of November*. 
 
-To join the GRIL access the [Intranet](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=5451). The password is *GRILdoc*. Go to "Application form for GRIL student membership" and fill in the necessary information.
+To join the GRIL access the [Intranet](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=5451). The password is *GRILdoc*. Go to "Application form for GRIL student membership" and fill in the necessary information. Membership is free for students.
 
 In the Intranet you will also find information on the various scholarships and travel awards that the GRIL offers.
 
@@ -627,7 +643,7 @@ Contact [Kahterine Velghe](<mailto:velghe.katherine@uqam.ca>) for any further in
 
 ---
 
-## Expense Reports
+## 8. Expense Reports
 Whenever you go to a conference or spend money during a research activity (e.g. attending workshops or internships), you need to file expense reports. Make sure to keep all your receipts. 
 
 The expense report form 'rapport de dépenses' is used for requesting an advance before your trip or requesting a reimbursement after your trip. The paper form has a unique number and you can get one from Alice or from the secretary, Sylvie Guilbeault, in SB-R860, but here’s an [example](https://servicesfinanciers.uqam.ca/uploads/files/Laniel_P/SF-070.PDF).
@@ -637,8 +653,6 @@ Fill out the first three sections of the report and sign in the tiny space in th
 >If you don't have enough money in your private bank account to pay for large amounts such as a plane ticket to a conference location, you can ask for an advance payment or book the plane ticket through a travel agency that UQÀM uses.
 
 > Keep in mind that advances come fairly quickly, but the other types of expense reports take 4 weeks to process from the time they arrive at financial services.
-
----
 
 ### Detailed instructions
 
@@ -695,10 +709,10 @@ For any reimbursements on FQRNT or NSERC grants, you will need to re-summarise a
 
 ---
 
-## Taxes
-Once a year everyone has to file income taxes.
+## 9. Taxes
+Once a year, everyone has to file income taxes.
 
-While students do not have to pay income taxes, it is advised to file the taxes every year. You will get some money every year and if you plan to stay afterwards in Québec, you will even get more money back.
+While students do not have to pay income taxes, it is advised to file the taxes annually. You will get some money every year and if you plan to stay afterwards in Québec, you will even get more money back.
 
 ---
 
@@ -740,11 +754,13 @@ Other helpful links:
 ---
 
 ### Post-docs
-?
+Helpful links:
+
+[Quebec tax exemption for post-docs](http://www4.gouv.qc.ca/fr/Portail/citoyens/programme-service/Pages/Info.aspx?sqctype=sujet&sqcid=412)
 
 ---
 
-## French classes
+## 10. French classes
 Since 2019, students are also allowed to take French classes offered for free by the Government. Those classes are usually intense (three days a week) and get full very quickly. Check the [website](https://www.immigration-quebec.gouv.qc.ca/en/french-language/index.html) and register early enough.
 
 Other schools that are relatively affordable:
@@ -759,7 +775,18 @@ If your French level is already more advanced. There are advanced courses offere
 
 ---
 
-## Other resources
+## 11. Mental health support
+Whenever you need some additional support, here are some resources to for you get started on finding the help you need.
+
+Resources from UQAM: Go to [Services a la vie etudiante](https://vie-etudiante.uqam.ca/nous-contacter/coordonnees-horaire.html#soutien-psychologique) (Student Life Services) and under the tab "Soutien Psychologique" (Psychological support), you'll find the [request form for support and consultation](https://forms.office.com/Pages/ResponsePage.aspx?id=Gk7LEtpCHEmQ4Xp6l1NQb2zuGeD6ebBFnn6fs42pcL5UQTI1VExINDk0V0VLN09FOFBLNTRFR1ExQyQlQCN0PWcu) (if you would like to be communicated in English, make sure to specify that in the form). From here, you will be contact by a staff member from UQAM Services-conseils (Advisory Services). 
+The staff from UQAM Advisory Services will be in contact with you and connect you to the services you need that works for your budget.
+
+The average cost is CAD$82-100 per session.
+Note: *Dejardins Insurance* currently offer CAD$500 deductible per coverage year, with the maximum of CAD50 applied per visit.
+
+---
+
+## 12. Other resources
 ### At UQÀM
 * Food court in the PK-building (is not particularly cheap)
 * [Fractal](http://aessuqam.org/Cafe-Fractal) (Student coffee shop in the SH-building)
@@ -774,6 +801,8 @@ There are many banks out there, here are some banks that lab members are using a
 * [Scotiabank](https://www.scotiabank.com/ca/en/personal.html)
   *Why*: Provides free credit card for students. Has point system to get free movies.
   
+* [TD Bank](https://www.td.com/us/en/personal-banking/)
+
 * ?
 
 ---
@@ -815,7 +844,7 @@ If you are bringing a phone from abroad, make sure to check whether your phone c
 * [Bulk Barn](http://www.bulkbarn.ca/en/Home) get un-packaged food.
 * [PA Supermarché](supermarchepa.com) cheaper vegetables and cheese.
 * Segal's market
-* Provigo close to UQÀM has a point system called PC optimum. Students get 20% points on any purchase from Mon-Wed. If you do all your groceries there, you can get $10-20 cash back each month.
+* Provigo close to UQÀM has a point system called PC optimum. Students get 20% points on any purchase from Mon-Wed. If you do all your groceries there, you can get CAD$10-20 cash back each month.
 * [Winners](https://www.winners.ca/en) Clothes outlet stores
 * Dollarama: Dollar store, not best quality but gets you what you need.
 * Canadian Tire: Not cheap, but has all necessary things from gardening, kitchen ware to making your own bathroom.
