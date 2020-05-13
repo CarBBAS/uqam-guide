@@ -132,10 +132,25 @@ It should say in your acceptance letter what documents you need. Bring **three c
 
 ---
 
-### 4. Sign stipend form
-Once the main things have been settled ask Alice (for Paul’s students) or Yves to sign the form to receive your stipend. It can take more than a month until you receive your first payment!
-You can sign up for direct deposit [here](https://www.rhu.uqam.ca/index.aspx?id=p710).
+### 4. Submit stipend form
+Once the main things have been settled, fill out form "Demande de Versement de Bourse" (Scholarship Payment Request). 
+**Physically**, you can find this form in the biology department room in PK building, then ask Alice Parkes (for Paul’s student) or Yves Prairie to sign the form to receive your stipend, and submit it to the same biology office that you get the form from. 
+**Virtually**, you can send your personal information in an email from your UQAM email address to your director so that they can forward this request to Financial services.
 
+Information/Documents you need to submit the stipend form:
+
+* A photocopy/scan of your study permit
+* A photocopy/scan of the first page your passport
+* Full name
+* Social Insurance Number (SIN)
+* UQAM Permanent code
+* DOB
+* Current address with postal code
+* Phone number
+
+>It can take more than a month (typically five weeks) until you receive your first payment!
+
+You can sign up for direct deposit [here](https://www.rhu.uqam.ca/index.aspx?id=p710).
 Proceed as *‘Sans nom d’utilisateur (code MS)’*. It may not work at first if your SIN is not registered with the UQÀM registrariat yet.
 
 ---
@@ -145,7 +160,7 @@ Get a student card to get access to student benefits and the gym. Make sure to b
 
 ---
 
-### 6. UQÀM Online Portal for students
+### 6. Access UQÀM Online Portal for students
 There is an [online portal](https://portailetudiant.uqam.ca/) where we have all the necessary information that we need (tuition to be paid, courses etc.). To access this you will need:
 
 * Code permanent (should be in your acceptance letter or when you applied online)
@@ -208,7 +223,7 @@ Make sure to provide your *‘Code de paiement’* listed at the beginning of th
 ---
 
 ### 10. Register to a class
-Each semester, you have to register for a course. To do so, send an email to [Cécile Poirier](<mailto:cyclesupbiologie@uqam.ca>) with the code for the course.
+Each semester, you have to register for a course. To do so, send an email to [Biology Department email address](cyclesupbiologie@uqam.ca) (cyclesupbiologie@uqam.ca) with the code for the course.
 
 #### Master
 A Master's in Biology (3440) degree requires four courses (12 credits): Two mandatory and two of choices from multiple offered courses.
@@ -365,7 +380,7 @@ You may need to do medical exams and get police certificates depending on your c
 
 ---
 
-#### Bringing a partner
+### Bringing a partner
 If you and your partner have decided to move together to Montréal, he/she needs to apply for an **open** work permit. This application is also exempted from the CAQ.
 
 The most advisable thing to do is to apply together for both work permits at the same time. This can be easily done by the main applicant – the person applying for the **specific** work permit - by adding their partner when applying. By doing this, the main applicant will be leading both applications and will need to add some documents to its own application and also some documents will be asked for the partner's application. 
@@ -431,7 +446,6 @@ Visit Alice after you got your SIN and a bank account to fill the registration f
 ---
 
 ### 4. Health insurance
-
 As a post-doc or temporary research intern (have a specific work permit) you can apply to the provincial health insurance called **RAMQ** (Régie de l'assurance maladie du Québec). This is a free medical insurance offered by Québec but covers you across Canada. You will get free assistance in specific medical centers but, unless an emergency occurs, you will need to wait many hours to be attended.
 
 To obtain the RAMQ card, you need to personally assist to:
@@ -523,7 +537,7 @@ You cannot leave the country during this time. You will get out, but you will no
 ## Wi-fi at UQÀM
 Depending on what device your using, the set-up of wi-fi will differ. Essentially, you will be using **eduroam**. Follow the instructions provided [here](https://servicesinformatiques.uqam.ca/services/R%C3%A9seau%20sans%20fil). There is a section for each operating system (e.g. Windows, Mac, Android, iPhone etc.).
 
-In case you have troubles setting up **eduroam** you can ask Alice or Sara to get you a temporary visitor access.
+If you have trouble with connecting to the wifi when you just arrive, contact Alice Parkes or Sara Mercier-Blais for a temporary visitor wifi login before you can connect to eduroam.
 
 ---
 
