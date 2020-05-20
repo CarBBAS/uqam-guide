@@ -7,4 +7,11 @@ The staff from UQAM Advisory Services will be in contact with you and connect yo
 The average cost is CA$D82-100 per session.
 Note: *Dejardins Insurance* currently offer CAD$500 deductible per coverage year, with the maximum of CAD$50 applied per visit.
 
-#
+# Budget and living expenses
+
+## Before arrival
+Fee Amount Method of payment
+UQAM admission fee CAD$126 credit card
+
+
+## After arrival

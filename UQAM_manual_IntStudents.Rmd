@@ -17,7 +17,7 @@ Welcome! You are joining UQÀM and you are heading towards an adventure to live 
 
 # Students
 ## Before arrival
-Here are some things that you will need to do before arriving in Canada:
+Here are some things that you will need to do before arriving in Canada (if you want keep in mind your budget, look this section on [our estimate](#budget))
 
 ### 1. UQÀM registration
 To register to UQÀM, you have to fill in several forms. Now, you can also apply online instead of sending the documents by post!
@@ -786,7 +786,15 @@ Note: *Dejardins Insurance* currently offer CAD$500 deductible per coverage year
 
 ---
 
-## 12. Other resources
+## 12. Budget and living expenses {#budget}
+### Before arrival
+
+### After arrival
+
+
+---
+
+## 13. Other resources
 ### At UQÀM
 * Food court in the PK-building (is not particularly cheap)
 * [Fractal](http://aessuqam.org/Cafe-Fractal) (Student coffee shop in the SH-building)
