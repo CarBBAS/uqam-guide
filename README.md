@@ -46,3 +46,4 @@ In no particular order:
 
 * Masumi Stadler - `@masumistadler`
 * Indigo Tran - `@indigotran`
+* Sofia Baliña
