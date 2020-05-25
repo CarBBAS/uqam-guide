@@ -1,11 +1,14 @@
 ---
 title: "A beginner's guide to UQÀM and Canada"
 author: "CarBBAS"
-date: "Last updated on: 13 May 2020"
+date: 'Last updated on: 13 May 2020'
 output:
   html_document:
-    toc: true
+    toc: yes
     toc_depth: 3
+  pdf_document:
+    toc: yes
+    toc_depth: '3'
 ---
 
 ---

@@ -38,7 +38,7 @@ Here is a list of softwares/tools that you will need to open and work with the f
 | --------------- |:---------------------------:| -------------------:|
 | R / RStudio     |The most up-to-date version of R / RStudio| .Rmd; .Rproj        |
 | A web browser   | Google Chrome               | .html               |
-| A text editor   | Atom :atom: or Visual Studio Code  | .md                 |
+| A text editor   | Atom :atom: or Visual Studio Code  | .md ; .txt                |
 
 
 # List of contributors 
@@ -47,3 +47,4 @@ In no particular order:
 * Masumi Stadler - `@masumistadler`
 * Indigo Tran - `@indigotran`
 * Sofia Baliña
+* Pascal Bodmer
