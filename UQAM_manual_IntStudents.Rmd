@@ -183,7 +183,11 @@ You will need your:
 * Code permanent
 * NIP
 
-Log-in to your UQÀM microsoft account [here](https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&protectedtoken=true&domain_hint=uqam.ca&nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ). The password is the *first three letters of your surname in captial + NIP* (e.g. UQA00000).
+Log-in to your UQÀM microsoft account [here](https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&protectedtoken=true&domain_hint=uqam.ca&nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ). 
+
+Your email login should be in the form of `MScode@ens.uqam.ca`.
+
+The password is the *first three letters of your surname in captial + NIP* (e.g. UQA00000).
 
 ---
 
@@ -460,7 +464,19 @@ One of the most important things is to get a bank account to receive your first 
 ---
 
 ### 3. Registration
-Visit Alice after you got your SIN and a bank account to fill the registration form and get a registration number.
+You have to register as a post-doc at QUAM and there are several forms that needed to be filled out. After you got your SIN and a bank account, you can visit Alice to get help filling the registration form and get a registration number. In addition to the registration form, you will need to submit:
+
+* Curriculum vitae
+* Diploma(s)
+* Passport
+* Work permit
+* SIN (Social Insurance Number)
+* RAMQ (and a copy of the card when you receive it in a few months)
+* Personal Insurance for the waiting period of 3 months;
+* Birth certificate mentioning the names of both your parents. If you cannot produce this document, we can send you a solemn declaration (it's in French though);
+* Check specimen or baking info
+
+Once the registration is confirmed, you will received an email with the confirmation along with your MS code and NIP (Numéro d'identification personnel).
 
 ---
 
@@ -506,7 +522,11 @@ Once you have a registration number, as a post-doc and research intern, you get 
 ---
 
 ### 6. Access to UQÀM email
-?
+You will receive an email with your **MS code** and **NIP** once your registration is completed. You will need both your **MS code** and **NIP** to access your email.
+
+Log-in to your UQÀM microsoft account [here](https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&protectedtoken=true&domain_hint=uqam.ca&nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ).
+
+Your email address should be in the form of `FirstName.LastName@uqam.ca`.
 
 ---
 
@@ -575,7 +595,7 @@ Some labs/rooms have calendars to manage it's usage:
 
 Make sure to follow the calendar. Usually, it's first come first serve but if you have urgent schedules ask the people if they can reschedule for you.
 
-Other equipment/trucks that are based on reservation can be found [here](https://gril.uqam.ca/reservations/).
+Other equipment/trucks/meeting room that are based on reservation can be found [here](https://gril.uqam.ca/reservations/).
 
 ---
 
@@ -592,6 +612,9 @@ There are various softwares that you can access through UQÀM (e.g. JMP, SPSS et
 To get access to **ArcGIS** send an email to [geolab@uqam.ca](<mailto:geolab@uqam.ca>) to ask for the academic lisence and installation instructions.
 
 Other universally open-access software are [R](https://www.r-project.org/) for statistical computing, [QGIS](https://qgis.org/en/site/) for maps and geographical computing, and [Mendeley](https://www.mendeley.com/?interaction_required=true) or [Zotero](https://www.zotero.org/) for organising your references.
+
+To obtain a free [Zoom Pro account](https://audiovisuel.uqam.ca/services-offerts/zoom/) through UQAM, you will need your **MS code** and **user password**. Click [here](https://uqam.zoom.us/) to create an account. 
+When you have Zoom installed on your computer, select *'Sign In with SSO'*, type in *'uqam.zoom.us'* as the company domain, and you will be redirected to login with your MS code and password.
 
 ---
 
@@ -813,6 +836,7 @@ There are many banks out there, here are some banks that lab members are using a
   *Why*: Provides free credit card for students. Has point system to get free movies.
   
 * [TD Bank](https://www.td.com/us/en/personal-banking/)
+  *Why*:
 
 * ?
 
@@ -820,6 +844,7 @@ There are many banks out there, here are some banks that lab members are using a
 
 ### Internet providers
 Depending on what kind of apartment you move into, you will need to get internet or not. Make sure to ask your landord what kind of connections are available to the apartment. The main networks are Bell and Videotron. Make sure that you pick a network re-seller that uses the network that is connected to your apartment. To give an example, in my previous apartment, the landlord had a connection to the Videotron network ready to use (was located in the front street). I got a re-seller with Bell (network located in the back street), we had to drill a hole into the wall to get the Bell network inside the apartment. So, better ask your landlord beforehand, to get an easier solution!
+If you live in an apartment complex, you can also check with your neighbours or previous tenants for their recommendation.
 
 Here are some cheaper internet re-sellers:
 
