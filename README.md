@@ -48,3 +48,5 @@ In no particular order:
 * Indigo Tran - `@indigotran`
 * Sofia Baliña
 * Pascal Bodmer
+* Yudhistir Reddy
+* Bianca Rodriguez-Cardona
