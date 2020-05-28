@@ -866,6 +866,10 @@ There are many banks out there, here are some banks that lab members are using a
   
   *Why*: TD Bank also operates in the US, so if you want to have all your banking with one institution for both countries, TD makes it more convenient. You can also get a credit card by opening a saving account and the amount in the savings will be your credit line limit. Go with the student plan to avoid any bank fees.
   
+* [Desjardins](https://www.desjardins.com/ca/personal/)
+  
+  *Why*: Provides free credit card for students. It's easy to get a credit card for Post-docs, too (even for your spouse). Offers other insurances such as car and home insurance for a cheaper price if you have a bank account with them. ATM located within UQÀM building. 
+  
 * [Royal Bank of Canada (RBC)](https://www.rbcroyalbank.com/personal.html)
 
 * [Canadian Imperial Bank of Commerce (CIBC)](https://www.cibc.com/en/personal-banking.html)
@@ -874,16 +878,22 @@ There are many banks out there, here are some banks that lab members are using a
 
 * ?
 
+Many choose their bank due to its proximity to their apartment or university.
+The closest bank branch to UQÀM is probably National Bank, but most other banks are located within a 10-15 min walk radius.
+
+> Some banks have a limit of debit transactions. If you're a cash-less fanatic, make sure to go with a bank that has unlimited transactions.
+
 ---
 
 ### Internet providers
 Depending on what kind of apartment you move into, you will need to get internet or not. Make sure to ask your landord what kind of connections are available to the apartment. The main networks are Bell and Videotron. Make sure that you pick a network re-seller that uses the network that is connected to your apartment. To give an example, in my previous apartment, the landlord had a connection to the Videotron network ready to use (was located in the front street). I got a re-seller with Bell (network located in the back street), we had to drill a hole into the wall to get the Bell network inside the apartment. So, better ask your landlord beforehand, to get an easier solution!
-If you live in an apartment complex, you can also check with your neighbours or previous tenants for their recommendation.
+If you live in an apartment complex, you can also check with your neighbours or previous tenants for their recommendation. Or sometimes you could simply take over the internet provider of your previous tenant.
 
 Here are some cheaper internet re-sellers:
 
 * [Teksavvy](https://www.teksavvy.com/)
 * [Ebox](https://www.ebox.ca/en/)
+* [Virgin](https://www.virginmobile.ca/en/internet/index.html?province=QC)
 
 ---
 
@@ -891,7 +901,7 @@ Here are some cheaper internet re-sellers:
 Compared to other countries, getting cellular data is rather expensive. However, there are several cheaper options:
 
 * [Fido](https://www.fido.ca/) (runs on Rogers network)
-* [Fizz](https://fizz.ca/en) (runs on Videotron network)
+* [Fizz](https://fizz.ca/en) (runs on Videotron network) (some issues with receiving calls)
 * [Koodo](https://www.koodomobile.com/) (runs on Telus network)
 
 Deals change very frequently. Check what deals are offered from which company. It's all about timing!
@@ -930,3 +940,5 @@ For students/postdocs/interns coming from the US, you can also bring your phone 
 * [Salvation army](https://salvationarmy.ca/quebec/montreal-thrift-store-2/)
 
 There is a great ['cheap list'](https://www.mcgill.ca/studentaid/files/studentaid/cheap_sheet_march_2018.pdf) by McGill. Many things on the list are only for McGill students, but others are for everyone!
+
+---
