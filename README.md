@@ -10,6 +10,7 @@ This document (the README file) is a hub to give you some information about the 
 * [How to get involved](#how-you-can-get-involved)
 * [Tools to acces the project](#What-you-need-to-access-this-project)
 * [Who we are / List of contributors](#list-of-contributors)
+* [License](#license)
 
 # What are we doing
 We know that moving to a new country and starting over from stratch is a hard and confusing process. So we created this guide from the cummulative experience of the lab members who had themselves gone through these changes, and hope that these words can give you a good starting point on your journey here at UQÀM.
@@ -53,3 +54,8 @@ In no particular order:
 * Bianca Rodriguez-Cardona
 * Pedro Barbosa
 * Mathilde Couturier
+* Mario Muscarella
+
+# License
+
+The code and the information in this repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) License.
