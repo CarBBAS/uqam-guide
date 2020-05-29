@@ -576,8 +576,8 @@ In case your working permit ends before your actual end-of-contract (e.g. throug
 
 So when you realize that the processing time of your [work permit extension](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html) is longer than your current work permit, you have to inform Alice Parkes, provide the confirmation of your working permit extension application submission (from IRCC account), and the current processing time. This should allow UQÀM to assign you an implicit status and renew your contract beyond the expiring date of your current work permit. Whenever the (seemingly arbitrarily) period of your implicit status ends, you have to provide some more evidence, that “you are working on it”, meaning you have to contact IRCC (and provide the proof of that) and explain the situation to the UQÀM administration.
 
-You can decide to stay without health insurance if it is not too long or choose to take a private one (RAMQ needs a valid working permit to insure you).For example, Desjardins Insurance is providing one called
-“Visitor Insurance in Canada: Special Conditions” (~CAD$200/month). 
+You can decide to stay without health insurance if it is not too long or choose to take a private one (RAMQ needs a valid working permit to insure you). For example, Desjardins Insurance is providing one called
+[“Visitor Insurance in Canada: Special Conditions”](https://www.desjardins.com/ressources/pdf/b20-depliant-visiteurs-canada-e.pdf) (~CAD$200/month). 
 
 About leaving and re-entering Canada without a valid work permit, this is not very clear and there is the risk that one cannot re-enter Canada (this is up to the border control officer). Personal experience shows that it is no big deal, as long as the documents proving that the renewal process of the working permit is ongoing can be shown. But there remains a risk.
 
@@ -951,3 +951,11 @@ For students/postdocs/interns coming from the US, you can also bring your phone 
 There is a great ['cheap list'](https://www.mcgill.ca/studentaid/files/studentaid/cheap_sheet_march_2018.pdf) by McGill. Many things on the list are only for McGill students, but others are for everyone!
 
 ---
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
