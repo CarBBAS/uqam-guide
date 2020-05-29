@@ -52,3 +52,4 @@ In no particular order:
 * Yudhistir Reddy
 * Bianca Rodriguez-Cardona
 * Pedro Barbosa
+* Mathilde Couturier
