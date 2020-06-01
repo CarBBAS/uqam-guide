@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
 <meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -12,7 +13,7 @@
 <meta name="author" content="CarBBAS" />
 
 
-<title>A beginner’s guide to UQÀM and Canada</title>
+<title>A beginner’s guide to UQAM and Canada</title>
 
 <script>/*! jQuery v1.11.3 | (c) 2005, 2015 jQuery Foundation, Inc. | jquery.org/license */
 !function(a,b){"object"==typeof module&&"object"==typeof module.exports?module.exports=a.document?b(a,!0):function(a){if(!a.document)throw new Error("jQuery requires a window with a document");return b(a)}:b(a)}("undefined"!=typeof window?window:this,function(a,b){var c=[],d=c.slice,e=c.concat,f=c.push,g=c.indexOf,h={},i=h.toString,j=h.hasOwnProperty,k={},l="1.11.3",m=function(a,b){return new m.fn.init(a,b)},n=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,o=/^-ms-/,p=/-([\da-z])/gi,q=function(a,b){return b.toUpperCase()};m.fn=m.prototype={jquery:l,constructor:m,selector:"",length:0,toArray:function(){return d.call(this)},get:function(a){return null!=a?0>a?this[a+this.length]:this[a]:d.call(this)},pushStack:function(a){var b=m.merge(this.constructor(),a);return b.prevObject=this,b.context=this.context,b},each:function(a,b){return m.each(this,a,b)},map:function(a){return this.pushStack(m.map(this,function(b,c){return a.call(b,c,b)}))},slice:function(){return this.pushStack(d.apply(this,arguments))},first:function(){return this.eq(0)},last:function(){return this.eq(-1)},eq:function(a){var b=this.length,c=+a+(0>a?b:0);return this.pushStack(c>=0&&b>c?[this[c]]:[])},end:function(){return this.prevObject||this.constructor(null)},push:f,sort:c.sort,splice:c.splice},m.extend=m.fn.extend=function(){var a,b,c,d,e,f,g=arguments[0]||{},h=1,i=arguments.length,j=!1;for("boolean"==typeof g&&(j=g,g=arguments[h]||{},h++),"object"==typeof g||m.isFunction(g)||(g={}),h===i&&(g=this,h--);i>h;h++)if(null!=(e=arguments[h]))for(d in e)a=g[d],c=e[d],g!==c&&(j&&c&&(m.isPlainObject(c)||(b=m.isArray(c)))?(b?(b=!1,f=a&&m.isArray(a)?a:[]):f=a&&m.isPlainObject(a)?a:{},g[d]=m.extend(j,f,c)):void 0!==c&&(g[d]=c));return g},m.extend({expando:"jQuery"+(l+Math.random()).replace(/\D/g,""),isReady:!0,error:function(a){throw new Error(a)},noop:function(){},isFunction:function(a){return"function"===m.type(a)},isArray:Array.isArray||function(a){return"array"===m.type(a)},isWindow:function(a){return null!=a&&a==a.window},isNumeric:function(a){return!m.isArray(a)&&a-parseFloat(a)+1>=0},isEmptyObject:function(a){var b;for(b in a)return!1;return!0},isPlainObject:function(a){var b;if(!a||"object"!==m.type(a)||a.nodeType||m.isWindow(a))return!1;try{if(a.constructor&&!j.call(a,"constructor")&&!j.call(a.constructor.prototype,"isPrototypeOf"))return!1}catch(c){return!1}if(k.ownLast)for(b in a)return j.call(a,b);for(b in a);return void 0===b||j.call(a,b)},type:function(a){return null==a?a+"":"object"==typeof a||"function"==typeof a?h[i.call(a)]||"object":typeof a},globalEval:function(b){b&&m.trim(b)&&(a.execScript||function(b){a.eval.call(a,b)})(b)},camelCase:function(a){return a.replace(o,"ms-").replace(p,q)},nodeName:function(a,b){return a.nodeName&&a.nodeName.toLowerCase()===b.toLowerCase()},each:function(a,b,c){var d,e=0,f=a.length,g=r(a);if(c){if(g){for(;f>e;e++)if(d=b.apply(a[e],c),d===!1)break}else for(e in a)if(d=b.apply(a[e],c),d===!1)break}else if(g){for(;f>e;e++)if(d=b.call(a[e],e,a[e]),d===!1)break}else for(e in a)if(d=b.call(a[e],e,a[e]),d===!1)break;return a},trim:function(a){return null==a?"":(a+"").replace(n,"")},makeArray:function(a,b){var c=b||[];return null!=a&&(r(Object(a))?m.merge(c,"string"==typeof a?[a]:a):f.call(c,a)),c},inArray:function(a,b,c){var d;if(b){if(g)return g.call(b,a,c);for(d=b.length,c=c?0>c?Math.max(0,d+c):c:0;d>c;c++)if(c in b&&b[c]===a)return c}return-1},merge:function(a,b){var c=+b.length,d=0,e=a.length;while(c>d)a[e++]=b[d++];if(c!==c)while(void 0!==b[d])a[e++]=b[d++];return a.length=e,a},grep:function(a,b,c){for(var d,e=[],f=0,g=a.length,h=!c;g>f;f++)d=!b(a[f],f),d!==h&&e.push(a[f]);return e},map:function(a,b,c){var d,f=0,g=a.length,h=r(a),i=[];if(h)for(;g>f;f++)d=b(a[f],f,c),null!=d&&i.push(d);else for(f in a)d=b(a[f],f,c),null!=d&&i.push(d);return e.apply([],i)},guid:1,proxy:function(a,b){var c,e,f;return"string"==typeof b&&(f=a[b],b=a,a=f),m.isFunction(a)?(c=d.call(arguments,2),e=function(){return a.apply(b||this,c.concat(d.call(arguments)))},e.guid=a.guid=a.guid||m.guid++,e):void 0},now:function(){return+new Date},support:k}),m.each("Boolean Number String Function Array Date RegExp Object Error".split(" "),function(a,b){h["[object "+b+"]"]=b.toLowerCase()});function r(a){var b="length"in a&&a.length,c=m.type(a);return"function"===c||m.isWindow(a)?!1:1===a.nodeType&&b?!0:"array"===c||0===b||"number"==typeof b&&b>0&&b-1 in a}var s=function(a){var b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u="sizzle"+1*new Date,v=a.document,w=0,x=0,y=ha(),z=ha(),A=ha(),B=function(a,b){return a===b&&(l=!0),0},C=1<<31,D={}.hasOwnProperty,E=[],F=E.pop,G=E.push,H=E.push,I=E.slice,J=function(a,b){for(var c=0,d=a.length;d>c;c++)if(a[c]===b)return c;return-1},K="checked|selected|async|autofocus|autoplay|controls|defer|disabled|hidden|ismap|loop|multiple|open|readonly|required|scoped",L="[\\x20\\t\\r\\n\\f]",M="(?:\\\\.|[\\w-]|[^\\x00-\\xa0])+",N=M.replace("w","w#"),O="\\["+L+"*("+M+")(?:"+L+"*([*^$|!~]?=)"+L+"*(?:'((?:\\\\.|[^\\\\'])*)'|\"((?:\\\\.|[^\\\\\"])*)\"|("+N+"))|)"+L+"*\\]",P=":("+M+")(?:\\((('((?:\\\\.|[^\\\\'])*)'|\"((?:\\\\.|[^\\\\\"])*)\")|((?:\\\\.|[^\\\\()[\\]]|"+O+")*)|.*)\\)|)",Q=new RegExp(L+"+","g"),R=new RegExp("^"+L+"+|((?:^|[^\\\\])(?:\\\\.)*)"+L+"+$","g"),S=new RegExp("^"+L+"*,"+L+"*"),T=new RegExp("^"+L+"*([>+~]|"+L+")"+L+"*"),U=new RegExp("="+L+"*([^\\]'\"]*?)"+L+"*\\]","g"),V=new RegExp(P),W=new RegExp("^"+N+"$"),X={ID:new RegExp("^#("+M+")"),CLASS:new RegExp("^\\.("+M+")"),TAG:new RegExp("^("+M.replace("w","w*")+")"),ATTR:new RegExp("^"+O),PSEUDO:new RegExp("^"+P),CHILD:new RegExp("^:(only|first|last|nth|nth-last)-(child|of-type)(?:\\("+L+"*(even|odd|(([+-]|)(\\d*)n|)"+L+"*(?:([+-]|)"+L+"*(\\d+)|))"+L+"*\\)|)","i"),bool:new RegExp("^(?:"+K+")$","i"),needsContext:new RegExp("^"+L+"*[>+~]|:(even|odd|eq|gt|lt|nth|first|last)(?:\\("+L+"*((?:-\\d)?\\d*)"+L+"*\\)|)(?=[^-]|$)","i")},Y=/^(?:input|select|textarea|button)$/i,Z=/^h\d$/i,$=/^[^{]+\{\s*\[native \w/,_=/^(?:#([\w-]+)|(\w+)|\.([\w-]+))$/,aa=/[+~]/,ba=/'|\\/g,ca=new RegExp("\\\\([\\da-f]{1,6}"+L+"?|("+L+")|.)","ig"),da=function(a,b,c){var d="0x"+b-65536;return d!==d||c?b:0>d?String.fromCharCode(d+65536):String.fromCharCode(d>>10|55296,1023&d|56320)},ea=function(){m()};try{H.apply(E=I.call(v.childNodes),v.childNodes),E[v.childNodes.length].nodeType}catch(fa){H={apply:E.length?function(a,b){G.apply(a,I.call(b))}:function(a,b){var c=a.length,d=0;while(a[c++]=b[d++]);a.length=c-1}}}function ga(a,b,d,e){var f,h,j,k,l,o,r,s,w,x;if((b?b.ownerDocument||b:v)!==n&&m(b),b=b||n,d=d||[],k=b.nodeType,"string"!=typeof a||!a||1!==k&&9!==k&&11!==k)return d;if(!e&&p){if(11!==k&&(f=_.exec(a)))if(j=f[1]){if(9===k){if(h=b.getElementById(j),!h||!h.parentNode)return d;if(h.id===j)return d.push(h),d}else if(b.ownerDocument&&(h=b.ownerDocument.getElementById(j))&&t(b,h)&&h.id===j)return d.push(h),d}else{if(f[2])return H.apply(d,b.getElementsByTagName(a)),d;if((j=f[3])&&c.getElementsByClassName)return H.apply(d,b.getElementsByClassName(j)),d}if(c.qsa&&(!q||!q.test(a))){if(s=r=u,w=b,x=1!==k&&a,1===k&&"object"!==b.nodeName.toLowerCase()){o=g(a),(r=b.getAttribute("id"))?s=r.replace(ba,"\\$&"):b.setAttribute("id",s),s="[id='"+s+"'] ",l=o.length;while(l--)o[l]=s+ra(o[l]);w=aa.test(a)&&pa(b.parentNode)||b,x=o.join(",")}if(x)try{return H.apply(d,w.querySelectorAll(x)),d}catch(y){}finally{r||b.removeAttribute("id")}}}return i(a.replace(R,"$1"),b,d,e)}function ha(){var a=[];function b(c,e){return a.push(c+" ")>d.cacheLength&&delete b[a.shift()],b[c+" "]=e}return b}function ia(a){return a[u]=!0,a}function ja(a){var b=n.createElement("div");try{return!!a(b)}catch(c){return!1}finally{b.parentNode&&b.parentNode.removeChild(b),b=null}}function ka(a,b){var c=a.split("|"),e=a.length;while(e--)d.attrHandle[c[e]]=b}function la(a,b){var c=b&&a,d=c&&1===a.nodeType&&1===b.nodeType&&(~b.sourceIndex||C)-(~a.sourceIndex||C);if(d)return d;if(c)while(c=c.nextSibling)if(c===b)return-1;return a?1:-1}function ma(a){return function(b){var c=b.nodeName.toLowerCase();return"input"===c&&b.type===a}}function na(a){return function(b){var c=b.nodeName.toLowerCase();return("input"===c||"button"===c)&&b.type===a}}function oa(a){return ia(function(b){return b=+b,ia(function(c,d){var e,f=a([],c.length,b),g=f.length;while(g--)c[e=f[g]]&&(c[e]=!(d[e]=c[e]))})})}function pa(a){return a&&"undefined"!=typeof a.getElementsByTagName&&a}c=ga.support={},f=ga.isXML=function(a){var b=a&&(a.ownerDocument||a).documentElement;return b?"HTML"!==b.nodeName:!1},m=ga.setDocument=function(a){var b,e,g=a?a.ownerDocument||a:v;return g!==n&&9===g.nodeType&&g.documentElement?(n=g,o=g.documentElement,e=g.defaultView,e&&e!==e.top&&(e.addEventListener?e.addEventListener("unload",ea,!1):e.attachEvent&&e.attachEvent("onunload",ea)),p=!f(g),c.attributes=ja(function(a){return a.className="i",!a.getAttribute("className")}),c.getElementsByTagName=ja(function(a){return a.appendChild(g.createComment("")),!a.getElementsByTagName("*").length}),c.getElementsByClassName=$.test(g.getElementsByClassName),c.getById=ja(function(a){return o.appendChild(a).id=u,!g.getElementsByName||!g.getElementsByName(u).length}),c.getById?(d.find.ID=function(a,b){if("undefined"!=typeof b.getElementById&&p){var c=b.getElementById(a);return c&&c.parentNode?[c]:[]}},d.filter.ID=function(a){var b=a.replace(ca,da);return function(a){return a.getAttribute("id")===b}}):(delete d.find.ID,d.filter.ID=function(a){var b=a.replace(ca,da);return function(a){var c="undefined"!=typeof a.getAttributeNode&&a.getAttributeNode("id");return c&&c.value===b}}),d.find.TAG=c.getElementsByTagName?function(a,b){return"undefined"!=typeof b.getElementsByTagName?b.getElementsByTagName(a):c.qsa?b.querySelectorAll(a):void 0}:function(a,b){var c,d=[],e=0,f=b.getElementsByTagName(a);if("*"===a){while(c=f[e++])1===c.nodeType&&d.push(c);return d}return f},d.find.CLASS=c.getElementsByClassName&&function(a,b){return p?b.getElementsByClassName(a):void 0},r=[],q=[],(c.qsa=$.test(g.querySelectorAll))&&(ja(function(a){o.appendChild(a).innerHTML="<a id='"+u+"'></a><select id='"+u+"-\f]' msallowcapture=''><option selected=''></option></select>",a.querySelectorAll("[msallowcapture^='']").length&&q.push("[*^$]="+L+"*(?:''|\"\")"),a.querySelectorAll("[selected]").length||q.push("\\["+L+"*(?:value|"+K+")"),a.querySelectorAll("[id~="+u+"-]").length||q.push("~="),a.querySelectorAll(":checked").length||q.push(":checked"),a.querySelectorAll("a#"+u+"+*").length||q.push(".#.+[+~]")}),ja(function(a){var b=g.createElement("input");b.setAttribute("type","hidden"),a.appendChild(b).setAttribute("name","D"),a.querySelectorAll("[name=d]").length&&q.push("name"+L+"*[*^$|!~]?="),a.querySelectorAll(":enabled").length||q.push(":enabled",":disabled"),a.querySelectorAll("*,:x"),q.push(",.*:")})),(c.matchesSelector=$.test(s=o.matches||o.webkitMatchesSelector||o.mozMatchesSelector||o.oMatchesSelector||o.msMatchesSelector))&&ja(function(a){c.disconnectedMatch=s.call(a,"div"),s.call(a,"[s!='']:x"),r.push("!=",P)}),q=q.length&&new RegExp(q.join("|")),r=r.length&&new RegExp(r.join("|")),b=$.test(o.compareDocumentPosition),t=b||$.test(o.contains)?function(a,b){var c=9===a.nodeType?a.documentElement:a,d=b&&b.parentNode;return a===d||!(!d||1!==d.nodeType||!(c.contains?c.contains(d):a.compareDocumentPosition&&16&a.compareDocumentPosition(d)))}:function(a,b){if(b)while(b=b.parentNode)if(b===a)return!0;return!1},B=b?function(a,b){if(a===b)return l=!0,0;var d=!a.compareDocumentPosition-!b.compareDocumentPosition;return d?d:(d=(a.ownerDocument||a)===(b.ownerDocument||b)?a.compareDocumentPosition(b):1,1&d||!c.sortDetached&&b.compareDocumentPosition(a)===d?a===g||a.ownerDocument===v&&t(v,a)?-1:b===g||b.ownerDocument===v&&t(v,b)?1:k?J(k,a)-J(k,b):0:4&d?-1:1)}:function(a,b){if(a===b)return l=!0,0;var c,d=0,e=a.parentNode,f=b.parentNode,h=[a],i=[b];if(!e||!f)return a===g?-1:b===g?1:e?-1:f?1:k?J(k,a)-J(k,b):0;if(e===f)return la(a,b);c=a;while(c=c.parentNode)h.unshift(c);c=b;while(c=c.parentNode)i.unshift(c);while(h[d]===i[d])d++;return d?la(h[d],i[d]):h[d]===v?-1:i[d]===v?1:0},g):n},ga.matches=function(a,b){return ga(a,null,null,b)},ga.matchesSelector=function(a,b){if((a.ownerDocument||a)!==n&&m(a),b=b.replace(U,"='$1']"),!(!c.matchesSelector||!p||r&&r.test(b)||q&&q.test(b)))try{var d=s.call(a,b);if(d||c.disconnectedMatch||a.document&&11!==a.document.nodeType)return d}catch(e){}return ga(b,n,null,[a]).length>0},ga.contains=function(a,b){return(a.ownerDocument||a)!==n&&m(a),t(a,b)},ga.attr=function(a,b){(a.ownerDocument||a)!==n&&m(a);var e=d.attrHandle[b.toLowerCase()],f=e&&D.call(d.attrHandle,b.toLowerCase())?e(a,b,!p):void 0;return void 0!==f?f:c.attributes||!p?a.getAttribute(b):(f=a.getAttributeNode(b))&&f.specified?f.value:null},ga.error=function(a){throw new Error("Syntax error, unrecognized expression: "+a)},ga.uniqueSort=function(a){var b,d=[],e=0,f=0;if(l=!c.detectDuplicates,k=!c.sortStable&&a.slice(0),a.sort(B),l){while(b=a[f++])b===a[f]&&(e=d.push(f));while(e--)a.splice(d[e],1)}return k=null,a},e=ga.getText=function(a){var b,c="",d=0,f=a.nodeType;if(f){if(1===f||9===f||11===f){if("string"==typeof a.textContent)return a.textContent;for(a=a.firstChild;a;a=a.nextSibling)c+=e(a)}else if(3===f||4===f)return a.nodeValue}else while(b=a[d++])c+=e(b);return c},d=ga.selectors={cacheLength:50,createPseudo:ia,match:X,attrHandle:{},find:{},relative:{">":{dir:"parentNode",first:!0}," ":{dir:"parentNode"},"+":{dir:"previousSibling",first:!0},"~":{dir:"previousSibling"}},preFilter:{ATTR:function(a){return a[1]=a[1].replace(ca,da),a[3]=(a[3]||a[4]||a[5]||"").replace(ca,da),"~="===a[2]&&(a[3]=" "+a[3]+" "),a.slice(0,4)},CHILD:function(a){return a[1]=a[1].toLowerCase(),"nth"===a[1].slice(0,3)?(a[3]||ga.error(a[0]),a[4]=+(a[4]?a[5]+(a[6]||1):2*("even"===a[3]||"odd"===a[3])),a[5]=+(a[7]+a[8]||"odd"===a[3])):a[3]&&ga.error(a[0]),a},PSEUDO:function(a){var b,c=!a[6]&&a[2];return X.CHILD.test(a[0])?null:(a[3]?a[2]=a[4]||a[5]||"":c&&V.test(c)&&(b=g(c,!0))&&(b=c.indexOf(")",c.length-b)-c.length)&&(a[0]=a[0].slice(0,b),a[2]=c.slice(0,b)),a.slice(0,3))}},filter:{TAG:function(a){var b=a.replace(ca,da).toLowerCase();return"*"===a?function(){return!0}:function(a){return a.nodeName&&a.nodeName.toLowerCase()===b}},CLASS:function(a){var b=y[a+" "];return b||(b=new RegExp("(^|"+L+")"+a+"("+L+"|$)"))&&y(a,function(a){return b.test("string"==typeof a.className&&a.className||"undefined"!=typeof a.getAttribute&&a.getAttribute("class")||"")})},ATTR:function(a,b,c){return function(d){var e=ga.attr(d,a);return null==e?"!="===b:b?(e+="","="===b?e===c:"!="===b?e!==c:"^="===b?c&&0===e.indexOf(c):"*="===b?c&&e.indexOf(c)>-1:"$="===b?c&&e.slice(-c.length)===c:"~="===b?(" "+e.replace(Q," ")+" ").indexOf(c)>-1:"|="===b?e===c||e.slice(0,c.length+1)===c+"-":!1):!0}},CHILD:function(a,b,c,d,e){var f="nth"!==a.slice(0,3),g="last"!==a.slice(-4),h="of-type"===b;return 1===d&&0===e?function(a){return!!a.parentNode}:function(b,c,i){var j,k,l,m,n,o,p=f!==g?"nextSibling":"previousSibling",q=b.parentNode,r=h&&b.nodeName.toLowerCase(),s=!i&&!h;if(q){if(f){while(p){l=b;while(l=l[p])if(h?l.nodeName.toLowerCase()===r:1===l.nodeType)return!1;o=p="only"===a&&!o&&"nextSibling"}return!0}if(o=[g?q.firstChild:q.lastChild],g&&s){k=q[u]||(q[u]={}),j=k[a]||[],n=j[0]===w&&j[1],m=j[0]===w&&j[2],l=n&&q.childNodes[n];while(l=++n&&l&&l[p]||(m=n=0)||o.pop())if(1===l.nodeType&&++m&&l===b){k[a]=[w,n,m];break}}else if(s&&(j=(b[u]||(b[u]={}))[a])&&j[0]===w)m=j[1];else while(l=++n&&l&&l[p]||(m=n=0)||o.pop())if((h?l.nodeName.toLowerCase()===r:1===l.nodeType)&&++m&&(s&&((l[u]||(l[u]={}))[a]=[w,m]),l===b))break;return m-=e,m===d||m%d===0&&m/d>=0}}},PSEUDO:function(a,b){var c,e=d.pseudos[a]||d.setFilters[a.toLowerCase()]||ga.error("unsupported pseudo: "+a);return e[u]?e(b):e.length>1?(c=[a,a,"",b],d.setFilters.hasOwnProperty(a.toLowerCase())?ia(function(a,c){var d,f=e(a,b),g=f.length;while(g--)d=J(a,f[g]),a[d]=!(c[d]=f[g])}):function(a){return e(a,0,c)}):e}},pseudos:{not:ia(function(a){var b=[],c=[],d=h(a.replace(R,"$1"));return d[u]?ia(function(a,b,c,e){var f,g=d(a,null,e,[]),h=a.length;while(h--)(f=g[h])&&(a[h]=!(b[h]=f))}):function(a,e,f){return b[0]=a,d(b,null,f,c),b[0]=null,!c.pop()}}),has:ia(function(a){return function(b){return ga(a,b).length>0}}),contains:ia(function(a){return a=a.replace(ca,da),function(b){return(b.textContent||b.innerText||e(b)).indexOf(a)>-1}}),lang:ia(function(a){return W.test(a||"")||ga.error("unsupported lang: "+a),a=a.replace(ca,da).toLowerCase(),function(b){var c;do if(c=p?b.lang:b.getAttribute("xml:lang")||b.getAttribute("lang"))return c=c.toLowerCase(),c===a||0===c.indexOf(a+"-");while((b=b.parentNode)&&1===b.nodeType);return!1}}),target:function(b){var c=a.location&&a.location.hash;return c&&c.slice(1)===b.id},root:function(a){return a===o},focus:function(a){return a===n.activeElement&&(!n.hasFocus||n.hasFocus())&&!!(a.type||a.href||~a.tabIndex)},enabled:function(a){return a.disabled===!1},disabled:function(a){return a.disabled===!0},checked:function(a){var b=a.nodeName.toLowerCase();return"input"===b&&!!a.checked||"option"===b&&!!a.selected},selected:function(a){return a.parentNode&&a.parentNode.selectedIndex,a.selected===!0},empty:function(a){for(a=a.firstChild;a;a=a.nextSibling)if(a.nodeType<6)return!1;return!0},parent:function(a){return!d.pseudos.empty(a)},header:function(a){return Z.test(a.nodeName)},input:function(a){return Y.test(a.nodeName)},button:function(a){var b=a.nodeName.toLowerCase();return"input"===b&&"button"===a.type||"button"===b},text:function(a){var b;return"input"===a.nodeName.toLowerCase()&&"text"===a.type&&(null==(b=a.getAttribute("type"))||"text"===b.toLowerCase())},first:oa(function(){return[0]}),last:oa(function(a,b){return[b-1]}),eq:oa(function(a,b,c){return[0>c?c+b:c]}),even:oa(function(a,b){for(var c=0;b>c;c+=2)a.push(c);return a}),odd:oa(function(a,b){for(var c=1;b>c;c+=2)a.push(c);return a}),lt:oa(function(a,b,c){for(var d=0>c?c+b:c;--d>=0;)a.push(d);return a}),gt:oa(function(a,b,c){for(var d=0>c?c+b:c;++d<b;)a.push(d);return a})}},d.pseudos.nth=d.pseudos.eq;for(b in{radio:!0,checkbox:!0,file:!0,password:!0,image:!0})d.pseudos[b]=ma(b);for(b in{submit:!0,reset:!0})d.pseudos[b]=na(b);function qa(){}qa.prototype=d.filters=d.pseudos,d.setFilters=new qa,g=ga.tokenize=function(a,b){var c,e,f,g,h,i,j,k=z[a+" "];if(k)return b?0:k.slice(0);h=a,i=[],j=d.preFilter;while(h){(!c||(e=S.exec(h)))&&(e&&(h=h.slice(e[0].length)||h),i.push(f=[])),c=!1,(e=T.exec(h))&&(c=e.shift(),f.push({value:c,type:e[0].replace(R," ")}),h=h.slice(c.length));for(g in d.filter)!(e=X[g].exec(h))||j[g]&&!(e=j[g](e))||(c=e.shift(),f.push({value:c,type:g,matches:e}),h=h.slice(c.length));if(!c)break}return b?h.length:h?ga.error(a):z(a,i).slice(0)};function ra(a){for(var b=0,c=a.length,d="";c>b;b++)d+=a[b].value;return d}function sa(a,b,c){var d=b.dir,e=c&&"parentNode"===d,f=x++;return b.first?function(b,c,f){while(b=b[d])if(1===b.nodeType||e)return a(b,c,f)}:function(b,c,g){var h,i,j=[w,f];if(g){while(b=b[d])if((1===b.nodeType||e)&&a(b,c,g))return!0}else while(b=b[d])if(1===b.nodeType||e){if(i=b[u]||(b[u]={}),(h=i[d])&&h[0]===w&&h[1]===f)return j[2]=h[2];if(i[d]=j,j[2]=a(b,c,g))return!0}}}function ta(a){return a.length>1?function(b,c,d){var e=a.length;while(e--)if(!a[e](b,c,d))return!1;return!0}:a[0]}function ua(a,b,c){for(var d=0,e=b.length;e>d;d++)ga(a,b[d],c);return c}function va(a,b,c,d,e){for(var f,g=[],h=0,i=a.length,j=null!=b;i>h;h++)(f=a[h])&&(!c||c(f,d,e))&&(g.push(f),j&&b.push(h));return g}function wa(a,b,c,d,e,f){return d&&!d[u]&&(d=wa(d)),e&&!e[u]&&(e=wa(e,f)),ia(function(f,g,h,i){var j,k,l,m=[],n=[],o=g.length,p=f||ua(b||"*",h.nodeType?[h]:h,[]),q=!a||!f&&b?p:va(p,m,a,h,i),r=c?e||(f?a:o||d)?[]:g:q;if(c&&c(q,r,h,i),d){j=va(r,n),d(j,[],h,i),k=j.length;while(k--)(l=j[k])&&(r[n[k]]=!(q[n[k]]=l))}if(f){if(e||a){if(e){j=[],k=r.length;while(k--)(l=r[k])&&j.push(q[k]=l);e(null,r=[],j,i)}k=r.length;while(k--)(l=r[k])&&(j=e?J(f,l):m[k])>-1&&(f[j]=!(g[j]=l))}}else r=va(r===g?r.splice(o,r.length):r),e?e(null,g,r,i):H.apply(g,r)})}function xa(a){for(var b,c,e,f=a.length,g=d.relative[a[0].type],h=g||d.relative[" "],i=g?1:0,k=sa(function(a){return a===b},h,!0),l=sa(function(a){return J(b,a)>-1},h,!0),m=[function(a,c,d){var e=!g&&(d||c!==j)||((b=c).nodeType?k(a,c,d):l(a,c,d));return b=null,e}];f>i;i++)if(c=d.relative[a[i].type])m=[sa(ta(m),c)];else{if(c=d.filter[a[i].type].apply(null,a[i].matches),c[u]){for(e=++i;f>e;e++)if(d.relative[a[e].type])break;return wa(i>1&&ta(m),i>1&&ra(a.slice(0,i-1).concat({value:" "===a[i-2].type?"*":""})).replace(R,"$1"),c,e>i&&xa(a.slice(i,e)),f>e&&xa(a=a.slice(e)),f>e&&ra(a))}m.push(c)}return ta(m)}function ya(a,b){var c=b.length>0,e=a.length>0,f=function(f,g,h,i,k){var l,m,o,p=0,q="0",r=f&&[],s=[],t=j,u=f||e&&d.find.TAG("*",k),v=w+=null==t?1:Math.random()||.1,x=u.length;for(k&&(j=g!==n&&g);q!==x&&null!=(l=u[q]);q++){if(e&&l){m=0;while(o=a[m++])if(o(l,g,h)){i.push(l);break}k&&(w=v)}c&&((l=!o&&l)&&p--,f&&r.push(l))}if(p+=q,c&&q!==p){m=0;while(o=b[m++])o(r,s,g,h);if(f){if(p>0)while(q--)r[q]||s[q]||(s[q]=F.call(i));s=va(s)}H.apply(i,s),k&&!f&&s.length>0&&p+b.length>1&&ga.uniqueSort(i)}return k&&(w=v,j=t),r};return c?ia(f):f}return h=ga.compile=function(a,b){var c,d=[],e=[],f=A[a+" "];if(!f){b||(b=g(a)),c=b.length;while(c--)f=xa(b[c]),f[u]?d.push(f):e.push(f);f=A(a,ya(e,d)),f.selector=a}return f},i=ga.select=function(a,b,e,f){var i,j,k,l,m,n="function"==typeof a&&a,o=!f&&g(a=n.selector||a);if(e=e||[],1===o.length){if(j=o[0]=o[0].slice(0),j.length>2&&"ID"===(k=j[0]).type&&c.getById&&9===b.nodeType&&p&&d.relative[j[1].type]){if(b=(d.find.ID(k.matches[0].replace(ca,da),b)||[])[0],!b)return e;n&&(b=b.parentNode),a=a.slice(j.shift().value.length)}i=X.needsContext.test(a)?0:j.length;while(i--){if(k=j[i],d.relative[l=k.type])break;if((m=d.find[l])&&(f=m(k.matches[0].replace(ca,da),aa.test(j[0].type)&&pa(b.parentNode)||b))){if(j.splice(i,1),a=f.length&&ra(j),!a)return H.apply(e,f),e;break}}}return(n||h(a,o))(f,b,!p,e,aa.test(a)&&pa(b.parentNode)||b),e},c.sortStable=u.split("").sort(B).join("")===u,c.detectDuplicates=!!l,m(),c.sortDetached=ja(function(a){return 1&a.compareDocumentPosition(n.createElement("div"))}),ja(function(a){return a.innerHTML="<a href='#'></a>","#"===a.firstChild.getAttribute("href")})||ka("type|href|height|width",function(a,b,c){return c?void 0:a.getAttribute(b,"type"===b.toLowerCase()?1:2)}),c.attributes&&ja(function(a){return a.innerHTML="<input/>",a.firstChild.setAttribute("value",""),""===a.firstChild.getAttribute("value")})||ka("value",function(a,b,c){return c||"input"!==a.nodeName.toLowerCase()?void 0:a.defaultValue}),ja(function(a){return null==a.getAttribute("disabled")})||ka(K,function(a,b,c){var d;return c?void 0:a[b]===!0?b.toLowerCase():(d=a.getAttributeNode(b))&&d.specified?d.value:null}),ga}(a);m.find=s,m.expr=s.selectors,m.expr[":"]=m.expr.pseudos,m.unique=s.uniqueSort,m.text=s.getText,m.isXMLDoc=s.isXML,m.contains=s.contains;var t=m.expr.match.needsContext,u=/^<(\w+)\s*\/?>(?:<\/\1>|)$/,v=/^.[^:#\[\.,]*$/;function w(a,b,c){if(m.isFunction(b))return m.grep(a,function(a,d){return!!b.call(a,d,a)!==c});if(b.nodeType)return m.grep(a,function(a){return a===b!==c});if("string"==typeof b){if(v.test(b))return m.filter(b,a,c);b=m.filter(b,a)}return m.grep(a,function(a){return m.inArray(a,b)>=0!==c})}m.filter=function(a,b,c){var d=b[0];return c&&(a=":not("+a+")"),1===b.length&&1===d.nodeType?m.find.matchesSelector(d,a)?[d]:[]:m.find.matches(a,m.grep(b,function(a){return 1===a.nodeType}))},m.fn.extend({find:function(a){var b,c=[],d=this,e=d.length;if("string"!=typeof a)return this.pushStack(m(a).filter(function(){for(b=0;e>b;b++)if(m.contains(d[b],this))return!0}));for(b=0;e>b;b++)m.find(a,d[b],c);return c=this.pushStack(e>1?m.unique(c):c),c.selector=this.selector?this.selector+" "+a:a,c},filter:function(a){return this.pushStack(w(this,a||[],!1))},not:function(a){return this.pushStack(w(this,a||[],!0))},is:function(a){return!!w(this,"string"==typeof a&&t.test(a)?m(a):a||[],!1).length}});var x,y=a.document,z=/^(?:\s*(<[\w\W]+>)[^>]*|#([\w-]*))$/,A=m.fn.init=function(a,b){var c,d;if(!a)return this;if("string"==typeof a){if(c="<"===a.charAt(0)&&">"===a.charAt(a.length-1)&&a.length>=3?[null,a,null]:z.exec(a),!c||!c[1]&&b)return!b||b.jquery?(b||x).find(a):this.constructor(b).find(a);if(c[1]){if(b=b instanceof m?b[0]:b,m.merge(this,m.parseHTML(c[1],b&&b.nodeType?b.ownerDocument||b:y,!0)),u.test(c[1])&&m.isPlainObject(b))for(c in b)m.isFunction(this[c])?this[c](b[c]):this.attr(c,b[c]);return this}if(d=y.getElementById(c[2]),d&&d.parentNode){if(d.id!==c[2])return x.find(a);this.length=1,this[0]=d}return this.context=y,this.selector=a,this}return a.nodeType?(this.context=this[0]=a,this.length=1,this):m.isFunction(a)?"undefined"!=typeof x.ready?x.ready(a):a(m):(void 0!==a.selector&&(this.selector=a.selector,this.context=a.context),m.makeArray(a,this))};A.prototype=m.fn,x=m(y);var B=/^(?:parents|prev(?:Until|All))/,C={children:!0,contents:!0,next:!0,prev:!0};m.extend({dir:function(a,b,c){var d=[],e=a[b];while(e&&9!==e.nodeType&&(void 0===c||1!==e.nodeType||!m(e).is(c)))1===e.nodeType&&d.push(e),e=e[b];return d},sibling:function(a,b){for(var c=[];a;a=a.nextSibling)1===a.nodeType&&a!==b&&c.push(a);return c}}),m.fn.extend({has:function(a){var b,c=m(a,this),d=c.length;return this.filter(function(){for(b=0;d>b;b++)if(m.contains(this,c[b]))return!0})},closest:function(a,b){for(var c,d=0,e=this.length,f=[],g=t.test(a)||"string"!=typeof a?m(a,b||this.context):0;e>d;d++)for(c=this[d];c&&c!==b;c=c.parentNode)if(c.nodeType<11&&(g?g.index(c)>-1:1===c.nodeType&&m.find.matchesSelector(c,a))){f.push(c);break}return this.pushStack(f.length>1?m.unique(f):f)},index:function(a){return a?"string"==typeof a?m.inArray(this[0],m(a)):m.inArray(a.jquery?a[0]:a,this):this[0]&&this[0].parentNode?this.first().prevAll().length:-1},add:function(a,b){return this.pushStack(m.unique(m.merge(this.get(),m(a,b))))},addBack:function(a){return this.add(null==a?this.prevObject:this.prevObject.filter(a))}});function D(a,b){do a=a[b];while(a&&1!==a.nodeType);return a}m.each({parent:function(a){var b=a.parentNode;return b&&11!==b.nodeType?b:null},parents:function(a){return m.dir(a,"parentNode")},parentsUntil:function(a,b,c){return m.dir(a,"parentNode",c)},next:function(a){return D(a,"nextSibling")},prev:function(a){return D(a,"previousSibling")},nextAll:function(a){return m.dir(a,"nextSibling")},prevAll:function(a){return m.dir(a,"previousSibling")},nextUntil:function(a,b,c){return m.dir(a,"nextSibling",c)},prevUntil:function(a,b,c){return m.dir(a,"previousSibling",c)},siblings:function(a){return m.sibling((a.parentNode||{}).firstChild,a)},children:function(a){return m.sibling(a.firstChild)},contents:function(a){return m.nodeName(a,"iframe")?a.contentDocument||a.contentWindow.document:m.merge([],a.childNodes)}},function(a,b){m.fn[a]=function(c,d){var e=m.map(this,b,c);return"Until"!==a.slice(-5)&&(d=c),d&&"string"==typeof d&&(e=m.filter(d,e)),this.length>1&&(C[a]||(e=m.unique(e)),B.test(a)&&(e=e.reverse())),this.pushStack(e)}});var E=/\S+/g,F={};function G(a){var b=F[a]={};return m.each(a.match(E)||[],function(a,c){b[c]=!0}),b}m.Callbacks=function(a){a="string"==typeof a?F[a]||G(a):m.extend({},a);var b,c,d,e,f,g,h=[],i=!a.once&&[],j=function(l){for(c=a.memory&&l,d=!0,f=g||0,g=0,e=h.length,b=!0;h&&e>f;f++)if(h[f].apply(l[0],l[1])===!1&&a.stopOnFalse){c=!1;break}b=!1,h&&(i?i.length&&j(i.shift()):c?h=[]:k.disable())},k={add:function(){if(h){var d=h.length;!function f(b){m.each(b,function(b,c){var d=m.type(c);"function"===d?a.unique&&k.has(c)||h.push(c):c&&c.length&&"string"!==d&&f(c)})}(arguments),b?e=h.length:c&&(g=d,j(c))}return this},remove:function(){return h&&m.each(arguments,function(a,c){var d;while((d=m.inArray(c,h,d))>-1)h.splice(d,1),b&&(e>=d&&e--,f>=d&&f--)}),this},has:function(a){return a?m.inArray(a,h)>-1:!(!h||!h.length)},empty:function(){return h=[],e=0,this},disable:function(){return h=i=c=void 0,this},disabled:function(){return!h},lock:function(){return i=void 0,c||k.disable(),this},locked:function(){return!i},fireWith:function(a,c){return!h||d&&!i||(c=c||[],c=[a,c.slice?c.slice():c],b?i.push(c):j(c)),this},fire:function(){return k.fireWith(this,arguments),this},fired:function(){return!!d}};return k},m.extend({Deferred:function(a){var b=[["resolve","done",m.Callbacks("once memory"),"resolved"],["reject","fail",m.Callbacks("once memory"),"rejected"],["notify","progress",m.Callbacks("memory")]],c="pending",d={state:function(){return c},always:function(){return e.done(arguments).fail(arguments),this},then:function(){var a=arguments;return m.Deferred(function(c){m.each(b,function(b,f){var g=m.isFunction(a[b])&&a[b];e[f[1]](function(){var a=g&&g.apply(this,arguments);a&&m.isFunction(a.promise)?a.promise().done(c.resolve).fail(c.reject).progress(c.notify):c[f[0]+"With"](this===d?c.promise():this,g?[a]:arguments)})}),a=null}).promise()},promise:function(a){return null!=a?m.extend(a,d):d}},e={};return d.pipe=d.then,m.each(b,function(a,f){var g=f[2],h=f[3];d[f[1]]=g.add,h&&g.add(function(){c=h},b[1^a][2].disable,b[2][2].lock),e[f[0]]=function(){return e[f[0]+"With"](this===e?d:this,arguments),this},e[f[0]+"With"]=g.fireWith}),d.promise(e),a&&a.call(e,e),e},when:function(a){var b=0,c=d.call(arguments),e=c.length,f=1!==e||a&&m.isFunction(a.promise)?e:0,g=1===f?a:m.Deferred(),h=function(a,b,c){return function(e){b[a]=this,c[a]=arguments.length>1?d.call(arguments):e,c===i?g.notifyWith(b,c):--f||g.resolveWith(b,c)}},i,j,k;if(e>1)for(i=new Array(e),j=new Array(e),k=new Array(e);e>b;b++)c[b]&&m.isFunction(c[b].promise)?c[b].promise().done(h(b,k,c)).fail(g.reject).progress(h(b,j,i)):--f;return f||g.resolveWith(k,c),g.promise()}});var H;m.fn.ready=function(a){return m.ready.promise().done(a),this},m.extend({isReady:!1,readyWait:1,holdReady:function(a){a?m.readyWait++:m.ready(!0)},ready:function(a){if(a===!0?!--m.readyWait:!m.isReady){if(!y.body)return setTimeout(m.ready);m.isReady=!0,a!==!0&&--m.readyWait>0||(H.resolveWith(y,[m]),m.fn.triggerHandler&&(m(y).triggerHandler("ready"),m(y).off("ready")))}}});function I(){y.addEventListener?(y.removeEventListener("DOMContentLoaded",J,!1),a.removeEventListener("load",J,!1)):(y.detachEvent("onreadystatechange",J),a.detachEvent("onload",J))}function J(){(y.addEventListener||"load"===event.type||"complete"===y.readyState)&&(I(),m.ready())}m.ready.promise=function(b){if(!H)if(H=m.Deferred(),"complete"===y.readyState)setTimeout(m.ready);else if(y.addEventListener)y.addEventListener("DOMContentLoaded",J,!1),a.addEventListener("load",J,!1);else{y.attachEvent("onreadystatechange",J),a.attachEvent("onload",J);var c=!1;try{c=null==a.frameElement&&y.documentElement}catch(d){}c&&c.doScroll&&!function e(){if(!m.isReady){try{c.doScroll("left")}catch(a){return setTimeout(e,50)}I(),m.ready()}}()}return H.promise(b)};var K="undefined",L;for(L in m(k))break;k.ownLast="0"!==L,k.inlineBlockNeedsLayout=!1,m(function(){var a,b,c,d;c=y.getElementsByTagName("body")[0],c&&c.style&&(b=y.createElement("div"),d=y.createElement("div"),d.style.cssText="position:absolute;border:0;width:0;height:0;top:0;left:-9999px",c.appendChild(d).appendChild(b),typeof b.style.zoom!==K&&(b.style.cssText="display:inline;margin:0;border:0;padding:1px;width:1px;zoom:1",k.inlineBlockNeedsLayout=a=3===b.offsetWidth,a&&(c.style.zoom=1)),c.removeChild(d))}),function(){var a=y.createElement("div");if(null==k.deleteExpando){k.deleteExpando=!0;try{delete a.test}catch(b){k.deleteExpando=!1}}a=null}(),m.acceptData=function(a){var b=m.noData[(a.nodeName+" ").toLowerCase()],c=+a.nodeType||1;return 1!==c&&9!==c?!1:!b||b!==!0&&a.getAttribute("classid")===b};var M=/^(?:\{[\w\W]*\}|\[[\w\W]*\])$/,N=/([A-Z])/g;function O(a,b,c){if(void 0===c&&1===a.nodeType){var d="data-"+b.replace(N,"-$1").toLowerCase();if(c=a.getAttribute(d),"string"==typeof c){try{c="true"===c?!0:"false"===c?!1:"null"===c?null:+c+""===c?+c:M.test(c)?m.parseJSON(c):c}catch(e){}m.data(a,b,c)}else c=void 0}return c}function P(a){var b;for(b in a)if(("data"!==b||!m.isEmptyObject(a[b]))&&"toJSON"!==b)return!1;
@@ -330,7 +331,6 @@ summary {
   border: none;
   display: inline-block;
   border-radius: 4px;
-  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -362,7 +362,7 @@ summary {
 
 
 
-<h1 class="title toc-ignore">A beginner’s guide to UQÀM and Canada</h1>
+<h1 class="title toc-ignore">A beginner’s guide to UQAM and Canada</h1>
 <h4 class="author">CarBBAS</h4>
 <h4 class="date">Last updated on: 29 May 2020</h4>
 
@@ -373,18 +373,18 @@ summary {
 <li><a href="#a-few-words">A few words</a></li>
 <li><a href="#students">Students</a><ul>
 <li><a href="#before-arrival">Before arrival</a><ul>
-<li><a href="#uqàm-admission">1. UQÀM admission</a></li>
+<li><a href="#uqam-admission">1. UQAM admission</a></li>
 <li><a href="#caq">2. CAQ</a></li>
 <li><a href="#study-permit">3. Study permit</a></li>
 </ul></li>
 <li><a href="#after-arrival">After arrival</a><ul>
 <li><a href="#get-a-social-insurance-number-sin">1. Get a Social insurance number (SIN)</a></li>
 <li><a href="#open-a-bank-account">2. Open a bank account</a></li>
-<li><a href="#bring-documents-to-uqàm-registrariat">3. Bring documents to UQÀM registrariat</a></li>
+<li><a href="#bring-documents-to-uqam-registrariat">3. Bring documents to UQAM registrariat</a></li>
 <li><a href="#submit-stipend-form">4. Submit stipend form</a></li>
 <li><a href="#student-card">5. Student Card</a></li>
-<li><a href="#access-uqàm-online-portal-for-students">6. Access UQÀM Online Portal for students</a></li>
-<li><a href="#access-to-uqàm-email">7. Access to UQÀM email</a></li>
+<li><a href="#access-uqam-online-portal-for-students">6. Access UQAM Online Portal for students</a></li>
+<li><a href="#access-to-uqam-email">7. Access to UQAM email</a></li>
 <li><a href="#opus-card-for-students">8. OPUS card for students</a></li>
 <li><a href="#pay-tuition">9. Pay tuition</a></li>
 <li><a href="#tuition-exemption">10. Tuition exemption</a></li>
@@ -399,7 +399,7 @@ summary {
 </ul></li>
 <li><a href="#post-docs-and-research-internship">Post-docs (and research internship)</a><ul>
 <li><a href="#before-arrival-1">Before arrival</a><ul>
-<li><a href="#uqàm">1. UQÀM</a></li>
+<li><a href="#uqam">1. UQAM</a></li>
 <li><a href="#work-permit">2. Work permit</a></li>
 <li><a href="#bringing-a-partner">3. Bringing a partner</a></li>
 </ul></li>
@@ -409,7 +409,7 @@ summary {
 <li><a href="#registration">3. Registration</a></li>
 <li><a href="#health-insurance-1">4. Health insurance</a></li>
 <li><a href="#student-card-1">5. Student Card</a></li>
-<li><a href="#access-to-uqàm-email-1">6. Access to UQÀM email</a></li>
+<li><a href="#access-to-uqam-email-1">6. Access to UQAM email</a></li>
 <li><a href="#opus-card-for-metro">7. OPUS card for metro</a></li>
 <li><a href="#driving-license-1">8. Driving license</a></li>
 <li><a href="#renewing-your-work-permit">9. Renewing your work permit</a></li>
@@ -417,7 +417,7 @@ summary {
 </ul></li>
 </ul></li>
 <li><a href="#universal">Universal</a><ul>
-<li><a href="#wi-fi-at-uqàm">1. Wi-fi at UQÀM</a></li>
+<li><a href="#wi-fi-at-uqam">1. Wi-fi at UQAM</a></li>
 <li><a href="#access-to-labs-and-keys">2. Access to labs and keys</a></li>
 <li><a href="#group-communication">3. Group communication</a></li>
 <li><a href="#freely-available-software">4. Freely available software</a></li>
@@ -438,7 +438,7 @@ summary {
 <li><a href="#after-arrival-2">After arrival</a></li>
 </ul></li>
 <li><a href="#other-resources">13. Other resources</a><ul>
-<li><a href="#at-uqàm">At UQÀM</a></li>
+<li><a href="#at-uqam">At UQAM</a></li>
 <li><a href="#banks">Banks</a></li>
 <li><a href="#internet-providers">Internet providers</a></li>
 <li><a href="#cell-phone-providers">Cell-phone providers</a></li>
@@ -447,13 +447,14 @@ summary {
 <li><a href="#second-hand-stores">Second-hand stores</a></li>
 </ul></li>
 </ul></li>
+<li><a href="#license">License</a></li>
 </ul>
 </div>
 
 <hr />
 <div id="a-few-words" class="section level1">
 <h1>A few words</h1>
-<p>Welcome! You are joining UQÀM and you are heading towards an adventure to live in Montréal. This is a list of things that you need to do before and after arriving in Montréal, and other things are just for informative purposes. Information given here is merely to help you through the sometimes overwhelming steps until you get settled in with us. This list is not a definitive instruction, and we will try to keep the points and links updated to the best of our knowledge, but be aware that things may change and information are not 100% accurate anymore. If there is something unclear, don’t hesitate to contact any of the current lab members.</p>
+<p>Welcome! You are joining UQAM and you are heading towards an adventure to live in Montréal. This is a list of things that you need to do before and after arriving in Montréal, and other things are just for informative purposes. Information given here is merely to help you through the sometimes overwhelming steps until you get settled in with us. This list is not a definitive instruction, and we will try to keep the points and links updated to the best of our knowledge, but be aware that things may change and information are not 100% accurate anymore. If there is something unclear, don’t hesitate to contact any of the current lab members.</p>
 <hr />
 </div>
 <div id="students" class="section level1">
@@ -461,15 +462,15 @@ summary {
 <div id="before-arrival" class="section level2">
 <h2>Before arrival</h2>
 <p>Here are some things that you will need to do before arriving in Canada (if you want to keep in mind your budget, look at this section on <a href="#budget">our estimates</a>)</p>
-<div id="uqàm-admission" class="section level3">
-<h3>1. UQÀM admission</h3>
-<p>To register to UQÀM, you have to fill in several forms. Now, you can also apply online instead of sending the documents by post! You can find a step guide <a href="https://etudier.uqam.ca/etudiants-etrangers">here</a>. It is in French, but you can make use of Google Chrome and the automatic google translate option.</p>
+<div id="uqam-admission" class="section level3">
+<h3>1. UQAM admission</h3>
+<p>To register to UQAM, you have to fill in several forms. Now, you can also apply online instead of sending the documents by post! You can find a step guide <a href="https://etudier.uqam.ca/etudiants-etrangers">here</a>. It is in French, but you can make use of Google Chrome and the automatic google translate option.</p>
 <p>You’ll need to find the program number for a</p>
 <ul>
 <li><a href="https://etudier.uqam.ca/programme?code=3440">Masters in biology</a> (No. 3440) OR</li>
 <li><a href="https://etudier.uqam.ca/programme?code=3805">Doctorate in biology</a> (No. 3805)</li>
 </ul>
-<p>As mentioned above, admission can be done <a href="https://etudier.uqam.ca/admission-en-ligne">online now</a>. You can find the documents that will be needed <a href="https://etudier.uqam.ca/documents-requis">here</a>. Essentially, you will need your transcripts from previous degrees (in French or English), copy of your diploma, and other UQÀM forms that need to be filled. And you have to pay the admission fee of around CAD$126 by credit card.</p>
+<p>As mentioned above, admission can be done <a href="https://etudier.uqam.ca/admission-en-ligne">online now</a>. You can find the documents that will be needed <a href="https://etudier.uqam.ca/documents-requis">here</a>. Essentially, you will need your transcripts from previous degrees (in French or English), copy of your diploma, and other UQAM forms that need to be filled. And you have to pay the admission fee of around CAD$126 by credit card.</p>
 <blockquote>
 <p><strong>Tip</strong>: Make sure that your passport is valid for several years! You cannot get the CAQ and study permit for longer than your passport is valid. Otherwise, you will need to renew your passport and get an extension while you’re studying (and pay the fee again).</p>
 </blockquote>
@@ -478,7 +479,7 @@ summary {
 <div id="caq" class="section level3">
 <h3>2. CAQ</h3>
 <p>Before you can apply to a study permit, you’ll need the <strong>CAQ</strong> (Certificat d’acceptation du Quebec) which allows you to study in Québec.</p>
-<p>UQÀM is a designated learning institution (DLI# O19359011134) or check <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html">here</a> for more details. So once, you have the letter of admission from UQÀM, you can apply fairly easily. Check the steps for CAQ application <a href="http://www.immigration-quebec.gouv.qc.ca/en/immigrate-settle/students/obtaining-authorizations/certificat-acceptation/index.html">here</a>.</p>
+<p>UQAM is a designated learning institution (DLI# O19359011134) or check <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html">here</a> for more details. So once, you have the letter of admission from UQAM, you can apply fairly easily. Check the steps for CAQ application <a href="http://www.immigration-quebec.gouv.qc.ca/en/immigrate-settle/students/obtaining-authorizations/certificat-acceptation/index.html">here</a>.</p>
 <p>You can <a href="http://www.immigration-quebec.gouv.qc.ca/en/electronic-services/caq-electronic/index.html">apply online</a> and you will need:</p>
 <ul>
 <li>a recent ID photo (35 mm x 45 mm)</li>
@@ -496,13 +497,13 @@ summary {
 <ul>
 <li>a photocopy of your passport (for some countries you need to send your passport to a Canadian embassy)</li>
 <li>CAQ approval</li>
-<li>UQÀM admission letter</li>
+<li>UQAM admission letter</li>
 <li>a financial support letter from your supervisor or a confirmation of your scholarship</li>
 </ul>
 <p>You may need to do medical exams and get police certificates depending on your country of origin. Consult what you need by proceeding in the online application <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html">here</a>.</p>
 <hr />
 <blockquote>
-<p><strong>Tip</strong>: We recommend you to bring a buffer of cash to survive for at least a month or two, because processing times until UQÀM makes the first payment takes time (~5 weeks)!</p>
+<p><strong>Tip</strong>: We recommend you to bring a buffer of cash to survive for at least a month or two, because processing times until UQAM makes the first payment takes time (~5 weeks)!</p>
 </blockquote>
 <blockquote>
 <p><strong>Tip</strong>: Finding apartments from abroad is tricky. Sometimes students/post-docs leave at the same time as you arrive, so you can ask around. Otherwise, we recommend to book an AirBnb for a month and explore which neighbourhood you like. See the section on <a href="#apartment">apartments</a> for more information.</p>
@@ -512,12 +513,12 @@ summary {
 </div>
 <div id="after-arrival" class="section level2">
 <h2>After arrival</h2>
-<p>First of all, the biology department is not located at the main UQÀM campus close to Berri-UQÀM station but located at the Science campus close to Place-des-arts (Green Line) metro station. Our offices are located in the SB building on the second floor. So don’t get lost.</p>
+<p>First of all, the biology department is not located at the main UQAM campus close to Berri-UQAM station but located at the Science campus close to Place-des-arts (Green Line) metro station. Our offices are located in the SB building on the second floor. So don’t get lost.</p>
 <p>Here are some things you need to do or should know to get started:</p>
 <hr />
 <div id="get-a-social-insurance-number-sin" class="section level3">
 <h3>1. Get a Social insurance number (SIN)</h3>
-<p>You will need to get your social insurance number (SIN) and provide it to UQÀM. To get your SIN, go to:</p>
+<p>You will need to get your social insurance number (SIN) and provide it to UQAM. To get your SIN, go to:</p>
 <blockquote>
 <p><em>Service Canada</em></p>
 <p><em>Guy-Favreau Complex, Suite 034</em></p>
@@ -534,11 +535,10 @@ summary {
 </div>
 <div id="open-a-bank-account" class="section level3">
 <h3>2. Open a bank account</h3>
-<p>Note that some bank accounts do not offer direct deposits to UQÀM to pay your tuition. Make sure to open a bank account with any of the following financial institutions:</p>
+<p>Note that some bank accounts do not offer direct deposits to UQAM to pay your tuition. Make sure to open a bank account with any of the following financial institutions:</p>
 <ul>
 <li>Desjardins</li>
 <li>CIBC</li>
-<li>Banque de Montréal</li>
 <li>Banque de Montréal</li>
 <li>Banque National</li>
 <li>Banque Royale RBC</li>
@@ -549,9 +549,9 @@ summary {
 <p>If you need any more information on what kind of banks students and post-docs use and why, visit the section <a href="#banks">banks</a>.</p>
 <hr />
 </div>
-<div id="bring-documents-to-uqàm-registrariat" class="section level3">
-<h3>3. Bring documents to UQÀM registrariat</h3>
-<p>If you were admitted with a condition (provide proof of graduation from BSc or MSc if you applied before graduating), bring the documents to the <a href="https://etudier.uqam.ca/coordonnees-registrariat">UQÀM registrariat</a>.</p>
+<div id="bring-documents-to-uqam-registrariat" class="section level3">
+<h3>3. Bring documents to UQAM registrariat</h3>
+<p>If you were admitted with a condition (provide proof of graduation from BSc or MSc if you applied before graduating), bring the documents to the <a href="https://etudier.uqam.ca/coordonnees-registrariat">UQAM registrariat</a>.</p>
 <blockquote>
 <p>Pavillon J.-A.DeSève</p>
 <p>Local DS-R110</p>
@@ -563,14 +563,14 @@ summary {
 </div>
 <div id="submit-stipend-form" class="section level3">
 <h3>4. Submit stipend form</h3>
-<p>Once the main things have been settled, fill out form “Demande de Versement de Bourse” (Scholarship/Stipend Payment Request). <strong>Physically</strong>, you can find this form in the biology department room in PK building, then ask Alice Parkes (for Paul’s student) or Yves Prairie to sign the form to receive your stipend, and submit it to the same biology office that you get the form from. <strong>Virtually</strong>, you can send your personal information in an email from your UQÀM email address to your director so that they can forward this request to UQÀM Financial services.</p>
+<p>Once the main things have been settled, fill out form “Demande de Versement de Bourse” (Scholarship/Stipend Payment Request). <strong>Physically</strong>, you can find this form in the biology department room in PK building, then ask Alice Parkes (for Paul’s student) or Yves Prairie to sign the form to receive your stipend, and submit it to the same biology office that you get the form from. <strong>Virtually</strong>, you can send your personal information in an email from your UQAM email address to your director so that they can forward this request to UQAM Financial services.</p>
 <p>Information/Documents you need to submit the stipend form:</p>
 <ul>
 <li>A photocopy/scan of your study permit</li>
 <li>A photocopy/scan of the first page your passport</li>
 <li>Full name</li>
 <li>Social Insurance Number (SIN)</li>
-<li>UQÀM Permanent code</li>
+<li>UQAM Permanent code</li>
 <li>DOB</li>
 <li>Current address with postal code</li>
 <li>Phone number</li>
@@ -578,33 +578,33 @@ summary {
 <blockquote>
 <p>It can take more than a month (typically five weeks) until you receive your first payment!</p>
 </blockquote>
-<p>You can sign up for direct deposit <a href="https://www.rhu.uqam.ca/index.aspx?id=p710">here</a>. Proceed as <em>‘Sans nom d’utilisateur (code MS)’</em> (Without user name (MS code)). It may not work at first if your SIN is not registered with the UQÀM registrariat yet.</p>
+<p>You can sign up for direct deposit <a href="https://www.rhu.uqam.ca/index.aspx?id=p710">here</a>. Proceed as <em>‘Sans nom d’utilisateur (code MS)’</em> (Without user name (MS code)). It may not work at first if your SIN is not registered with the UQAM registrariat yet.</p>
 <hr />
 </div>
 <div id="student-card" class="section level3">
 <h3>5. Student Card</h3>
-<p>Get a student card to get access to student benefits and the gym. Make sure to bring your passport and they will take your picture on-site. Consult opening hours <a href="http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html">here</a>. The place is one floor down from the UQÀM registrariat in the UQÀM main campus (Berri-UQÀM).</p>
+<p>Get a student card to get access to student benefits and the gym. Make sure to bring your passport and they will take your picture on-site. Consult opening hours <a href="http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html">here</a>. The place is one floor down from the UQAM registrariat in the UQAM main campus (Berri-UQAM).</p>
 <hr />
 </div>
-<div id="access-uqàm-online-portal-for-students" class="section level3">
-<h3>6. Access UQÀM Online Portal for students</h3>
+<div id="access-uqam-online-portal-for-students" class="section level3">
+<h3>6. Access UQAM Online Portal for students</h3>
 <p>There is an <a href="https://portailetudiant.uqam.ca/">online student portal</a> where all essential information is accessible to you (tuition to be paid, courses, etc.). To access this you will need:</p>
 <ul>
 <li>Code permanent (should be in your acceptance letter or when you applied online)</li>
 <li>NIP (Numéro d’identification personnel/Personal identification number)</li>
 </ul>
-<p>If you do not have any of this information, consult the UQÀM registrariat.</p>
+<p>If you do not have any of this information, consult the UQAM registrariat.</p>
 <hr />
 </div>
-<div id="access-to-uqàm-email" class="section level3">
-<h3>7. Access to UQÀM email</h3>
+<div id="access-to-uqam-email" class="section level3">
+<h3>7. Access to UQAM email</h3>
 <p>Get your code MS <a href="https://code.uqam.ca/simplesaml/module.php/core/loginuserpass.php?AuthState=_f48a2d8e5f41af83ca172569f190a0df81f42890c6%3Ahttps%3A%2F%2Fcode.uqam.ca%2Fsimplesaml%2Fsaml2%2Fidp%2FSSOService.php%3Fspentityid%3Dcode.uqam.ca%26RelayState%3Dhttps%253A%252F%252Fcode.uqam.ca%252Fsimplesaml%252Fmodule.php%252Fuqam%252Fstatus.php%26cookieTime%3D1575498828">here</a>.</p>
 <p>You will need your:</p>
 <ul>
 <li>Code permanent</li>
 <li>NIP (Numéro d’identification personnel/Personal identification number)</li>
 </ul>
-<p>Log-in to your UQÀM microsoft account <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&amp;redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&amp;resource=00000002-0000-0ff1-ce00-000000000000&amp;response_mode=form_post&amp;response_type=code+id_token&amp;scope=openid&amp;msafed=0&amp;client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&amp;protectedtoken=true&amp;domain_hint=uqam.ca&amp;nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&amp;state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ">here</a>.</p>
+<p>Log-in to your UQAM microsoft account <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&amp;redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&amp;resource=00000002-0000-0ff1-ce00-000000000000&amp;response_mode=form_post&amp;response_type=code+id_token&amp;scope=openid&amp;msafed=0&amp;client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&amp;protectedtoken=true&amp;domain_hint=uqam.ca&amp;nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&amp;state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ">here</a>.</p>
 <p>Your email login should be in the form of <code>MScode@ens.uqam.ca</code>.</p>
 <p>The password is the <em>first three letters of your surname in capital + NIP</em> (e.g. UQA00000).</p>
 <hr />
@@ -613,7 +613,7 @@ summary {
 <h3>8. OPUS card for students</h3>
 <p>To get a cheaper fare for public transport is to get a student OPUS card. You will be able to purchase a cheaper 4-month pass.</p>
 <p>Log-in to the <em>portail étudiant</em> (Student Portal) &gt;&gt;&gt; Go to ‘Attestation carte OPUS’ ( OPUS card certificate) &gt;&gt;&gt; Click the semester of interest and click on ‘Obtenir la carte opus étudainte par la poste’(Get the study card by mail). You can only do this if you already have your student card. With this, you can let your OPUS card be shipped to your home.</p>
-<p>If you need to get your card more urgently, you can go to the OPUS student office close to Berri-UQÀM metro station. You will need to be able to log-in on-site to the <em>portail étudiant</em> (Student Portal) to show your document.</p>
+<p>If you need to get your card more urgently, you can go to the OPUS student office close to Berri-UQAM metro station. You will need to be able to log-in on-site to the <em>portail étudiant</em> (Student Portal) to show your document.</p>
 <hr />
 </div>
 <div id="pay-tuition" class="section level3">
@@ -625,7 +625,7 @@ summary {
 <li>Click on the ‘+’ next to <em>‘Scolarité 3e cycle’</em> (3rd cycle education)</li>
 <li>From the <em>‘Total’</em> amount at the very bottom of the page, subtract the <em>‘Frais majorés étudiant étranger’</em> (Higher fees for foreign students). This will be the amount that you need to pay.</li>
 </ol>
-<p>Make sure to provide your <em>‘Code de paiement’</em> (Payment code) listed at the beginning of the page when you make the payment via bank transfer. Expect ther tuition between CAD$1000 - 2800 depending on which semester. Usually, you pay more in the autumn semester, because one pays additionally the health insurance.</p>
+<p>Make sure to provide your <em>‘Code de paiement’</em> (Payment code) listed at the beginning of the page when you make the payment via bank transfer. Expect the tuition between CAD$1000 - 2800 depending on which semester. Usually, you pay more in the autumn semester, because one pays additionally the health insurance.</p>
 <p>To understand what the charges on your tuition bill are for, visit the <a href="https://servicesfinanciers.uqam.ca/droits-de-scolarite-et-autres-frais.html">Financial services website</a> to get a detailed list and description of all your charges.</p>
 <hr />
 </div>
@@ -637,7 +637,7 @@ summary {
 <li>Code permanent</li>
 <li>NIP (Numéro d’identification personnel/Personal identification number)</li>
 </ul>
-<p>You have to fill out <em>‘Mon profil’</em> (My profile) and validate the profile with the button on the top left corner. You can fill your profile in French or English. Although French might be more appealing to the reviewers of the scholarships (e.g. UQÀM foundation).</p>
+<p>You have to fill out <em>‘Mon profil’</em> (My profile) and validate the profile with the button on the top left corner. You can fill your profile in French or English. Although French might be more appealing to the reviewers of the scholarships (e.g. UQAM foundation).</p>
 <p>Go to <em>‘Recherche bourses’</em> (Search scholarship) and look for a foreigner student fee exemption scholarship and apply. Typically, these scholarships are semester-specific so pay attention to the notation in their names (i.e. A2019 indicates the semester and the year it applies to; A = Automne/Autumn, H = Hiver/Winter, E = Été/summer).</p>
 <p>If you do not get the exemption scholarship, ask your supervisor to write you a cheque with the amount of tuition that needs to be paid, and try to apply for the exemption the following semester.</p>
 <p>In case you have received the exemption scholarship, the amount will automatically be removed from your tuition bill on the <em>Portail étudiant</em> (Student Portal) and you just need to pay the rest.</p>
@@ -654,7 +654,7 @@ summary {
 <li>BIO8501 Methodology in biology</li>
 <li>BIO8071 Research seminar</li>
 </ul>
-<p>For more information about the courses offered at UQÀM, visit the website for Master’s in Biology program <a href="https://etudier.uqam.ca/programme?code=3440">3440</a></p>
+<p>For more information about the courses offered at UQAM, visit the website for Master’s in Biology program <a href="https://etudier.uqam.ca/programme?code=3440">3440</a></p>
 <p>To find courses offered by other universities (McGill, UdeM, Concordia), here are three steps to register and get credit for the course: (1) You can search for offered courses on the <a href="https://mobilite-cours.crepuq.qc.ca/4DSTATIC/ENAccueil.html">BCI flatform</a> (formerly known as CREPUQ). Under <em>‘URL links to Québec Universities’</em>, you can find <em>‘Course offerings’</em> that will prompt you to select a university that you want to find courses from. (2) After selecting the course that you want and consulting with your director that this course fits your study plan, send an email to the <a href="mailto:cyclesupbiologie@uqam.ca">Biology Department</a> to register it: include the course code and a link to the course description. (3) You will then be instructed to register for the class via the <a href="https://mobilite-cours.crepuq.qc.ca/4DSTATIC/ENAccueil.html">BCI flatform</a>. Under <em>‘You can access the system as:’</em>, select <em>‘Student’</em>. Go through the questions and fill out the fields in one-go because this will not allow you to save and return later.</p>
 <blockquote>
 <p>Tips: Most courses at McGill and Concordia are taught in English, and even some special courses at UdeM. The best way to be sure is to contact the course instructor before register for it.</p>
@@ -683,20 +683,20 @@ summary {
 </div>
 <div id="scholarships" class="section level3">
 <h3>12. Scholarships</h3>
-<p>You can apply to several scholarships after you have been admitted to UQÀM as an international student.</p>
+<p>You can apply to several scholarships after you have been admitted to UQAM as an international student.</p>
 <ul>
 <li><a href="https://vanier.gc.ca/">Vanier</a></li>
 <li><a href="http://www.frqnt.gouv.qc.ca/en/accueil">FRQNT</a></li>
 <li><a href="https://ssa.uqam.ca/nos-services/bourses/bourses-dexcellence/pbeee.html">PBEEE</a></li>
 </ul>
-<p>All three of these scholarships are highly competitive and usually, there is an internal UQÀM pre-selection. Do not mix up and miss the internal deadline before the overall deadline.</p>
-<p>There are several smaller scholarships from UQÀM. Check each semeseter for which scholarships you can apply to on <a href="https://www.apps.uqam.ca/application/bourses/login/login.aspx">RIBÉ</a>.</p>
+<p>All three of these scholarships are highly competitive and usually, there is an internal UQAM pre-selection. Do not mix up and miss the internal deadline before the overall deadline.</p>
+<p>There are several smaller scholarships from UQAM. Check each semeseter for which scholarships you can apply to on <a href="https://www.apps.uqam.ca/application/bourses/login/login.aspx">RIBÉ</a>.</p>
 <hr />
 </div>
 <div id="health-insurance" class="section level3">
 <h3>13. Health insurance</h3>
 <p>You will get a health insurance card by e-mail once you’ve paid your first tuition. It is private insurance provided by <strong>Desjardins</strong>. You can check what is covered in <a href="https://vie-etudiante.uqam.ca/medias/fichiers/vous-etes_etudiant-etranger/Q178_en_br_Foreign_University_Students.pdf">this leaflet</a>. As a foreign student, you do not have access to the Québec insurance called <em>RAMQ</em> (except a few exemption countries such as France and Belgium).</p>
-<p>Usually, the insurance card will be sent to you within a month after paying the tuition. However, this means that you’re not covered by an insurance until you have your card. Make sure to be covered by travel insurance from your country of origin (e.g. <a href="http://www.bluecross.ca/en/index.html">blue cross</a>) or a private insurance (e.g. <a href="https://www.desjardinslifeinsurance.com/en/individual-insurance/life-health-disability-insurance/health-disability-insurance/healthcare-insurance">Desjardins</a>) to live through this un-covered period without being worried constantly.</p>
+<p>Usually, the insurance card will be sent to you within a month after paying the tuition. However, this means that you’re not covered by an insurance until you have your card. Make sure to be covered by travel insurance from your country of origin (e.g. <a href="http://www.bluecross.ca/en/index.html">blue cross</a>) or a private insurance (e.g. <a href="https://www.desjardinslifeinsurance.com/en/individual-insurance/life-health-disability-insurance/health-disability-insurance/healthcare-insurance">Desjardins</a>) to live through this un-covered period without being worried constantly.</p>
 <p>You can get access to an online account of Desjardins to ask for reimbursement of medical expenses <a href="https://auth.desjardins.com/Account/SignIn?ReturnUrl=%252fissue%252fwsfed%253fwa%253dwsignin1.0%2526wtrealm%253dhttp%25253a%25252f%25252fsession.desjardins.com%25252fadfs%25252fservices%25252ftrust%2526wctx%253d5cb0841a-41a3-4e94-ae34-dace07d7486a%2526wct%253d2020-01-03T21%25253a45%25253a17Z%2526whr%253dhttp%25253a%25252f%25252fauth.desjardins.com%25252ftrust%25252finitial%2526owtrealm%253dhttps%25253a%25252f%25252fICA%2526owctx%253drm%25253d0%252526id%25253dpassive%252526ru%25253d%2525252fAGEA-GBIM%2525252fAthntfctn%2525252fAccl%2525252fAccueil_Home.aspx%2526fav%253dhttps%25253a%25252f%25252fsession.desjardins.com%25252fadfs%25252fls%25252f%25253fwa%25253dwsignin1.0%252526wtrealm%25253dhttps%25253a%25252f%25252fICA%252526wctx%25253drm%25253d0%252526id%25253dpassive%252526ru%25253d%252525252fAGEA-GBIM%252525252fAthntfctn%252525252fAccl%252525252fAccueil_Home.aspx%252526wct%25253d2020-01-03T21%25253a45%25253a17Z%252526whr%25253dhttp%25253a%25252f%25252fauth.desjardins.com%25252ftrust%25252finitial%252526wreply%25253dhttps%25253a%25252f%25252fwww.agea-gbim.dsf-dfs.com%25252fAGEA-GBIM%25252fDefault.aspx">here</a>. You can create an account once you have your insurance card. If you have any questions, you can always contact them with the online form. They usually respond quite quickly.</p>
 <p>Additionally, we have access to the dental insurance negotiated by our student association. This insurance is optional, so you can choose not to pay. However, by default, it is included in your tuition fees. You need to ask for it to be removed, but you can only do this at the beginning of the Fall semester for the entire academic year (you can only do it in the Winter semester if that’s your first semester). For more information access the ASEQ page <a href="https://aseq.ca/View.aspx?locale=fr&amp;uid=Universit%c3%a9duQu%c3%a9bec%c3%a0Montr%c3%a9alUQ%c3%80M_Demandedindemnisation_ObtenirmonCODEdindemnisationAS%c3%89Q">here</a>.</p>
 <p>Unfortunately, we cannot have access to all the other insurances provided by ASEQ as international students (e.g. travel insurance).</p>
@@ -713,7 +713,7 @@ summary {
 </ul>
 <p>Other clinics without appointment fee:</p>
 <ul>
-<li><a href="https://vie-etudiante.uqam.ca/etudiant-etranger/formalites-administratives/couverture-medicale.html#consultations-medicales-au-quebec-comment-proceder">UQÀM website</a></li>
+<li><a href="https://vie-etudiante.uqam.ca/etudiant-etranger/formalites-administratives/couverture-medicale.html#consultations-medicales-au-quebec-comment-proceder">UQAM website</a></li>
 </ul>
 <p>One of them is:</p>
 <ul>
@@ -733,9 +733,10 @@ summary {
 </div>
 <div id="driving-license" class="section level3">
 <h3>15. Driving license</h3>
-<p>You are only allowed to drive with your driving license from your country of origin up to six months (starting from the date of your arrival in Québec), as long you have an official translation of it if it is not indicated in French or English. For more information, check the <a href="https://saaq.gouv.qc.ca/">SAAQ</a>.</p>
-<p>Whenever you are driving, make sure to have your original driving license, the translation, and your UQÀM student card with you. You need to be able to prove that you’re a student in order to drive with your original (non-Québecois) driving license.</p>
-<p>The first day after the six-month period passes you will be driving illegally. So make sure to apply for a valid Quebec license. If your driving license is from a certain country, you can easily apply for a Quebec driving license. You need to bring:</p>
+<p>Students are allowed to use the driving license of their origin of country, as long you have an official translation of it (if it is not already in French or English). For more information, check the <a href="https://saaq.gouv.qc.ca/en/drivers-licences/foreign-drivers-licence/#etape1876">SAAQ</a>.</p>
+<p>Whenever you are driving, make sure to have your original driving license, the translation, and your UQAM student card with you. You need to be able to prove that you’re a student in order to drive with your original (non-Québecois) driving license.</p>
+<p>You also have an option of switching to a Quebec driving license. If you want to get a Quebec license, here is how to apply for one:</p>
+<p>You need to bring:</p>
 <ul>
 <li>foreign driver’s license</li>
 <li>work permit</li>
@@ -752,8 +753,8 @@ summary {
 <h3>16. Extending your study permit</h3>
 <p>Depending on how long your first permit is valid, you will need to apply for a study permit extension. Processing times may be longer than your initial study permit waiting period.</p>
 <p>The process is almost the same. You will need to first apply for a CAQ. After you have received the CAQ, you can apply to the study permit extension. Documents are almost the same, such as photograph, letter from your supervisor for financial support, etc. You will need to provide the number of your previous study permit as well.</p>
-<p>Additionally, you will need to ask UQÀM for documents to prove that you are currently a student. Visit the registrar to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you what you need. You will have to pay for the documents (~CAD$35). Make sure to scan your UQÀM documents. You will need to send the original documents for the CAQ application, but the study permit only requires the electronic scan.</p>
-<p>A useful resource at UQÀM is the <a href="vie-etudiante.uqam.ca/etudiant-etranger">International Student Office</a> or contact one of their staff members about upcoming events/workshops on how to extend your study permit (<a href="mailto:richer.yannick@uqam.ca">Yannick Richer</a>)</p>
+<p>Additionally, you will need to ask UQAM for documents to prove that you are currently a student. Visit the registrar to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you what you need. You will have to pay for the documents (~CAD$35). Make sure to scan your UQAM documents. You will need to send the original documents for the CAQ application, but the study permit only requires the electronic scan.</p>
+<p>A useful resource at UQAM is the <a href="vie-etudiante.uqam.ca/etudiant-etranger">International Student Office</a> or contact one of their staff members about upcoming events/workshops on how to extend your study permit (<a href="mailto:richer.yannick@uqam.ca">Yannick Richer</a>)</p>
 <blockquote>
 <p><strong>Tip</strong>: Whenever you renew your study permit, you need to visit the Social Insurance Number office to update them with your new permit to keep your SIN status up-to-date!</p>
 </blockquote>
@@ -772,9 +773,9 @@ summary {
 <h1>Post-docs (and research internship)</h1>
 <div id="before-arrival-1" class="section level2">
 <h2>Before arrival</h2>
-<div id="uqàm" class="section level3">
-<h3>1. UQÀM</h3>
-<p>Before you can apply to the work permit, you need an LMIA <strong>exemption number</strong> from UQÀM. Our research associate, Alice Parkes, will help you through the process. However, if you have any questions regarding the registration process contact:</p>
+<div id="uqam" class="section level3">
+<h3>1. UQAM</h3>
+<p>Before you can apply to the work permit, you need an LMIA <strong>exemption number</strong> from UQAM. Our research associate, Alice Parkes, will help you through the process. However, if you have any questions regarding the registration process contact:</p>
 <ul>
 <li>Post-docs: <a href="mailto:stagesfs_postdoc@uqam.ca">Stagiaires postdoctoraux Faculté des sciences</a></li>
 <li>Research interns: <a href="mailto:stagesfs_recherche@uqam.ca">Stagiaires de recherche Faculté des sciences</a></li>
@@ -826,7 +827,7 @@ summary {
 <p>Such kind of a joint application will cost approximately CAD$450 in total, including the permits and any other fees associated with it.</p>
 <hr />
 <blockquote>
-<p><strong>Tip</strong>: We recommend you to bring a buffer of cash to survive for at least a month or two, because processing times until UQÀM makes the first payment takes time!</p>
+<p><strong>Tip</strong>: We recommend you to bring a buffer of cash to survive for at least a month or two, because processing times until UQAM makes the first payment takes time!</p>
 </blockquote>
 <blockquote>
 <p><strong>Tip</strong>: Finding apartments from abroad is tricky. Sometimes students/post-docs leave at the same time as you arrive, so you can ask around. Otherwise, we recommend to book an AirBnb for a month and explore which neighbourhood you like. See the section on <a href="#apartment">apartments</a> for more information.</p>
@@ -838,7 +839,7 @@ summary {
 <h2>After arrival</h2>
 <div id="get-a-social-insurance-number-sin-1" class="section level3">
 <h3>1. Get a Social insurance number (SIN)</h3>
-<p>You will need to get your social insurance number (SIN) and provide it to UQÀM. To get your SIN, go to:</p>
+<p>You will need to get your social insurance number (SIN) and provide it to UQAM. To get your SIN, go to:</p>
 <blockquote>
 <p><em>Service Canada</em></p>
 <p><em>Guy-Favreau Complex, Suite 034</em></p>
@@ -860,7 +861,7 @@ summary {
 </div>
 <div id="registration" class="section level3">
 <h3>3. Registration</h3>
-<p>You have to register as a post-doc at UQÀM and there are several forms that needed to be filled out. After you got your SIN and a bank account, you can visit Alice Parkes to get help filling the registration form and get a registration number. In addition to the registration form, you will need to submit:</p>
+<p>You have to register as a post-doc at UQAM and there are several forms that needed to be filled out. After you got your SIN and a bank account, you can visit Alice Parkes to get help filling the registration form and get a registration number. In addition to the registration form, you will need to submit:</p>
 <ul>
 <li>Curriculum vitae</li>
 <li>Diploma(s)</li>
@@ -889,7 +890,7 @@ summary {
 <li>Passport</li>
 <li>Work Permit</li>
 </ul>
-<p>Upon arrival you have to ask for an appointment and wait – waiting is usually long, around 3 hours. Make sure to go early in the morning! Be aware that you will have to wait for more than 14 days to receive your insurance card. Once you get your RAMQ, you’ll have to wait for a further 3 months until it becomes active. Make sure to be covered by a travel insurance from your country of origin (e.g. <a href="http://www.bluecross.ca/en/index.html">blue cross</a>) or a private insurance (e.g. <a href="https://www.desjardinslifeinsurance.com/en/individual-insurance/life-health-disability-insurance/health-disability-insurance/healthcare-insurance">Desjardins</a>) to live through this un-covered period without being worried constantly. <a href="https://qc.bluecross.ca/health-insurance/health-insurance-solutions/recent-immigrants"><strong>Blue-Cross</strong></a> offers health insurance explicitly for people waiting to get the RAMQ.</p>
+<p>Upon arrival you have to ask for an appointment and wait – waiting is usually long, around 3 hours. Make sure to go early in the morning! Be aware that you will have to wait for more than 14 days to receive your insurance card. Once you get your RAMQ, you’ll have to wait for a further 3 months until it becomes active. Make sure to be covered by a travel insurance from your country of origin (e.g. <a href="http://www.bluecross.ca/en/index.html">blue cross</a>) or a private insurance (e.g. <a href="https://www.desjardinslifeinsurance.com/en/individual-insurance/life-health-disability-insurance/health-disability-insurance/healthcare-insurance">Desjardins</a>) to live through this un-covered period without being worried constantly. <a href="https://qc.bluecross.ca/health-insurance/health-insurance-solutions/recent-immigrants"><strong>Blue-Cross</strong></a> offers health insurance explicitly for people waiting to get the RAMQ.</p>
 <blockquote>
 <p>Remember, your RAMQ <strong>expires</strong> whenever your work permit expires too. When you get a work permit extension, you will need to re-apply for the RAMQ.</p>
 </blockquote>
@@ -909,13 +910,13 @@ summary {
 </div>
 <div id="student-card-1" class="section level3">
 <h3>5. Student Card</h3>
-<p>Once you have a registration number, as a post-doc and research intern, you get a student card and get access to student benefits and the gym. Make sure to bring your passport and they will make a picture on-site. Consult opening hours <a href="http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html">here</a>. The place is one floor down from the UQÀM registrariat in the UQÀM main campus.</p>
+<p>Once you have a registration number, as a post-doc and research intern, you get a student card and get access to student benefits and the gym. Make sure to bring your passport and they will make a picture on-site. Consult opening hours <a href="http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html">here</a>. The place is one floor down from the UQAM registrariat in the UQAM main campus.</p>
 <hr />
 </div>
-<div id="access-to-uqàm-email-1" class="section level3">
-<h3>6. Access to UQÀM email</h3>
+<div id="access-to-uqam-email-1" class="section level3">
+<h3>6. Access to UQAM email</h3>
 <p>You will receive an email with your <strong>MS code</strong> and <strong>NIP</strong> once your registration is completed. You will need both your <strong>MS code</strong> and <strong>NIP</strong> to access your email.</p>
-<p>Log-in to your UQÀM microsoft account <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&amp;redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&amp;resource=00000002-0000-0ff1-ce00-000000000000&amp;response_mode=form_post&amp;response_type=code+id_token&amp;scope=openid&amp;msafed=0&amp;client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&amp;protectedtoken=true&amp;domain_hint=uqam.ca&amp;nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&amp;state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ">here</a>.</p>
+<p>Log-in to your UQAM microsoft account <a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&amp;redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&amp;resource=00000002-0000-0ff1-ce00-000000000000&amp;response_mode=form_post&amp;response_type=code+id_token&amp;scope=openid&amp;msafed=0&amp;client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&amp;protectedtoken=true&amp;domain_hint=uqam.ca&amp;nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&amp;state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ">here</a>.</p>
 <p>Your email address should be in the form of <code>FirstName.LastName@uqam.ca</code>.</p>
 <hr />
 </div>
@@ -950,8 +951,8 @@ summary {
 </div>
 <div id="implicit-status-1" class="section level3">
 <h3>10. Implicit status</h3>
-<p>In case your working permit ends before your actual end-of-contract (e.g. through to an extension of the contract), it is required that you extend your work permit. The extension has to be done <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/extend.html">at least 30 days</a> before your current work permit expires. AFTER your work permit expires and the process of a work permit renewal is still going on, you are allowed to stay and work in Canada. However, UQÀM rules require a valid work permit for you to be employed and paid. And here you are, not having a valid work permit but are allowed to work in Canada, so you are neither fish nor fowl, hence you have an implicit status. This <em>implicit status</em> is a way around the problem with UQÀM rules. UQÀM can assign you an implicit status, which is temporary (period seemingly arbitrarily chosen by somebody in the administration and the period is usually not (well) communicated), so that they can employ and pay you.</p>
-<p>So when you realize that the processing time of your <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html">work permit extension</a> is longer than your current work permit, you have to inform Alice Parkes, provide the confirmation of your working permit extension application submission (from IRCC account), and the current processing time. This should allow UQÀM to assign you an implicit status and renew your contract beyond the expiring date of your current work permit. Whenever the (seemingly arbitrarily) period of your implicit status ends, you have to provide some more evidence, that “you are working on it”, meaning you have to contact IRCC (and provide the proof of that) and explain the situation to the UQÀM administration.</p>
+<p>In case your working permit ends before your actual end-of-contract (e.g. through to an extension of the contract), it is required that you extend your work permit. The extension has to be done <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/extend.html">at least 30 days</a> before your current work permit expires. AFTER your work permit expires and the process of a work permit renewal is still going on, you are allowed to stay and work in Canada. However, UQAM rules require a valid work permit for you to be employed and paid. And here you are, not having a valid work permit but are allowed to work in Canada, so you are neither fish nor fowl, hence you have an implicit status. This <em>implicit status</em> is a way around the problem with UQAM rules. UQAM can assign you an implicit status, which is temporary (period seemingly arbitrarily chosen by somebody in the administration and the period is usually not (well) communicated), so that they can employ and pay you.</p>
+<p>So when you realize that the processing time of your <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html">work permit extension</a> is longer than your current work permit, you have to inform Alice Parkes, provide the confirmation of your working permit extension application submission (from IRCC account), and the current processing time. This should allow UQAM to assign you an implicit status and renew your contract beyond the expiring date of your current work permit. Whenever the (seemingly arbitrarily) period of your implicit status ends, you have to provide some more evidence, that “you are working on it”, meaning you have to contact IRCC (and provide the proof of that) and explain the situation to the UQAM administration.</p>
 <p>You can decide to stay without health insurance if it is not too long or choose to take a private one (RAMQ needs a valid working permit to insure you). For example, Desjardins Insurance is providing one called <a href="https://www.desjardins.com/ressources/pdf/b20-depliant-visiteurs-canada-e.pdf">“Visitor Insurance in Canada: Special Conditions”</a> (~CAD$200/month).</p>
 <p>About leaving and re-entering Canada without a valid work permit, this is not very clear and there is the risk that one cannot re-enter Canada (this is up to the border control officer). Personal experience shows that it is no big deal, as long as the documents proving that the renewal process of the working permit is ongoing can be shown. But there remains a risk.</p>
 <hr />
@@ -960,15 +961,15 @@ summary {
 </div>
 <div id="universal" class="section level1">
 <h1>Universal</h1>
-<div id="wi-fi-at-uqàm" class="section level2">
-<h2>1. Wi-fi at UQÀM</h2>
+<div id="wi-fi-at-uqam" class="section level2">
+<h2>1. Wi-fi at UQAM</h2>
 <p>Depending on what device you are using, the wifi setup will differ. Essentially, you will be using <strong>eduroam</strong>. Follow the instructions provided <a href="https://servicesinformatiques.uqam.ca/services/R%C3%A9seau%20sans%20fil">here</a> to connect to eduroam. There are separate sections for each operating system (e.g. Windows, Mac, Android, iPhone, etc.).</p>
 <p>If you have trouble with connecting to the wifi when you just arrive, contact Alice Parkes or Sara Mercier-Blais for a temporary visitor wifi login before you can connect to eduroam.</p>
 <hr />
 </div>
 <div id="access-to-labs-and-keys" class="section level2">
 <h2>2. Access to labs and keys</h2>
-<p>We have several labs that are shared among the universities at UQÀM. To get access to the labs, get the key <strong>NE 91</strong> from Katherine (CAD$5 cash deposit). You can also get keys to other labs and offices. Our key manager, Sylvie Guilbeault, is located in the RC floor of the SB-building (SB-R860). Usually, a cash deposit of ~CAD$10 for each key is necessary. You will get this money back once you return the key(s).</p>
+<p>We have several labs that are shared among the universities at UQAM. To get access to the labs, get the key <strong>NE 91</strong> from Katherine (CAD$5 cash deposit). You can also get keys to other labs and offices. Our key manager, Sylvie Guilbeault, is located in the RC floor of the SB-building (SB-R860). Usually, a cash deposit of ~CAD$10 for each key is necessary. You will get this money back once you return the key(s).</p>
 <p>Some labs/rooms have calendars to manage its usage:</p>
 <ul>
 <li><a href="https://teamup.com/ks4a7d3d6d5515ab77/">GRIL analytical equipment</a></li>
@@ -989,22 +990,22 @@ summary {
 </div>
 <div id="freely-available-software" class="section level2">
 <h2>4. Freely available software</h2>
-<p>There are various software that you can access through UQÀM (e.g. JMP, SPSS, etc.). To see which programs you can download, check <a href="https://servicesinformatiques.uqam.ca/services/Laboratoire%20virtuel">here</a>. You can log-in to the <a href="https://www.bureauvirtuel.uqam.ca/Citrix/XenAppSitel/site/default.aspx"><em>virtual lab</em></a> to download the software.</p>
+<p>There are various software that you can access through UQAM (e.g. JMP, SPSS, etc.). To see which programs you can download, check <a href="https://servicesinformatiques.uqam.ca/services/Laboratoire%20virtuel">here</a>. You can log-in to the <a href="https://www.bureauvirtuel.uqam.ca/Citrix/XenAppSitel/site/default.aspx"><em>virtual lab</em></a> to download the software.</p>
 <p>To get access to <strong>ArcGIS</strong>, send an email to <a href="mailto:geolab@uqam.ca">geolab@uqam.ca</a> to ask for the academic license and installation instructions.</p>
 <p>Other universally open-access software are <a href="https://www.r-project.org/">R</a> for statistical computing, <a href="https://qgis.org/en/site/">QGIS</a> for maps and geographical computing, and <a href="https://www.mendeley.com/?interaction_required=true">Mendeley</a> or <a href="https://www.zotero.org/">Zotero</a> for organising your references.</p>
-<p>To obtain a free <a href="https://audiovisuel.uqam.ca/services-offerts/zoom/">Zoom Pro account</a> through UQÀM, you will need your <strong>MS code</strong> and <strong>user password</strong>. Click <a href="https://uqam.zoom.us/">here</a> to create an account. When you have Zoom installed on your computer, select <em>‘Sign In with SSO’</em>, type in <em>‘uqam.zoom.us’</em> as the company domain, and you will be redirected to login with your MS code and password.</p>
+<p>To obtain a free <a href="https://audiovisuel.uqam.ca/services-offerts/zoom/">Zoom Pro account</a> through UQAM, you will need your <strong>MS code</strong> and <strong>user password</strong>. Click <a href="https://uqam.zoom.us/">here</a> to create an account. When you have Zoom installed on your computer, select <em>‘Sign In with SSO’</em>, type in <em>‘uqam.zoom.us’</em> as the company domain, and you will be redirected to login with your MS code and password.</p>
 <hr />
 </div>
 <div id="access-to-publications" class="section level2">
 <h2>5. Access to publications</h2>
-<p>Only employees can access the UQÀM VPN (due to security reasons).</p>
+<p>Only employees can access the UQAM VPN (due to security reasons).</p>
 <p>For students and post-docs, if you need to get access to papers:</p>
 <ol style="list-style-type: lower-alpha">
-<li><p><strong>At UQÀM</strong>: If you’re using the Wi-fi of the university, you will be automatically directed to the UQÀM library services when downloading papers.</p></li>
-<li><p><strong>Outside of UQÀM</strong>: You need to set up a link to the UQÀM library in your browser. Refer to instructions <a href="https://bibliotheques.uqam.ca/ressources-electroniques/">here</a>.</p></li>
+<li><p><strong>At UQAM</strong>: If you’re using the Wi-fi of the university, you will be automatically directed to the UQAM library services when downloading papers.</p></li>
+<li><p><strong>Outside of UQAM</strong>: You need to set up a link to the UQAM library in your browser. Refer to instructions <a href="https://bibliotheques.uqam.ca/ressources-electroniques/">here</a>.</p></li>
 </ol>
 <p>You will be asked for your <em>code MS</em> and <em>password</em> every time you access a non-open-access resource.</p>
-<p>If you want to use another article search engine besides <em>Google Scholar</em>. For example, <em>Scopus</em> use this <a href="https://www-scopus-com.proxy.bibliotheques.uqam.ca:2443/search/form.uri?display=basic&amp;clear=t&amp;origin=searchauthorlookup&amp;txGid=1a6400297ca89390d62f31a08e8764a5">link</a> (URL includes the library proxy) to use the search engine through the UQÀM library.</p>
+<p>If you want to use another article search engine besides <em>Google Scholar</em>. For example, <em>Scopus</em> use this <a href="https://www-scopus-com.proxy.bibliotheques.uqam.ca:2443/search/form.uri?display=basic&amp;clear=t&amp;origin=searchauthorlookup&amp;txGid=1a6400297ca89390d62f31a08e8764a5">link</a> (URL includes the library proxy) to use the search engine through the UQAM library.</p>
 <p>Some journals are not accessible through our university. Then <a href="sci-hub.tw/"><em>Sci-hub</em></a> comes to rescue.</p>
 <hr />
 </div>
@@ -1021,7 +1022,7 @@ summary {
 <li><a href="https://calendar.google.com/calendar/embed?src=jv0dl4buninp7e0ioctqt8m28g%40group.calendar.google.com&amp;ctz=America%2FToronto">Ecology</a></li>
 <li><a href="https://calendar.google.com/calendar?cid=YzM0bnNmcnAxcWxoZm8ycTc5NTAyNXMzMHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ">Midi-aquatique</a></li>
 </ul>
-<p>Additionally, our laboratories are part of an interuniversity limnology society of Quebec called GRIL. We have several GRIL groups at UQÀM and there is also a <a href="(https://us10.list-manage.com/subscribe?u=51cc82ab57c93800bfccbdc4c&amp;id=a786c35733)">mailing list</a> for this that you can subscribe to.</p>
+<p>Additionally, our laboratories are part of an interuniversity limnology society of Quebec called GRIL. We have several GRIL groups at UQAM and there is also a <a href="(https://us10.list-manage.com/subscribe?u=51cc82ab57c93800bfccbdc4c&amp;id=a786c35733)">mailing list</a> for this that you can subscribe to.</p>
 <hr />
 </div>
 <div id="gril-member" class="section level2">
@@ -1030,7 +1031,7 @@ summary {
 <p>If you arrive in spring or autumn, make sure to ask your cohorts if these events are happening soon, so as not to miss the registration period. The GRIL Symposium usually takes place <em>mid-March</em> and the ÉcoLac workshop in the <em>end of October/beginning of November</em>.</p>
 <p>To join the GRIL access the <a href="https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=5451">Intranet</a>. The password is <em>GRILdoc</em>. Go to “Application form for GRIL student membership” and fill in the necessary information. Membership is free for students.</p>
 <p>In the Intranet, you will also find information on the various scholarships and travel awards that the GRIL offers.</p>
-<p>If you’re more interested in the GRIL, we have several groups that are part of GRIL at UQÀM and you can check the <a href="https://gril.uqam.ca/">UQÀM-GRIL website</a>.</p>
+<p>If you’re more interested in the GRIL, we have several groups that are part of GRIL at UQAM and you can check the <a href="https://gril.uqam.ca/">UQAM-GRIL website</a>.</p>
 <p>Contact <a href="mailto:velghe.katherine@uqam.ca">Kahterine Velghe</a> for any further information, she also has a guide to the GRIL.</p>
 <hr />
 </div>
@@ -1038,12 +1039,12 @@ summary {
 <h2>8. Expense Reports</h2>
 <p>Whenever you go to a conference or spend money during a research activity (e.g. attending workshops or internships), you need to file expense reports. Make sure to keep all your receipts.</p>
 <p>The expense report form ‘rapport de dépenses’ is used for requesting an advance before your trip or requesting reimbursement after your trip. The paper form has a unique number and you can get one from Alice Parkes or from the secretary, Sylvie Guilbeault, in SB-R860, but here’s an <a href="https://servicesfinanciers.uqam.ca/uploads/files/Laniel_P/SF-070.PDF">example</a>.</p>
-<p>Fill out the first three sections of the report and sign in the tiny space in the fourth section as the ‘demandeur or demandresse’. Alice can help you with your report and she will need to look over it, add the account number, sign, and keep a copy before it goes down to the secretary, Sylvie Guilbeault, in SB-R860. The secretary will also look it over before sending it to UQÀM financial services.</p>
+<p>Fill out the first three sections of the report and sign in the tiny space in the fourth section as the ‘demandeur or demandresse’. Alice can help you with your report and she will need to look over it, add the account number, sign, and keep a copy before it goes down to the secretary, Sylvie Guilbeault, in SB-R860. The secretary will also look it over before sending it to UQAM financial services.</p>
 <blockquote>
-<p>If you don’t have enough money in your private bank account to pay for large expenses such as a plane ticket to a conference location, you can ask for an advance payment or book the plane ticket through a travel agency that UQÀM uses.</p>
+<p>If you don’t have enough money in your private bank account to pay for large expenses such as a plane ticket to a conference location, you can ask for an advance payment or book the plane ticket through a travel agency that UQAM uses.</p>
 </blockquote>
 <blockquote>
-<p>Keep in mind that advances come fairly quickly, but the other types of expense reports take 4 weeks to process from the time they arrive at UQÀM financial services.</p>
+<p>Keep in mind that advances come fairly quickly, but the other types of expense reports take 4 weeks to process from the time they arrive at UQAM financial services.</p>
 </blockquote>
 <div id="detailed-instructions" class="section level3">
 <h3>Detailed instructions</h3>
@@ -1070,7 +1071,7 @@ summary {
 <li>check the ‘Rapport de voyage’ (Trip report) box</li>
 <li>indicate the number of the form you used for the advance and the $ amount of the advance in the lower right ‘moins avance no.’</li>
 </ul>
-<p>If Paul or Yves purchased your flight through the UQÀM travel agency, this is considered an advance and you need to provide a follow-up report even if you have no other expenses. In this case, the ‘form number’ is actually the travel agency bill number and the amount is the cost of the flight.</p>
+<p>If Paul or Yves purchased your flight through the UQAM travel agency, this is considered an advance and you need to provide a follow-up report even if you have no other expenses. In this case, the ‘form number’ is actually the travel agency bill number and the amount is the cost of the flight.</p>
 <hr />
 <div id="documents-needed" class="section level4">
 <h4>Documents needed:</h4>
@@ -1136,7 +1137,7 @@ summary {
 <blockquote>
 <p>To help you file the report you can use <a href="https://www.ufile.ca/">UFile</a>, which is free for students with the code: CFS1981</p>
 </blockquote>
-<p>There are also seminars at UQÀM that prepare you for filing your taxes (in French). Keep an eye on your UQÀM email inbox if you’re interested.</p>
+<p>There are also seminars at UQAM that prepare you for filing your taxes (in French). Keep an eye on your UQAM email inbox if you’re interested.</p>
 <p>Other helpful links:</p>
 <ul>
 <li><a href="https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html">Tax Guide for Newcomers</a></li>
@@ -1163,13 +1164,13 @@ summary {
 <li><a href="https://www.dawsoncollege.qc.ca/ctd/course-category/languages/">Dawson College</a></li>
 </ul>
 <p>Many courses still fill up quickly. Make sure to register in advance before a semester starts.</p>
-<p>If your French level is already more advanced, there are advanced courses offered by <a href="https://langues.uqam.ca/francais/">UQÀM</a>. If you’re thinking of applying for a permanent residency eventually, they also offer courses to prepare for the exam. Apparently, it is very hard to get into the UQÀM courses though, even if you contact them, they often do not reply.</p>
+<p>If your French level is already more advanced, there are advanced courses offered by <a href="https://langues.uqam.ca/francais/">UQAM</a>. If you’re thinking of applying for a permanent residency eventually, they also offer courses to prepare for the exam. Apparently, it is very hard to get into the UQAM courses though, even if you contact them, they often do not reply.</p>
 <hr />
 </div>
 <div id="mental-health-support" class="section level2">
 <h2>11. Mental health support</h2>
 <p>Whenever you need some additional support, here are some resources for you to get started on finding the help you need.</p>
-<p>Resources from UQÀM: Go to <a href="https://vie-etudiante.uqam.ca/nous-contacter/coordonnees-horaire.html#soutien-psychologique">Services a la vie etudiante</a> (Student Life Services) and under the tab “Soutien Psychologique” (Psychological support), you’ll find the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Gk7LEtpCHEmQ4Xp6l1NQb2zuGeD6ebBFnn6fs42pcL5UQTI1VExINDk0V0VLN09FOFBLNTRFR1ExQyQlQCN0PWcu">request form for support and consultation</a> (if you would like to be communicated in English, make sure to specify that in the form). From here, you will be contacted by a staff member from UQÀM Services-conseils (Advisory Services). The staff from UQÀM Advisory Services will be in contact with you and connect you to the services you need that work for your budget.</p>
+<p>Resources from UQAM: Go to <a href="https://vie-etudiante.uqam.ca/nous-contacter/coordonnees-horaire.html#soutien-psychologique">Services a la vie etudiante</a> (Student Life Services) and under the tab “Soutien Psychologique” (Psychological support), you’ll find the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Gk7LEtpCHEmQ4Xp6l1NQb2zuGeD6ebBFnn6fs42pcL5UQTI1VExINDk0V0VLN09FOFBLNTRFR1ExQyQlQCN0PWcu">request form for support and consultation</a> (if you would like to be communicated in English, make sure to specify that in the form). From here, you will be contacted by a staff member from UQAM Services-conseils (Advisory Services). The staff from UQAM Advisory Services will be in contact with you and connect you to the services you need that work for your budget.</p>
 <p>The average cost is CAD$82-100 per session. Note: <em>Dejardins Insurance</em> currently offers CAD$500 deductible per coverage year, with the maximum of CAD50 applied per visit.</p>
 <hr />
 </div>
@@ -1191,7 +1192,7 @@ summary {
 </thead>
 <tbody>
 <tr class="odd">
-<td>UQÀM admission fee</td>
+<td>UQAM admission fee</td>
 <td align="center">126.00</td>
 </tr>
 <tr class="even">
@@ -1223,7 +1224,7 @@ summary {
 </div>
 <div id="after-arrival-2" class="section level3">
 <h3>After arrival</h3>
-<p>We recommend that you have a good amount saved up for your first few months in Montreal, since UQÀM takes at least <strong>five</strong> weeks to process your stipend, and you would have to pay for your expenses yourself until then.</p>
+<p>We recommend that you have a good amount saved up for your first few months in Montreal, since UQAM takes at least <strong>five</strong> weeks to process your stipend, and you would have to pay for your expenses yourself until then.</p>
 <table>
 <colgroup>
 <col width="48%"></col>
@@ -1300,8 +1301,8 @@ summary {
 </div>
 <div id="other-resources" class="section level2">
 <h2>13. Other resources</h2>
-<div id="at-uqàm" class="section level3">
-<h3>At UQÀM</h3>
+<div id="at-uqam" class="section level3">
+<h3>At UQAM</h3>
 <ul>
 <li>Food court in the PK-building (is not particularly cheap)</li>
 <li><a href="http://aessuqam.org/Cafe-Fractal">Fractal</a> (Student coffee shop in the SH-building)</li>
@@ -1318,14 +1319,14 @@ summary {
 <li><p><a href="https://www.td.com/us/en/personal-banking/">TD Bank</a></p>
 <p><em>Why</em>: TD Bank also operates in the US, so if you want to have all your banking with one institution for both countries, TD makes it more convenient. You can also get a credit card by opening a savings account and the amount in the savings will be your credit line limit. Go with the student plan to avoid any bank fees.</p></li>
 <li><p><a href="https://www.desjardins.com/ca/personal/">Desjardins</a></p>
-<p><em>Why</em>: Provides free credit card for students. It’s easy to get a credit card for Post-docs, too (even for your spouse). Offers other insurances such as car and home insurance for a cheaper price if you have a bank account with them. ATM located within the UQÀM building.</p></li>
+<p><em>Why</em>: Provides free credit card for students. It’s easy to get a credit card for Post-docs, too (even for your spouse). Offers other insurances such as car and home insurance for a cheaper price if you have a bank account with them. ATM located within the UQAM building.</p></li>
 <li><p><a href="https://www.rbcroyalbank.com/personal.html">Royal Bank of Canada (RBC)</a></p></li>
 <li><p><a href="https://www.cibc.com/en/personal-banking.html">Canadian Imperial Bank of Commerce (CIBC)</a></p>
 <p><em>Why</em>: No fee for student checking account.</p></li>
 <li><p><a href="https://www.bmo.com/main/personal">Bank of Montreal (BMO)</a></p></li>
 <li><p>?</p></li>
 </ul>
-<p>Many choose their bank due to its proximity to their apartment or university. The closest bank branch to UQÀM is probably National Bank, but most other banks are located within a 10-15 min walk radius.</p>
+<p>Many choose their bank due to its proximity to their apartment or university. The closest bank branch to UQAM is probably National Bank, but most other banks are located within a 10-15 min walk radius.</p>
 <blockquote>
 <p>Some banks have a limit of debit transactions. If you’re a cash-less fanatic, make sure to go with a bank that has unlimited transactions.</p>
 </blockquote>
@@ -1339,6 +1340,7 @@ summary {
 <li><a href="https://www.teksavvy.com/">Teksavvy</a></li>
 <li><a href="https://www.ebox.ca/en/">Ebox</a></li>
 <li><a href="https://www.virginmobile.ca/en/internet/index.html?province=QC">Virgin</a></li>
+<li><a href="https://fizz.ca/en/internet">Fizz</a></li>
 </ul>
 <hr />
 </div>
@@ -1352,6 +1354,7 @@ summary {
 </ul>
 <p>Deals change very frequently. Check what deals are offered from which company. It’s all about timing! There are prepaid plans, too. However, most of them do not cover in more remote areas. If you want to use your phone during fieldwork, we strongly recommend you to get a plan.</p>
 <p>If you are bringing a phone from abroad, make sure to check whether your phone covers some of the frequencies of the provider you are interested in! You can check frequency coverage <a href="https://www.frequencycheck.com/countries/canada">here</a>, for example.</p>
+<p>If your phone was tied to a phone plan with a different company before switching to a Canadian service provider, check whether if the phone is locked. All cell providers here will unlock your phone for free, so check with them before you choose to pay for it to be unlocked.</p>
 <p>For students/postdocs/interns coming from the US, you can also bring your phone and phone plan from the US provider, but make sure to check with the network so that you don’t get upcharge for roaming or additional service. There might be some restrictions on installing mobile apps specifically target Canadians.</p>
 <hr />
 </div>
@@ -1360,7 +1363,7 @@ summary {
 <ul>
 <li><a href="https://www.mcgill.ca/studentaid/files/studentaid/cheap_sheet_march_2018.pdf">Kijiji</a></li>
 <li><a href="https://montreal.craigslist.org/">Craigslist</a></li>
-<li>Facebook groups (e.g. <a href="https://www.facebook.com/groups/pvtistesamontrealpetitesannoncesofficiel/">PVT</a>, <a href="https://www.facebook.com/groups/516817751854925/">Logements à louer</a>, <a href="Logements%20à%20Louer,%20Montréal,%20Apartments%20for%20Rent">Apartments for rent</a>)</li>
+<li>Facebook groups (e.g. <a href="https://www.facebook.com/groups/pvtistesamontrealpetitesannoncesofficiel/">PVT</a>, <a href="https://www.facebook.com/groups/516817751854925/">Logements à louer</a>, <a href="Logements%20à%20Louer,%20Montréal,%20Apartments%20for%20Rent">Apartments for rent</a>)</li>
 </ul>
 <hr />
 </div>
@@ -1370,10 +1373,12 @@ summary {
 <li><a href="http://www.bulkbarn.ca/en/Home">Bulk Barn</a> get un-packaged food.</li>
 <li><a href="supermarchepa.com">PA Supermarché</a> cheaper vegetables and cheese.</li>
 <li>Segal’s market</li>
-<li>Provigo close to UQÀM has a point system called PC optimum. Students get 20% points on any purchase from Mon-Wed. If you do all your groceries there, you can get CAD$10-20 cashback each month.</li>
+<li>Provigo close to UQAM has a point system called PC optimum. Students get 20% points on any purchase from Mon-Wed. If you do all your groceries there, you can get CAD$10-20 cashback each month.</li>
 <li><a href="https://www.winners.ca/en">Winners</a> Clothes outlet stores</li>
 <li>Dollarama: Dollar store, not the best quality but gets you what you need.</li>
 <li>Canadian Tire: Not cheap, but has all necessary things from gardening, kitchenware to making your own bathroom.</li>
+<li><a href="https://goo.gl/maps/dmNvZbsBy5Hveor47">Marché Jean-Talon</a>: cheap fruits and vegetables in the summer.</li>
+<li><a href="https://goo.gl/maps/iRyxox9XHEa9jyXaA">Atwater Market</a>: cheap produces in the summer.</li>
 </ul>
 <hr />
 </div>
@@ -1386,9 +1391,13 @@ summary {
 </ul>
 <p>There is a great <a href="https://www.mcgill.ca/studentaid/files/studentaid/cheap_sheet_march_2018.pdf">‘cheap list’</a> by McGill. Many things on the list are only for McGill students, but others are for everyone!</p>
 <hr />
+</div>
+</div>
+</div>
+<div id="license" class="section level1">
+<h1>License</h1>
+<p>The code and the information in this document is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a> License.</p>
 <p><br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /></p>
-</div>
-</div>
 </div>
 
 

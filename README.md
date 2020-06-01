@@ -45,8 +45,13 @@ Here is a list of softwares/tools that you will need to open and work with the f
 # List of contributors 
 In no particular order:
 
+Maintainers:
 * Masumi Stadler - `@masumistadler`
 * Indigo Tran - `@indigotran`
+
+Content contributors:
+* Masumi Stadler
+* Indigo Tran
 * Alice Parkes
 * Sofìa Baliña
 * Pascal Bodmer
@@ -55,6 +60,7 @@ In no particular order:
 * Pedro Barbosa
 * Mathilde Couturier
 * Mario Muscarella
+* Audrey Picard
 
 # License
 
