@@ -1,6 +1,6 @@
 # Beginner's guide to UQÀM and Canada
 
-Welcome!  :tada:  Bienvenue!  :sparkles:  ようこそ!  Chào mừng!  :confetti_ball:  환영!
+Welcome!  :tada:  Bienvenue!  Bienvenido!  :sparkles:  Bem-vinda!  ようこそ!  :confetti_ball:  Chào mừng!  환영!
 
 This repository contains the guide for international students who are starting their program in our lab *Prairie & del Giorgio UQÀM*. The GitHub repository is for contributors to update and manage the guide.
 
@@ -56,6 +56,7 @@ Content contributors:
 * Sofìa Baliña
 * Pascal Bodmer
 * Yudhistir Reddy
+* Paula Reis
 * Bianca Rodriguez-Cardona
 * Pedro Barbosa
 * Mathilde Couturier
@@ -64,4 +65,6 @@ Content contributors:
 
 # License
 
-The code and the information in this repository is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) License.
+The code and the information in this repository is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
