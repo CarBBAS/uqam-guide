@@ -1,8 +1,8 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
 author: "CarBBAS"
-date: 'Last updated on: 29 May 2020'
-version: 0.2.1
+date: 'Last updated on: 2 June 2020'
+version: 0.2.2
 output:
   html_document:
     toc: yes
@@ -960,7 +960,10 @@ There is a great ['cheap list'](https://www.mcgill.ca/studentaid/files/studentai
 ---
 
 # License
-The code and the information in this document is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) License.
+
+The code and the information in this repository is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 <br/><br/>
 <br/><br/>
