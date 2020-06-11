@@ -1,7 +1,7 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
 author: "CarBBAS"
-date: 'Last updated on: 2 June 2020'
+date: 'Last updated on: 11 June 2020'
 version: 0.2.2
 output:
   html_document:
@@ -789,7 +789,77 @@ Other helpful links:
 ---
 
 ### Post-docs
-Helpful links:
+
+Here some basic steps to file your income taxes:
+
+1.	Download the (amended) tax slips [here](https://www.siga3.uqam.ca/apex/f?p=250:10:28355860698442:::::).
+If you have never accessed this page (since there are a vast amount of various human resources websites), here are some tips:
+* "Matricule" is a personalized 6 digit number, you can find it [here](https://www.rhu.uqam.ca/index.aspx?id=p258) for example or at the top right of your payslips:
+  ![](./Photos/Post-docs_Tax_1.png)
+
+---
+
+* "NAS" stands for "numéro d'assurance social" and is the same as the "SIN" number (Social Insurance Number), you have to enter the last 6 digits.
+    
+* For the "I am not a robot" thingy, it only works if you add the spaces!
+![](Photos/Post-docs_Tax_2.png)
+
+---
+
+* The corrected RL-1 should have the following codes:
+A-14 and A-11 and an indication “MODIFIÉ” in the bottom of the document:
+    
+    ![](Photos/Post-docs_Tax_3.png)
+    
+  * These codes indicate your benefits (tax exemption) as a foreign postdoctoral trainee. You will be asked for the code and the values related to them when filling out your taxes.
+    
+---
+
+2. I guess there are several ways to do the taxes electronically, but I used this [software](https://www.ufile.ca/best-results-guaranteed?Ref=HD01&gclid=EAIaIQobChMImvmBsdrF6QIVQ77ACh1AyQAyEAAYASAAEgJuP_D_BwE&gclsrc=aw.ds). You have to create an account and pay for it in the end (something like 20 CAD).
+
+---
+
+3. Start the UFile software and complete the info (personal stuff and what is written on your tax slips), some things are very intuitive, and some things nobody really knows. The best thing, in that case, is to ask somebody from the group.
+  * An important part while filling the tax form (I used UFile) is this part:
+    
+    ![](Photos/Post-docs_Tax_4.png)
+  * I guess if this is not done there is a problem and you get less money? No idea what would happen and I guess not necessary to be explored.
+  
+---
+    
+  * During your provincial taxes, you will get back almost 100% of what you paid for in taxes. However, you still need to pay your prescription drug premium based on Section K (one of the forms). When filling out the form you may be asked if you are exempt for any months during the year (i.e., if you had another plan). If you moved to Quebec during the year this may be confusing, but your premium amount is already adjusted for residence. So unless you had another plan *during your time in Quebec*, you do not need to claim any of these exemptions (or at least none of us do/did).
+    
+---
+    
+4. When the tax form is completed, you get a prepared federal and provincial tax sheet. In the FIRST year, you have to print them, after that, you can do it electronically (both, federal and provincial taxes). For the FIRST year, you can bring the printed provincial tax sheet to Revenue Quebec in person:
+
+![](Photos/Post-docs_Tax_5.png)
+
+---
+
+  * There is one office at the Dejardins complex, but with the website, you can check the office which is near you. If you live in Montreal and want to mail your return, here the address:
+
+> **Provincial**:
+>
+> Revenu Quebec
+>
+> C.P. 3000 Succursale Place-Desjardins
+>
+> Montreal, Quebec H5B 1A4
+
+* If you live in Montreal you have to send the printed federal tax sheet via mail to:
+
+> **Federal**:
+>
+> Sudbury Tax Centre
+>
+> 1050 Notre Dame Avenue
+>
+> Sudbury, ON P3A 5C2
+
+---
+
+Other helpful links:
 
 [Quebec tax exemption for post-docs](http://www4.gouv.qc.ca/fr/Portail/citoyens/programme-service/Pages/Info.aspx?sqctype=sujet&sqcid=412)
 
