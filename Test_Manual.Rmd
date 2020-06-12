@@ -9,7 +9,7 @@ output:
     number_sections: false
     toc: true
     toc_depth: 3
-    toc_float: false
+    toc_float: true
 ---
 <!-- Navigating to sepcific section: -->
 

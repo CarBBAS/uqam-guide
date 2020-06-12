@@ -7,6 +7,10 @@ output:
   html_document:
     toc: yes
     toc_depth: 3
+    toc_float:
+      collapsed: true
+      smooth_scroll: true
+    self_contained: true
   pdf_document:
     toc: yes
     toc_depth: '3'
@@ -16,6 +20,12 @@ output:
 
 # A few words
 Welcome! You are joining UQAM and you are heading towards an adventure to live in Montréal. This is a list of things that you need to do before and after arriving in Montréal, and other things are just for informative purposes. Information given here is merely to help you through the sometimes overwhelming steps until you get settled in with us. This list is not a definitive instruction, and we will try to keep the points and links updated to the best of our knowledge, but be aware that things may change and information are not 100% accurate anymore. If there is something unclear, don't hesitate to contact any of the current lab members.
+
+---
+
+# Our values
+
+
 
 ---
 
@@ -183,8 +193,9 @@ You will need your:
 Log-in to your UQAM microsoft account [here](https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3A%2F%2Foutlook.office.com%2Fowa%2F&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=31a16e0a-7920-4f81-9bf0-f6d4886043e7&protectedtoken=true&domain_hint=uqam.ca&nonce=636892913045285974.37c448c6-87e9-4ae1-8821-a29c70c3a44e&state=DcsxDoAwCEBRqqtXqW2BFjgOIR2NcTBe3w7vbz8BwL5sS6orIIOGGlqjyh21m_BJEswaI6tMy-yzZVVs2dFCapAzz7Teo9yfl_fx6wz_AQ). 
 
 Your email login should be in the form of `MScode@ens.uqam.ca`.
-
 The password is the *first three letters of your surname in capital + NIP* (e.g. UQA00000).
+
+> Your **email login ID** (`MScode@ens.uqam.ca`) is different from your **email address** (what you give to others to contact you), as your email address should be in the form of `LastName_GivenName@courrier.uqam.ca`.
 
 ---
 
