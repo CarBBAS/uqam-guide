@@ -1,19 +1,22 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
-author: "Authours: See #contributor list"
+author: 'Authors: See #contributor list'
 date: 'Last updated on: 22 June 2020'
-version: 0.3.0
 output:
-  html_document:
+  word_document:
     toc: yes
-    toc_depth: 3
-    toc_float:
-      collapsed: true
-      smooth_scroll: true
-    self_contained: true
+    toc_depth: '3'
   pdf_document:
     toc: yes
     toc_depth: '3'
+  html_document:
+    self_contained: yes
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: yes
+      smooth_scroll: yes
+version: 0.3.0
 ---
 
 ---

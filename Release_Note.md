@@ -9,7 +9,7 @@
 # uqam-guide 0.2.0 (2020 May 29)
 ## New Features
 
-- Interlectual property license ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- Interllectual property license ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 - Code of conduct
 - New test layout
 
