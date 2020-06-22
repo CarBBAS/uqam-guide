@@ -1,8 +1,8 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
-author: "CarBBAS"
-date: 'Last updated on: 19 June 2020'
-version: 0.2.2
+author: "Authours: See #contributor list"
+date: 'Last updated on: 22 June 2020'
+version: 0.3.0
 output:
   html_document:
     toc: yes
@@ -24,17 +24,15 @@ Welcome! You are joining UQAM and you are heading towards an adventure to live i
 ---
 
 # Our values
-  We acknowledge the right to the land that we are working on belongs to the First Nation Indigenous communities of the Kahnawà:ke, Inuit, Cree, Pessamit, and many others.
+  We acknowledge the right to the land on which we are working belongs to the First Nation Indigenous communities of the Kahnawà:ke, Inuit, Cree, Pessamit, and many others.
   
   Science is hard, and the work of making sure science isn’t harder than it needs to be is on all of us. We create our culture, and in the del Giorgio and Prairie labs, our culture is inclusive. We value every member of our community and want to ensure that every member and collaborator has a **positive and educational experience**.
   
-  We aim to create an **environment free of harassment and discrimination for everyone**. Unacceptable behavior includes offensive verbal comments related to gender, sexual orientation, disability, race, religious belief, physical appearance, body size, and deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
+  We aim to create an **environment free of harassment and discrimination for everyone**. Unacceptable behavior includes offensive verbal comments related to gender, sexual orientation, disability, race, ethnicity, religious belief, physical appearance, body size, and deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
   
   Our expectations apply to our members, collaborators, and everyone who participates in any project with the del Giorgio and Prairie laboratories. We commit to making academia, and all spaces – physical and virtual – safe and welcoming for Black, Indigenous, and People of Color (BIPOC). We are actively working to uplift the voices of and create spaces for underrepresented groups.
   
   This is an **ongoing, iterative process**. We pledge to continue educating ourselves, have uncomfortable conversations, and learn from each other to reduce implicit and systemic biases, not only within our group but in the larger academic community. We invite you to correct us, to hold us accountable for our actions and words, to contribute, and join us on this journey to make our community an inclusive space for all people.
-
-  Thank you to Dr. Timothee Poisot and SWS Student Section for inspiring this EDI statement.
 
   If any of these terms and issues are new to you, don’t be hard on yourself since this is a learning experience for us all. We are including more external resources for anyone who is interested in further educating themselves on these issues. 
 
@@ -45,6 +43,7 @@ Welcome! You are joining UQAM and you are heading towards an adventure to live i
 - [Environmental racism](https://en.wikipedia.org/wiki/Environmental_racism)
 - Reference test on unconscious/implicit bias: [Project Implicit](https://implicit.harvard.edu/implicit/)
 
+  *(Thank you to Dr. Timothee Poisot and SWS Student Section for inspiring this EDI statement.)*
 
 ---
 
@@ -1058,6 +1057,29 @@ For students/postdocs/interns coming from the US, you can also bring your phone 
 There is a great ['cheap list'](https://www.mcgill.ca/studentaid/files/studentaid/cheap_sheet_march_2018.pdf) by McGill. Many things on the list are only for McGill students, but others are for everyone!
 
 ---
+
+# Contributor
+In no particular order:
+
+Maintainers:
+
+* Masumi Stadler - `@masumistadler`
+* Indigo Tran - `@indigotran`
+
+Content contributors:
+
+* Masumi Stadler
+* Indigo Tran
+* Alice Parkes
+* Sofìa Baliña
+* Pascal Bodmer
+* Yudhistir Reddy
+* Paula Reis
+* Bianca Rodriguez-Cardona
+* Pedro Barbosa
+* Mathilde Couturier
+* Mario Muscarella
+* Audrey Picard
 
 # License
 
