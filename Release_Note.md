@@ -1,7 +1,15 @@
+# uqam-guide 0.3.0 (2020 June 22)
+## New Features
+
+- Our values section (contains new EDI statement)
+- Contributor list within the guide
+- Change of interlectual property license to [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 # uqam-guide 0.2.0 (2020 May 29)
 ## New Features
 
-- Interlectual property license ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+- Interllectual property license ([CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 - Code of conduct
 - New test layout
 
