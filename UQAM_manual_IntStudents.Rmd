@@ -171,7 +171,7 @@ It should say in your acceptance letter what documents you need. Bring **three c
 
 ### 4. Submit stipend form
   Once the main things have been settled, fill out the form "Demande de Versement de Bourse" (Scholarship/Stipend Payment Request). 
-**Physically**, you can find this form in the biology department room in PK building, then ask your PI to sign and fill their sections to receive your stipend. Once the documents are complete you can submit it to the same biology office that you get the form from. If you have a research associate in your lab he/she will aid you in the process if anything is unclear.
+**Physically**, you can find this form in the biology department room in PK building, then ask your PI to sign and fill their sections to receive your stipend. Once the documents are completed, you can submit it to the same biology office that you get the form from. If you have a research associate in your lab, he/she/they will aid you in the process if anything is unclear.
 **Virtually**, you can send your personal information in an email from your UQAM email address to your director so that they can forward this request to UQAM Financial services.
 
 Information/Documents you need to submit the stipend form:
@@ -334,7 +334,7 @@ You can get access to an online account of Desjardins to ask for reimbursement o
 
 Additionally, we have access to the dental insurance negotiated by our student association. This insurance is optional, so you can choose not to pay. However, by default, it is included in your tuition fees. You need to ask for it to be removed, but you can only do this at the beginning of the Fall semester for the entire academic year (you can only do it in the Winter semester if that's your first semester). For more information access the ASEQ page [here](https://aseq.ca/View.aspx?locale=fr&uid=Universit%c3%a9duQu%c3%a9bec%c3%a0Montr%c3%a9alUQ%c3%80M_Demandedindemnisation_ObtenirmonCODEdindemnisationAS%c3%89Q).
 
-Unfortunately, we cannot have access to all the other insurances provided by ASEQ as international students at UQÀM (e.g. travel insurance).
+Unfortunately, we cannot have access to all the other insurances provided by ASEQ as international students at UQAM (e.g. travel insurance).
 
 ---
 
@@ -631,7 +631,7 @@ If you have trouble with connecting to the wifi when you just arrive, contact yo
 
 ## 2. Access to labs and keys
 
-We have several labs that are shared among research groups part of the Groupe de recherche interuniversitaire de limnologie (GRIL) at UQAM. To get access to the labs, get the key **NE 91** from the person responsible for the GRIL laboratories (CAD$5 cash deposit).
+We have several labs that are shared among research groups as a part of the Groupe de recherche interuniversitaire de limnologie (GRIL) at UQAM. To get access to the labs, get the key **NE 91** from the person responsible for the GRIL laboratories (CAD$5 cash deposit).
 You can also get keys to other labs and offices. Any other keys (e.g. office) are available at our key manager, who is located in the RC floor of the SB-building (SB-R860). Usually, a cash deposit of ~CAD$10 for each key is necessary. You will get this money back once you return the key(s).
 
 Some labs/rooms have calendars to manage its usage:
@@ -725,7 +725,7 @@ Whenever you go to a conference or spend money during a research activity (e.g. 
 
 The expense report form 'rapport de dépenses' is used for requesting an advance before your trip or requesting reimbursement after your trip. The paper form has a unique number and you can get one from your lab's research associate or from the Biology department secretary in SB-R860, but here’s an [example](https://servicesfinanciers.uqam.ca/uploads/files/Laniel_P/SF-070.PDF).
 
-Fill out the first three sections of the report and sign in the tiny space in the fourth section as the 'demandeur or demandresse'. Your lab's research assocaite can help you with the report and she/he will need to look over it, add the account number, sign, and keep a copy before it goes down to the secretary in SB-R860. The secretary will also look it over before sending it to UQAM financial services.
+Fill out the first three sections of the report and sign in the tiny space in the fourth section as the 'demandeur or demandresse'. Your lab's research assocaite can help you with the report and he/she/they will need to look over it, add the account number, sign, and keep a copy before it goes down to the secretary in SB-R860. The secretary will also look it over before sending it to UQAM financial services.
 
 >If you don't have enough money in your private bank account to pay for large expenses such as a plane ticket to a conference location, you can ask for an advance payment or book the plane ticket through a travel agency that UQAM uses.
 
