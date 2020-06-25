@@ -1,7 +1,7 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
 author: 'Authors: See #contributor list'
-date: 'Last updated on: 23 June 2020'
+date: 'Last updated on: 24 June 2020'
 output:
   html_document:
     self_contained: yes
