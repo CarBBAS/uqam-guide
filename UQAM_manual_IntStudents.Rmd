@@ -928,12 +928,16 @@ The staff from UQAM Advisory Services will be in contact with you and connect yo
 The average cost is CAD$82-100 per session.
 
 Note: 
+
 - *Dejardins Insurance* currently offers CAD$500 deductible per coverage year, with the maximum of CAD50 applied per visit. 
 - When filing the insurance claim, make sure to list your provider as `Psychologist` to receive the above mentioned deductible.
- ![](Photos/MentalHealth_InsuranceClaim.png)
+
+<center>
+ ![](Photos/MentalHealth_InsuranceClaim.PNG)
+ </center>
 
 - After your insurance claim is processed, make sure to check the `Claim History` > `Processed Claims` to see if any additional documents are required of you. Generally, you will have up to 6 months to submit any additional requested paperwork to your insurance after the claim is processed.
-  ![](Photos/MentalHealth_InsuranceClaimHistory.png)
+  ![](Photos/MentalHealth_InsuranceClaimHistory.PNG)
 ---
 
 ## 12. Budget and living expenses {#budget}
