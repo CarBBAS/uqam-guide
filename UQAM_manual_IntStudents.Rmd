@@ -1,7 +1,8 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
 author: 'Authors: See #contributor list'
-date: 'Last updated on: 23 June 2020'
+version: "v.3.1"
+date: 'Last updated on: 07 July 2020'
 output:
   html_document:
     self_contained: yes
@@ -13,7 +14,6 @@ output:
   pdf_document:
     toc: yes
     toc_depth: '3'
-version: 0.3.0
 ---
 
 ```{r, echo = F, evaluate = F}
@@ -31,12 +31,12 @@ Welcome! You are joining UQAM and you are heading towards an adventure to live i
 
 # Our values
   We acknowledge the right to the land on which we are working belongs to the First Nation Indigenous communities of the Kahnawà:ke, Inuit, Cree, Pessamit, and many others.
+
+  Life is hard, and so is science. Although competitive and challenging, science should not be harder for some of us than it needs to be. We create our culture, and in the del Giorgio and Prairie labs, our culture is inclusive. We value every member of our community and want to ensure that every member and collaborator has a **positive and educational experience**.
+
+  We aim to create an **environment free of harassment and discrimination for everyone**. Unacceptable behavior includes offensive verbal comments related to gender, sexual orientation, age, race, ethnicity, religious belief, physical appearance, body size, physical or cognitive disabilities, socioeconomic background, and deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention. 
   
-  Science is hard, and the work of making sure science isn’t harder than it needs to be is on all of us. We create our culture, and in the del Giorgio and Prairie labs, our culture is inclusive. We value every member of our community and want to ensure that every member and collaborator has a **positive and educational experience**.
-  
-  We aim to create an **environment free of harassment and discrimination for everyone**. Unacceptable behavior includes offensive verbal comments related to gender, sexual orientation, disability, race, ethnicity, religious belief, physical appearance, body size, and deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of discussions, inappropriate physical contact, and unwelcome sexual attention.
-  
-  Our expectations apply to our members, collaborators, and everyone who participates in any project with the del Giorgio and Prairie laboratories. We commit to making academia, and all spaces – physical and virtual – safe and welcoming for Black, Indigenous, and People of Color (BIPOC). We are actively working to uplift the voices of and create spaces for underrepresented groups.
+  Our expectations apply to our members, collaborators, and everyone who participates in any project with the del Giorgio and Prairie laboratories. We commit to making academia, and all spaces – physical and virtual – safe and welcoming for Black, Indigenous, and People of Color (BIPOC) and many other underrepresented minority groups. We are actively working to uplift the voices of and create spaces for underrepresented groups.
   
   This is an **ongoing, iterative process**. We pledge to continue educating ourselves, have uncomfortable conversations, and learn from each other to reduce implicit and systemic biases, not only within our group but in the larger academic community. We invite you to correct us, to hold us accountable for our actions and words, to contribute, and join us on this journey to make our community an inclusive space for all people.
 
@@ -171,7 +171,7 @@ It should say in your acceptance letter what documents you need. Bring **three c
 
 ### 4. Submit stipend form
   Once the main things have been settled, fill out the form "Demande de Versement de Bourse" (Scholarship/Stipend Payment Request). 
-**Physically**, you can find this form in the biology department room in PK building, then ask your PI to sign and fill their sections to receive your stipend. Once the documents are complete you can submit it to the same biology office that you get the form from. If you have a research associate in your lab he/she will aid you in the process if anything is unclear.
+**Physically**, you can find this form in the biology department room in PK building, then ask your PI to sign and fill their sections to receive your stipend. Once the documents are completed, you can submit it to the same biology office that you get the form from. If you have a research associate in your lab, he/she/they will aid you in the process if anything is unclear.
 **Virtually**, you can send your personal information in an email from your UQAM email address to your director so that they can forward this request to UQAM Financial services.
 
 Information/Documents you need to submit the stipend form:
@@ -334,7 +334,7 @@ You can get access to an online account of Desjardins to ask for reimbursement o
 
 Additionally, we have access to the dental insurance negotiated by our student association. This insurance is optional, so you can choose not to pay. However, by default, it is included in your tuition fees. You need to ask for it to be removed, but you can only do this at the beginning of the Fall semester for the entire academic year (you can only do it in the Winter semester if that's your first semester). For more information access the ASEQ page [here](https://aseq.ca/View.aspx?locale=fr&uid=Universit%c3%a9duQu%c3%a9bec%c3%a0Montr%c3%a9alUQ%c3%80M_Demandedindemnisation_ObtenirmonCODEdindemnisationAS%c3%89Q).
 
-Unfortunately, we cannot have access to all the other insurances provided by ASEQ as international students at UQÀM (e.g. travel insurance).
+Unfortunately, we cannot have access to all the other insurances provided by ASEQ as international students at UQAM (e.g. travel insurance).
 
 ---
 
@@ -631,7 +631,7 @@ If you have trouble with connecting to the wifi when you just arrive, contact yo
 
 ## 2. Access to labs and keys
 
-We have several labs that are shared among research groups part of the Groupe de recherche interuniversitaire de limnologie (GRIL) at UQAM. To get access to the labs, get the key **NE 91** from the person responsible for the GRIL laboratories (CAD$5 cash deposit).
+We have several labs that are shared among research groups as a part of the Groupe de recherche interuniversitaire de limnologie (GRIL) at UQAM. To get access to the labs, get the key **NE 91** from the person responsible for the GRIL laboratories (CAD$5 cash deposit).
 You can also get keys to other labs and offices. Any other keys (e.g. office) are available at our key manager, who is located in the RC floor of the SB-building (SB-R860). Usually, a cash deposit of ~CAD$10 for each key is necessary. You will get this money back once you return the key(s).
 
 Some labs/rooms have calendars to manage its usage:
@@ -725,7 +725,7 @@ Whenever you go to a conference or spend money during a research activity (e.g. 
 
 The expense report form 'rapport de dépenses' is used for requesting an advance before your trip or requesting reimbursement after your trip. The paper form has a unique number and you can get one from your lab's research associate or from the Biology department secretary in SB-R860, but here’s an [example](https://servicesfinanciers.uqam.ca/uploads/files/Laniel_P/SF-070.PDF).
 
-Fill out the first three sections of the report and sign in the tiny space in the fourth section as the 'demandeur or demandresse'. Your lab's research assocaite can help you with the report and she/he will need to look over it, add the account number, sign, and keep a copy before it goes down to the secretary in SB-R860. The secretary will also look it over before sending it to UQAM financial services.
+Fill out the first three sections of the report and sign in the tiny space in the fourth section as the 'demandeur or demandresse'. Your lab's research assocaite can help you with the report and he/she/they will need to look over it, add the account number, sign, and keep a copy before it goes down to the secretary in SB-R860. The secretary will also look it over before sending it to UQAM financial services.
 
 >If you don't have enough money in your private bank account to pay for large expenses such as a plane ticket to a conference location, you can ask for an advance payment or book the plane ticket through a travel agency that UQAM uses.
 
@@ -922,12 +922,18 @@ If your French level is already more advanced, there are advanced courses offere
 ## 11. Mental health support
 Whenever you need some additional support, here are some resources for you to get started on finding the help you need.
 
-Resources from UQAM: Go to [Services a la vie etudiante](https://vie-etudiante.uqam.ca/nous-contacter/coordonnees-horaire.html#soutien-psychologique) (Student Life Services) and under the tab "Soutien Psychologique" (Psychological support), you'll find the [request form for support and consultation](https://forms.office.com/Pages/ResponsePage.aspx?id=Gk7LEtpCHEmQ4Xp6l1NQb2zuGeD6ebBFnn6fs42pcL5UQTI1VExINDk0V0VLN09FOFBLNTRFR1ExQyQlQCN0PWcu) (if you would like to be communicated in English, make sure to specify that in the form). From here, you will be contacted by a staff member from UQAM Services-conseils (Advisory Services). 
+**Resources from UQAM**: Go to [Services a la vie etudiante](https://vie-etudiante.uqam.ca/nous-contacter/coordonnees-horaire.html#soutien-psychologique) (Student Life Services) and under the tab "Soutien Psychologique" (Psychological support), you'll find the [request form for support and consultation](https://forms.office.com/Pages/ResponsePage.aspx?id=Gk7LEtpCHEmQ4Xp6l1NQb2zuGeD6ebBFnn6fs42pcL5UQTI1VExINDk0V0VLN09FOFBLNTRFR1ExQyQlQCN0PWcu) (if you would like to be communicated in English, make sure to specify that in the form). From here, you will be contacted by a staff member from UQAM Services-conseils (Advisory Services). 
 The staff from UQAM Advisory Services will be in contact with you and connect you to the services you need that work for your budget.
 
 The average cost is CAD$82-100 per session.
-Note: *Dejardins Insurance* currently offers CAD$500 deductible per coverage year, with the maximum of CAD50 applied per visit.
 
+Note: 
+- *Dejardins Insurance* currently offers CAD$500 deductible per coverage year, with the maximum of CAD50 applied per visit. 
+- When filing the insurance claim, make sure to list your provider as `Psychologist` to receive the above mentioned deductible.
+ ![](Photos/MentalHealth_InsuranceClaim.png)
+
+- After your insurance claim is processed, make sure to check the `Claim History` > `Processed Claims` to see if any additional documents are required of you. Generally, you will have up to 6 months to submit any additional requested paperwork to your insurance after the claim is processed.
+  ![](Photos/MentalHealth_InsuranceClaimHistory.png)
 ---
 
 ## 12. Budget and living expenses {#budget}
