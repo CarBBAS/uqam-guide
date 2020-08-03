@@ -929,7 +929,7 @@ The average cost is CAD$82-100 per session.
 
 Note: 
 
-- *Dejardins Insurance* currently offers CAD$500 deductible per coverage year, with the maximum of CAD50 applied per visit. 
+- *Dejardins Insurance* currently offers CAD$500 per coverage year with a CAD$50 deductible on your first appointment, with the maximum of CAD50 applied per visit. 
 - When filing the insurance claim, make sure to list your provider as `Psychologist` to receive the above mentioned deductible.
 
 <center>
