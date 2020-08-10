@@ -2,7 +2,7 @@
 title: "A beginner's guide to UQAM and Canada"
 author: 'Authors: See #contributor list'
 version: "v.3.1"
-date: 'Last updated on: 07 July 2020'
+date: 'Last updated on: 10 August 2020'
 output:
   html_document:
     self_contained: yes
@@ -190,6 +190,8 @@ Information/Documents you need to submit the stipend form:
 
 You can sign up for direct deposit [here](https://www.rhu.uqam.ca/index.aspx?id=p710).
 Proceed as *‘Sans nom d’utilisateur (code MS)’* (Without user name (MS code)). It may not work at first if your SIN is not registered with the UQAM registrariat yet.
+
+If you cannot sign up for direct deposit at first, you will get your first payment via a cheque. Most of the bigger banks have a cheque deposit function through their official phone application. In this way, you can easily deposit the cheque immediatley into your account without having to go to a bank branch.
 
 ---
 
@@ -974,7 +976,20 @@ We recommend that you have a good amount saved up for your first few months in M
 
 ---
 
-## 13. Other resources
+## 13. Safety in Montréal
+In general, Montréal is a relatively safe city. However, there are thieves and one has to be careful about certain things.
+
+* Bike theft is a big business in Montréal. If you have a bike, the more expensive / better the more dangerous it is to get it stolen. Make sure to get at least one U-lock (don't get any of the curly locks that are easily broken). If you have a good bike, get two U-locks or another chain lock two secure both tires and the frame. Securely lock it if you store the bike anywhere outside. Most apartments in Montréal have emergency stairs to balconies, so lock it even when you leave it on your balcony.
+
+* If you live in an apartment with access to a smaller back street (e.g. through balcony), most thieves try to enter through these back streets because there are few people watching. Make sure not to leave balcony doors open when you're not in the room. Even if you're inside the apartment, they may sneak in and steal something quickly to grab while you're in another room.
+
+* Consider getting a home-insurance for renters. They are relatively inexpensive (e.g. 30$ per month for a small apartment) and will help you recover money in case of theft, fire, and other incidences.
+
+* Problems with landlords can happen. However, Montréal is a city with greater protection for the renter. If you have problems with your landlords, or even before signing any rental contract make sure to go through the basic laws. For example, asking the renter for an additional deposit is not legal in Québec. They are only allowed to ask you to pay the first month of rent prior to your move, but many landlords do ask for an additional security deposit. Unfortunately, the apartment market in Montréal is particularly bad, thus you may loose your opportunity to the apartment if you refuse to pay the additional deposit. Ask your landlord to give you a receipt and make him/her include in the contract that the landlord needs to fully pay back the deposit when you leave the apartment. If you have other problems with your landlord, e.g. not willing to fix broken things in your apartment, you can contact the [*Tribunal administratif du logement*](https://www.rdl.gouv.qc.ca/en) and they can interfere and help you.
+
+---
+
+## 14. Other resources
 ### At UQAM
 * Food court in the PK-building (is not particularly cheap)
 * [Fractal](http://aessuqam.org/Cafe-Fractal) (Student coffee shop in the SH-building)
