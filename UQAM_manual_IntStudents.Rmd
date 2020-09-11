@@ -1,8 +1,8 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
-author: 'Authors: See #contributor list'
+author: 'Authors: See [contributor](#contributors) list'
 version: "v.3.1"
-date: 'Last updated on: 10 August 2020'
+date: 'Last updated on: 11 September 2020'
 output:
   html_document:
     self_contained: yes
@@ -692,7 +692,31 @@ Some journals are not accessible through our university. Then [*Sci-hub*](sci-hu
 
 ---
 
-## 6. Seminars
+## 6. Available computers and platform for collaborations
+
+At the CarBBAS Lab we have several computers that are being shared among the students and Post-docs. Yves' Lab also has a GIS computer available for use. But in general, we share computer resources among the two Labs. So as a Yves' student, you can also use the CarBBAS computers as long as you follow the rules and the calendar of each computer.
+
+In brief, we have:
+
+* GIS computer with Windows (has ArcMap)
+* Multi-purpose computer with Windows and Linux (Windows partition has MATLAB)
+* Molecular computer with Linux (high RAM and processing power)
+
+To gain insight into the rules and the set-up to use these computers internally at UQAM or through remote access please ask someone to send you the *"ComputersAndRemoteAccess.html"* file. This file contains some secure information, so it is not being shared publicly.
+
+---
+
+### Github organization account
+
+The CarBBAS Lab owns also a Github organization account that we use to collaborate, host this guide's source code and can be used to share codes used for publications publicly.
+
+To join this [Github organization](https://github.com/CarBBAS), please create your own personal Github account if you haven't done so already and ask someone already in the Github organization to add you.
+
+This Github account also hosts the manual for the above mentioned available lab computers, so you will automatically have access to the *"ComputersAndRemoteAccess.html"* file in the *carbbas_computers* repository, once you're a member.
+
+---
+
+## 7. Seminars
 We have two regular seminars every week: a departmental ecology seminar on Wednesdays and a limnology seminar on Fridays. Both at 12:15 pm, so bring your lunch.
 
 Here are the mailing lists for both seminars:
@@ -709,7 +733,7 @@ Additionally, our laboratories are part of an interuniversity limnology society 
 
 ---
 
-## 7. GRIL member
+## 8. GRIL member
 We are part of an interuniversity limnology research group called [GRIL](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=543). Typically, every student and post-doc join this society. GRIL also organizes an **Annual symposium** around March and a **student workshop** in autumn called ÉcoLac.
 
 If you arrive in spring or autumn, make sure to ask your cohorts if these events are happening soon, so as not to miss the registration period. The GRIL Symposium usually takes place *mid-March* and the ÉcoLac workshop in the *end of October/beginning of November*. 
@@ -722,7 +746,7 @@ If you're more interested in the GRIL, we have several groups that are part of G
 
 ---
 
-## 8. Expense Reports
+## 9. Expense Reports
 Whenever you go to a conference or spend money during a research activity (e.g. attending workshops or internships), you need to file expense reports. Make sure to keep all your receipts. 
 
 The expense report form 'rapport de dépenses' is used for requesting an advance before your trip or requesting reimbursement after your trip. The paper form has a unique number and you can get one from your lab's research associate or from the Biology department secretary in SB-R860, but here’s an [example](https://servicesfinanciers.uqam.ca/uploads/files/Laniel_P/SF-070.PDF).
@@ -788,7 +812,7 @@ For any reimbursements on FQRNT or NSERC grants, you will need to re-summarise a
 
 ---
 
-## 9. Taxes
+## 10. Taxes
 Once a year, everyone has to file income taxes.
 
 While students do not have to pay income taxes, it is advised to file taxes annually. You will get some money every year and if you plan to stay in Québec afterward, you will even get more money back.
@@ -906,7 +930,7 @@ Other helpful links:
 
 ---
 
-## 10. French classes
+## 11. French classes
 Since 2019, students are also allowed to take French classes offered for free by the Government. Those classes are usually intense (three days a week) and get full very quickly. Check the [website](https://www.immigration-quebec.gouv.qc.ca/en/french-language/index.html) and register early enough.
 
 Other schools that are relatively affordable:
@@ -921,7 +945,7 @@ If your French level is already more advanced, there are advanced courses offere
 
 ---
 
-## 11. Mental health support
+## 12. Mental health support
 Whenever you need some additional support, here are some resources for you to get started on finding the help you need.
 
 **Resources from UQAM**: Go to [Services a la vie etudiante](https://vie-etudiante.uqam.ca/nous-contacter/coordonnees-horaire.html#soutien-psychologique) (Student Life Services) and under the tab "Soutien Psychologique" (Psychological support), you'll find the [request form for support and consultation](https://forms.office.com/Pages/ResponsePage.aspx?id=Gk7LEtpCHEmQ4Xp6l1NQb2zuGeD6ebBFnn6fs42pcL5UQTI1VExINDk0V0VLN09FOFBLNTRFR1ExQyQlQCN0PWcu) (if you would like to be communicated in English, make sure to specify that in the form). From here, you will be contacted by a staff member from UQAM Services-conseils (Advisory Services). 
@@ -942,7 +966,7 @@ Note:
   ![](Photos/MentalHealth_InsuranceClaimHistory.PNG)
 ---
 
-## 12. Budget and living expenses {#budget}
+## 13. Budget and living expenses {#budget}
 Below is a rough estimation of how much you would need to budget for life in Montreal. The estimated budget is a minimum base for you to start planning, but in no form exactly what you will experience.
 
 ### Before arrival
@@ -976,7 +1000,7 @@ We recommend that you have a good amount saved up for your first few months in M
 
 ---
 
-## 13. Safety in Montréal
+## 14. Safety in Montréal
 In general, Montréal is a relatively safe city. However, there are thieves and one has to be careful about certain things.
 
 * Bike theft is a big business in Montréal. If you have a bike, the more expensive / better the more dangerous it is to get it stolen. Make sure to get at least one U-lock (don't get any of the curly locks that are easily broken). If you have a good bike, get two U-locks or another chain lock two secure both tires and the frame. Securely lock it if you store the bike anywhere outside. Most apartments in Montréal have emergency stairs to balconies, so lock it even when you leave it on your balcony.
@@ -989,7 +1013,7 @@ In general, Montréal is a relatively safe city. However, there are thieves and 
 
 ---
 
-## 14. Other resources
+## 15. Other resources
 ### At UQAM
 * Food court in the PK-building (is not particularly cheap)
 * [Fractal](http://aessuqam.org/Cafe-Fractal) (Student coffee shop in the SH-building)
@@ -1091,7 +1115,7 @@ There is a great ['cheap list'](https://www.mcgill.ca/studentaid/files/studentai
 
 ---
 
-# Contributors
+# Contributors {#contributors}
 In no particular order:
 
 Maintainers:
