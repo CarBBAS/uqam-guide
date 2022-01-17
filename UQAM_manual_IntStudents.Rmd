@@ -2,8 +2,11 @@
 title: "A beginner's guide to UQAM and Canada"
 author: 'Authors: See [contributor](#contributors) list'
 version: "v.3.1"
-date: 'Last updated on: 11 September 2020'
+date: 'Last updated on: 17 January 2022'
 output:
+    pdf_document:
+    toc: yes
+    toc_depth: '3'
   html_document:
     self_contained: yes
     toc: yes
@@ -11,9 +14,6 @@ output:
     toc_float:
       collapsed: yes
       smooth_scroll: yes
-  pdf_document:
-    toc: yes
-    toc_depth: '3'
 ---
 
 ```{r, echo = F, evaluate = F}
@@ -198,6 +198,8 @@ If you cannot sign up for direct deposit at first, you will get your first payme
 ### 5. Student Card
 Get a student card to get access to student benefits and the gym. Make sure to bring your passport and they will take your picture on-site. Consult opening hours [here](http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html). The place is one floor down from the UQAM registrariat in the UQAM main campus (Berri-UQAM).
 
+*Update*: Since COVID application for a new student card or renewal is *online*. You'll have to take a picture yourself and you can then pick it up at the UQAM student card office below the UQAM registrariat. Details can be found [here](https://coci.uqam.ca/).
+
 ---
 
 ### 6. Access UQAM Online Portal for students
@@ -228,7 +230,7 @@ The password is the *first three letters of your surname in capital + NIP* (e.g.
 ---
 
 ### 8. OPUS card for students
-To get a cheaper fare for public transport is to get a student OPUS card. You will be able to purchase a cheaper 4-month pass.
+To get a cheaper fare for public transport is to get a student OPUS card. You will be able to purchase a cheaper 1-month and 4-month pass.
 
 * Log-in to the *portail étudiant* (Student Portal)
 * Go to ‘Attestation carte OPUS’ (OPUS card certificate)
@@ -252,6 +254,8 @@ This will be the amount that you need to pay.
 Make sure to provide your *‘Code de paiement’* (Payment code) listed at the beginning of the page when you make the payment via bank transfer. Expect the tuition between CAD$1000 - 2800 depending on which semester. Usually, you pay more in the autumn semester, because one pays additionally the health insurance.
 
 To understand what the charges on your tuition bill are for, visit the [Financial services website](https://servicesfinanciers.uqam.ca/droits-de-scolarite-et-autres-frais.html) to get a detailed list and description of all your charges.
+
+> Tip: For PhD students, you will finish paying your tuition fees in three years. In your 4th year, you will be exempt of tuition for one year. Starting with your 5th year, you will have to pay a fixed fee of around $411 as tuition in addition to the administrative fees.
 
 ---
 
@@ -325,6 +329,8 @@ All three of these scholarships are highly competitive and usually, there is an 
 
 There are several smaller scholarships from UQAM. Check each semeseter for which scholarships you can apply to on [RIBÉ](https://www.apps.uqam.ca/application/bourses/login/login.aspx).
 
+> Tip: If they ask for an official transcript of your notes, make sure you do not download what you can find on the portail etudiant. Instead, you will have to pay and ask for an official document. You can order official documents [here](https://etudier.uqam.ca/commande-documents-officiels-instructions).
+
 ---
 
 ### 13. Health insurance
@@ -333,6 +339,8 @@ You will get a health insurance card by e-mail once you’ve paid your first tui
 Usually, the insurance card will be sent to you within a month after paying the tuition. However, this means that you're not covered by an insurance until you have your card. Make sure to be covered by travel insurance from your country of origin (e.g. [blue cross](http://www.bluecross.ca/en/index.html)) or a private insurance (e.g. [Desjardins](https://www.desjardinslifeinsurance.com/en/individual-insurance/life-health-disability-insurance/health-disability-insurance/healthcare-insurance)) to live through this un-covered period without being worried constantly.
 
 You can get access to an online account of Desjardins to ask for reimbursement of medical expenses [here](https://auth.desjardins.com/Account/SignIn?ReturnUrl=%252fissue%252fwsfed%253fwa%253dwsignin1.0%2526wtrealm%253dhttp%25253a%25252f%25252fsession.desjardins.com%25252fadfs%25252fservices%25252ftrust%2526wctx%253d5cb0841a-41a3-4e94-ae34-dace07d7486a%2526wct%253d2020-01-03T21%25253a45%25253a17Z%2526whr%253dhttp%25253a%25252f%25252fauth.desjardins.com%25252ftrust%25252finitial%2526owtrealm%253dhttps%25253a%25252f%25252fICA%2526owctx%253drm%25253d0%252526id%25253dpassive%252526ru%25253d%2525252fAGEA-GBIM%2525252fAthntfctn%2525252fAccl%2525252fAccueil_Home.aspx%2526fav%253dhttps%25253a%25252f%25252fsession.desjardins.com%25252fadfs%25252fls%25252f%25253fwa%25253dwsignin1.0%252526wtrealm%25253dhttps%25253a%25252f%25252fICA%252526wctx%25253drm%25253d0%252526id%25253dpassive%252526ru%25253d%252525252fAGEA-GBIM%252525252fAthntfctn%252525252fAccl%252525252fAccueil_Home.aspx%252526wct%25253d2020-01-03T21%25253a45%25253a17Z%252526whr%25253dhttp%25253a%25252f%25252fauth.desjardins.com%25252ftrust%25252finitial%252526wreply%25253dhttps%25253a%25252f%25252fwww.agea-gbim.dsf-dfs.com%25252fAGEA-GBIM%25252fDefault.aspx). You can create an account once you have your insurance card. If you have any questions, you can always contact them with the online form. They usually respond quite quickly.
+
+Some clinics may ask you for a 'attestation d'assurance maladie' that shows an official start and end date of your insurance, hence, this document will expire after every year. You can send an email to [sve-accueil@uqam.ca](sve-accueil@uqam.ca) to ask for this document.
 
 Additionally, we have access to the dental insurance negotiated by our student association. This insurance is optional, so you can choose not to pay. However, by default, it is included in your tuition fees. You need to ask for it to be removed, but you can only do this at the beginning of the Fall semester for the entire academic year (you can only do it in the Winter semester if that's your first semester). For more information access the ASEQ page [here](https://aseq.ca/View.aspx?locale=fr&uid=Universit%c3%a9duQu%c3%a9bec%c3%a0Montr%c3%a9alUQ%c3%80M_Demandedindemnisation_ObtenirmonCODEdindemnisationAS%c3%89Q).
 
@@ -347,20 +355,39 @@ To get an appointment in a walk-in clinic consult their homepage. Usually, you c
 
 Some examples of clinics in Montréal:
 
+* [Metro-Medic](http://www.metromedic.com/)
+  (Payment: CAD$140, used to directly get the money from Desjardins if you had a 'attestation d'insurance maladie' but not any more since 2021)
+  Pros: Open 7 days a week, English-speaking and appointment via email [info@metromedic.com](info@metromedic.com), you'll get an appointment usually on the next day.
+  If you go late in the evening and get a prescription for drugs the Pharmaprix close to the clinic on 1500 Rue St-Catherine W is open 24h.
 * [Forcemedic clinics](https://www.forcemedic.com/)
   (Payment: CAD$160, Appointment registration start: 7 pm the day before)
 * [Clinique 1851](https://l.facebook.com/l.php?u=https%3A%2F%2Fbonjour-sante.ca%2FTriathlon%2F%3Ffbclid%3DIwAR3yjRyvwA-1nCvhfYWK1_SrOLrsKW8FLqyzRfq8wXWheW15K47fVSMZ81Q%23%2Fidentification%2F1851&h=AT3eQ9dsRykT4e77GQvh1BgOaPgMRisjhPshA7ox6CH8Bs7xjw-1V2aUhZvyE6T7DhoUyT7qNJLt377roOL7ygnQTheeAZR7Z-QjYFzXQfoqbmhDlhGuaQis1us) (Payment: ?, Appointment registration start: 8 pm the day before)
+
+Dentists:
+
+Once a year, you can get a cleaning treatment and if you choose your dentist wisely with some student discount, the treatment can become free of charge.
+
 * **Clinique Dentaire Villeray**: Dentist who gives students 30% off. The student dental insurance covers 70%, thus your dental visit becomes free (e.g. cleaning once a year)! Located at: 57 Rue Villeray, Montréal, QC H2R 1G2
+* [Clinique Dentaire La Cité](https://www.cliniquedentairelacite.com/en/): English-speaking Dentist that directly sends the insurance form to ASEQ, hence, you only have to pay the proportion that is not covered by our insurance. The clinic also has various student discounts if you need further treatments. The discount on cleaning is enough so that your annual dental cleaning would be free.
 
 Other clinics without appointment fee:
 
 * [UQAM website](https://vie-etudiante.uqam.ca/etudiant-etranger/formalites-administratives/couverture-medicale.html#consultations-medicales-au-quebec-comment-proceder )
 
-One of them is:
-
-* [Clinique médicale Métro Médic Centre-Ville](http://www.sante.gouv.qc.ca/repertoire-ressources/ressource/?nofiche=114616)
 
 > Whenever you go to a doctor, you need to print and bring the *'Claim for health care benefits'* form from Desjardins. 'Administrative' fees are often not refunded, make sure to ask your doctor to write 'Examination fee' or anything medical. If the fee says 'Opening patient file', Desjardins will not refund you.
+
+
+#### Submitting a form online
+
+Recently, Desjardins started accepting submitting claims online even for Doctor visits besides Dentists, Chiropractor etc.
+
+For Dentists, Chiropractors, Vision care you can easily submit a form via your online portal on the Desjardins website (login [here](https://www.agea-gbim.dsf-dfs.com/AGEA-GBIM/Athntfctn/Accl/Accueil_Home.aspx)).
+
+For any other doctor visits, you have to fill in the ["Claim for health care benefits"](https://www.desjardinslifeinsurance.com/en/forms/Documents/Claim_Health_Care_Benefits_19132A.pdf). Make sure to take this form with you when you visit the doctor. Keep the signed form and the invoice you will receive. Previously, the claim had to be sent via post mail to the Desjardins company. However, it seems that now, you can submit it online through this [webpage](http://www.desjardinslifeinsurance.com/send).
+ 
+And follow these steps:
+ ![](./Photos/Desjardins_onlineclaim.png)
 
 ---
 
@@ -401,6 +428,8 @@ The process is almost the same. You will need to first apply for a CAQ. After yo
 Documents are almost the same, such as photograph, letter from your supervisor for financial support, etc. You will need to provide the number of your previous study permit as well.
 
 Additionally, you will need to ask UQAM for documents to prove that you are currently a student. Visit the registrar to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you what you need. You will have to pay for the documents (~CAD$35). Make sure to scan your UQAM documents. You will need to send the original documents for the CAQ application, but the study permit only requires the electronic scan.
+
+*Update*: Now, you can order all documents from UQAM needed for extending the study permit online. Consult this [webpage](https://etudier.uqam.ca/commande-documents-officiels-instructions).
 
 A useful resource at UQAM is the [International Student Office](vie-etudiante.uqam.ca/etudiant-etranger) or contact one of their staff members about upcoming events/workshops on how to extend your study permit ([Yannick Richer](mailto:richer.yannick@uqam.ca)).
 
@@ -658,7 +687,7 @@ On the more private note, we also have a Whatsapp group to communicate among stu
 ---
 
 ## 4. Freely available software
-There are various software that you can access through UQAM (e.g. JMP, SPSS, etc.). To see which programs you can download, check [here](https://servicesinformatiques.uqam.ca/services/Laboratoire%20virtuel). You can log-in to the  [*virtual lab*](https://www.bureauvirtuel.uqam.ca/Citrix/XenAppSitel/site/default.aspx) to download the software.
+There are various software that you can access through UQAM (e.g. JMP, SPSS, etc.). To see which programs you can download, check [here](https://servicesinformatiques.uqam.ca/services/Laboratoire%20virtuel). You can log-in to the  [*virtual lab*](https://labvirtueluqam.cloud.com/) to download the software.
 
 * **ArcGIS**: send an email to [geolab@uqam.ca](<mailto:geolab@uqam.ca>) to ask for the academic license and installation instructions.
 
@@ -1003,7 +1032,7 @@ We recommend that you have a good amount saved up for your first few months in M
 ## 14. Safety in Montréal
 In general, Montréal is a relatively safe city. However, there are thieves and one has to be careful about certain things.
 
-* Bike theft is a big business in Montréal. If you have a bike, the more expensive / better the more dangerous it is to get it stolen. Make sure to get at least one U-lock (don't get any of the curly locks that are easily broken). If you have a good bike, get two U-locks or another chain lock two secure both tires and the frame. Securely lock it if you store the bike anywhere outside. Most apartments in Montréal have emergency stairs to balconies, so lock it even when you leave it on your balcony.
+* Bike theft is a big business in Montréal. If you have a bike, the more expensive / better the more dangerous it is to get it stolen. Make sure to get at least one U-lock (don't get any of the curly locks that are easily broken). If you have a good bike, get two U-locks or another chain lock to secure both tires and the frame. Securely lock it if you store the bike anywhere outside. Most apartments in Montréal have emergency stairs to balconies, so lock it even when you leave it on your balcony.
 
 * If you live in an apartment with access to a smaller back street (e.g. through balcony), most thieves try to enter through these back streets because there are few people watching. Make sure not to leave balcony doors open when you're not in the room. Even if you're inside the apartment, they may sneak in and steal something quickly to grab while you're in another room.
 
