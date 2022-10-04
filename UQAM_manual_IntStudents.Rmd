@@ -2,9 +2,9 @@
 title: "A beginner's guide to UQAM and Canada"
 author: 'Authors: See [contributor](#contributors) list'
 version: "v.3.1"
-date: 'Last updated on: 17 January 2022'
+date: 'Last updated on: 04 October 2022'
 output:
-    pdf_document:
+  pdf_document:
     toc: yes
     toc_depth: '3'
   html_document:
@@ -363,7 +363,31 @@ Some examples of clinics in Montréal:
   (Payment: CAD$160, Appointment registration start: 7 pm the day before)
 * [Clinique 1851](https://l.facebook.com/l.php?u=https%3A%2F%2Fbonjour-sante.ca%2FTriathlon%2F%3Ffbclid%3DIwAR3yjRyvwA-1nCvhfYWK1_SrOLrsKW8FLqyzRfq8wXWheW15K47fVSMZ81Q%23%2Fidentification%2F1851&h=AT3eQ9dsRykT4e77GQvh1BgOaPgMRisjhPshA7ox6CH8Bs7xjw-1V2aUhZvyE6T7DhoUyT7qNJLt377roOL7ygnQTheeAZR7Z-QjYFzXQfoqbmhDlhGuaQis1us) (Payment: ?, Appointment registration start: 8 pm the day before)
 
-Dentists:
+**Specialists**:
+
+To go to a specialist, you always need a referral. Go to one of the walk-in clinics or your family doctor before.
+
+* Urology:
+  * [RocklandMD](https://www.rocklandmd.com/en/) - 
+    Dr. Genevieve Desbiens; Town of Mount Royal Clinic - Doctor was very nice, speaks English. Consultation expensive CAD$325 and above what Desjardins covers. They will refund around CAD$250. Appointment: fill appointment request online.
+* Gynecology:
+  * [Curel-Med](http://www.curelmed.ca/) - 
+    Dr. Pira Korsieporn - very nice doctor, speaks English. Clinic reception not very friendly. Appointment: online.
+
+**Private labs**:
+
+If you need specific lab tests done, one option to ask if they offer that test in the clinic you are going. Otherwise, you will have to go to a specific laboratory.
+
+* Ultra-sounds, MRI etc:
+  * [IRM Sud-Ouest](https://mobi.irmsudouest.com/) - Friendly staff, English speaking. Appointment: best to call.
+  * [Leger Radiologie](https://legerradiologie.qc.ca/) - Accepts RAMQ, only French, Appointment: best call or email.
+  
+* Other lab tests:
+  * [Dynacare](https://www.dynacare.ca/find-a-location.aspx) - Has many labs across Montreal. Easy online booking.
+  
+Most of these offer lab tests that are covered at 100% by Desjardins Insurance.
+
+**Dentists**:
 
 Once a year, you can get a cleaning treatment and if you choose your dentist wisely with some student discount, the treatment can become free of charge.
 
