@@ -2,7 +2,7 @@
 title: "A beginner's guide to UQAM and Canada"
 author: 'Authors: See [contributor](#contributors) list'
 version: "v.3.1"
-date: 'Last updated on: 04 October 2022'
+date: 'Last updated on: 28 November 2022'
 output:
   pdf_document:
     toc: yes
@@ -353,52 +353,6 @@ How the system works here is that you usually need to go to a generalist first t
 
 To get an appointment in a walk-in clinic consult their homepage. Usually, you can only get an appointment for the next day. Most clinics use an appointment system called *‘Bonjour-Santé’*. Whenever you need to provide your RAMQ information insert ‘XXXXDDMMYYYY’ instead, where DDMMYYYY is replaced by your birth date. And you can provide any date in the future for the expiration date. You will have to pay a fee for your appointment, which can vary by the clinic. Make sure to call and ask before going.
 
-Some examples of clinics in Montréal:
-
-* [Metro-Medic](http://www.metromedic.com/)
-  (Payment: CAD$140, used to directly get the money from Desjardins if you had a 'attestation d'insurance maladie' but not any more since 2021)
-  Pros: Open 7 days a week, English-speaking and appointment via email [info@metromedic.com](info@metromedic.com), you'll get an appointment usually on the next day.
-  If you go late in the evening and get a prescription for drugs the Pharmaprix close to the clinic on 1500 Rue St-Catherine W is open 24h.
-* [Forcemedic clinics](https://www.forcemedic.com/)
-  (Payment: CAD$160, Appointment registration start: 7 pm the day before)
-* [Clinique 1851](https://l.facebook.com/l.php?u=https%3A%2F%2Fbonjour-sante.ca%2FTriathlon%2F%3Ffbclid%3DIwAR3yjRyvwA-1nCvhfYWK1_SrOLrsKW8FLqyzRfq8wXWheW15K47fVSMZ81Q%23%2Fidentification%2F1851&h=AT3eQ9dsRykT4e77GQvh1BgOaPgMRisjhPshA7ox6CH8Bs7xjw-1V2aUhZvyE6T7DhoUyT7qNJLt377roOL7ygnQTheeAZR7Z-QjYFzXQfoqbmhDlhGuaQis1us) (Payment: ?, Appointment registration start: 8 pm the day before)
-
-**Specialists**:
-
-To go to a specialist, you always need a referral. Go to one of the walk-in clinics or your family doctor before.
-
-* Urology:
-  * [RocklandMD](https://www.rocklandmd.com/en/) - 
-    Dr. Genevieve Desbiens; Town of Mount Royal Clinic - Doctor was very nice, speaks English. Consultation expensive CAD$325 and above what Desjardins covers. They will refund around CAD$250. Appointment: fill appointment request online.
-* Gynecology:
-  * [Curel-Med](http://www.curelmed.ca/) - 
-    Dr. Pira Korsieporn - very nice doctor, speaks English. Clinic reception not very friendly. Appointment: online.
-
-**Private labs**:
-
-If you need specific lab tests done, one option to ask if they offer that test in the clinic you are going. Otherwise, you will have to go to a specific laboratory.
-
-* Ultra-sounds, MRI etc:
-  * [IRM Sud-Ouest](https://mobi.irmsudouest.com/) - Friendly staff, English speaking. Appointment: best to call.
-  * [Leger Radiologie](https://legerradiologie.qc.ca/) - Accepts RAMQ, only French, Appointment: best call or email.
-  
-* Other lab tests:
-  * [Dynacare](https://www.dynacare.ca/find-a-location.aspx) - Has many labs across Montreal. Easy online booking.
-  
-Most of these offer lab tests that are covered at 100% by Desjardins Insurance.
-
-**Dentists**:
-
-Once a year, you can get a cleaning treatment and if you choose your dentist wisely with some student discount, the treatment can become free of charge.
-
-* **Clinique Dentaire Villeray**: Dentist who gives students 30% off. The student dental insurance covers 70%, thus your dental visit becomes free (e.g. cleaning once a year)! Located at: 57 Rue Villeray, Montréal, QC H2R 1G2
-* [Clinique Dentaire La Cité](https://www.cliniquedentairelacite.com/en/): English-speaking Dentist that directly sends the insurance form to ASEQ, hence, you only have to pay the proportion that is not covered by our insurance. The clinic also has various student discounts if you need further treatments. The discount on cleaning is enough so that your annual dental cleaning would be free.
-
-Other clinics without appointment fee:
-
-* [UQAM website](https://vie-etudiante.uqam.ca/etudiant-etranger/formalites-administratives/couverture-medicale.html#consultations-medicales-au-quebec-comment-proceder )
-
-
 > Whenever you go to a doctor, you need to print and bring the *'Claim for health care benefits'* form from Desjardins. 'Administrative' fees are often not refunded, make sure to ask your doctor to write 'Examination fee' or anything medical. If the fee says 'Opening patient file', Desjardins will not refund you.
 
 
@@ -445,15 +399,37 @@ Find the details at [SAAQ](https://saaq.gouv.qc.ca/en/drivers-licences/foreign-d
 
 ---
 
-### 16. Extending your study permit
+### 16. Extending your CAQ/study permit
 Depending on how long your first permit is valid, you will need to apply for a study permit extension. Processing times may be longer than your initial study permit waiting period.
 
 The process is almost the same. You will need to first apply for a CAQ. After you have received the CAQ, you can apply to the study permit extension.
-Documents are almost the same, such as photograph, letter from your supervisor for financial support, etc. You will need to provide the number of your previous study permit as well.
+Documents are almost the same, such as photograph, letter from your supervisor for financial support, etc. You will need to provide the number of your previous study permit/CAQ as well.
 
-Additionally, you will need to ask UQAM for documents to prove that you are currently a student. Visit the registrar to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you what you need. You will have to pay for the documents (~CAD$35). Make sure to scan your UQAM documents. You will need to send the original documents for the CAQ application, but the study permit only requires the electronic scan.
+If you initially received a stipend to study and the stipend is finished, make sure to change the responsible to pay for your stay not as 'myself' but 'An organization or government' and enter your PI's name and UQAM address.
 
-*Update*: Now, you can order all documents from UQAM needed for extending the study permit online. Consult this [webpage](https://etudier.uqam.ca/commande-documents-officiels-instructions).
+Additionally, you will need to ask UQAM for documents to prove that you are currently a student. Visit the registrar to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you what you need. You will have to pay for the documents (~CAD$35). Make sure to scan your UQAM documents. Both CAQ application, and study permit applications are online now.
+
+*Update*: Now, you can also order all documents from UQAM needed for extending the study permit online. Consult this [webpage](https://etudier.uqam.ca/commande-documents-officiels-instructions).
+
+You will need to order:
+
+* Relevé de notes officiel
+* Attestation d'inscription (un trimestre) à temps complet (most recent semester)
+* Attestation d'inscription (plusieurs trimestres - en tableau)
+
+Detailed steps: 
+
+1. Check if your passport is valid for the whole duration of your extension. If not, renew before extension.
+2. Extend your CAQ
+ - Complete your online application for temporary selection for studies [here](https://www.form.services.micc.gouv.qc.ca/dcae/faces/faces/pages/identite1.jspx?lang=en). You will need to pay **$120**.
+ - Create a profile on [Arrima](www.immigration-quebec.gouv.qc.ca/en/informations/arrima/)
+ - Access your online application file [here](https://www.form.services.micc.gouv.qc.ca/dossierClient/faces/pages/authentification.jspx?lang=en&app=DCAE&indCreationCompte=undefined&indCodeAutorisation=undefined) and retrieve your file number
+ - They will provide a check-list of documents needed, make sure to upload all documents on Arrima.
+ 3. Once you receive the online approval of your CAQ, apply to extend your study permit.
+  - If you are a US citizen or permanent resident, you can apply to the study permit at a border of entry (POE).
+  - Otherwise, you need to apply online.
+ 
+If any of the links are broken, they updated links might be on the [Quebec government webpage](https://www.quebec.ca/en/education/study-quebec).
 
 A useful resource at UQAM is the [International Student Office](vie-etudiante.uqam.ca/etudiant-etranger) or contact one of their staff members about upcoming events/workshops on how to extend your study permit ([Yannick Richer](mailto:richer.yannick@uqam.ca)).
 
@@ -607,12 +583,7 @@ How the system works here is that you usually need to go to a generalist first t
 
 To get an appointment in a walk-in clinic consult their homepage. Usually, you can only get an appointment for the next day. Most clinics use an appointment system called *‘Bonjour-Santé’*. Whenever you need to provide your RAMQ information insert ‘XXXXDDMMYYYY’ instead, where DDMMYYYY is replaced by your birth date. And you can provide any date in the future for the expiration date. You will have to pay a fee for your appointment, which can vary by the clinic. Make sure to call and ask before going.
 
-Some examples of clinics in Montréal:
-
-* [Forcemedic clinics](https://www.forcemedic.com/)
-  (Payment: CAD$160, Appointment registration start: 7 pm the day before)
-* [Clinique 1851](https://l.facebook.com/l.php?u=https%3A%2F%2Fbonjour-sante.ca%2FTriathlon%2F%3Ffbclid%3DIwAR3yjRyvwA-1nCvhfYWK1_SrOLrsKW8FLqyzRfq8wXWheW15K47fVSMZ81Q%23%2Fidentification%2F1851&h=AT3eQ9dsRykT4e77GQvh1BgOaPgMRisjhPshA7ox6CH8Bs7xjw-1V2aUhZvyE6T7DhoUyT7qNJLt377roOL7ygnQTheeAZR7Z-QjYFzXQfoqbmhDlhGuaQis1us) (Payment: ?, Appointment registration start: 8 pm the day before)
-* **Clinique Dentaire Villeray**: Dentist who gives students 30% off. Maybe they will give post-docs discounts, too? Maybe worth a try.
+For some examples of clinics and medical labs, please refer to the [doctor list](#doc-list).
 
 ---
 
@@ -998,7 +969,57 @@ If your French level is already more advanced, there are advanced courses offere
 
 ---
 
-## 12. Mental health support
+## 12. List of doctors / medical labs {#doc-list}
+
+Some clinics without appointment fee for students:
+
+* [UQAM website](https://vie-etudiante.uqam.ca/etudiant-etranger/formalites-administratives/couverture-medicale.html#consultations-medicales-au-quebec-comment-proceder )
+
+### General doctor
+
+**'Walk-in' clinics**
+
+| Clinic | Price | Appointment | Notes
+|--|:--:|:--:|-----|
+| [Metro-Medic](http://www.metromedic.com/) | C$ 140 | E-mail: [info@metromedic.com](info@metromedic.com) | Open 7 days a week, 24h pharmacy close by on 1500 Rue St-Catherine W
+| [Forcemedic clinics](https://www.forcemedic.com/) | C$ 160 | Online, registration start: 7 pm the day before
+| [Clinique 1851](https://bonjour-sante.ca/uno/clinique/1851) | ? | Online, registration start: 8 pm the day before
+
+### Specialists
+
+To go to a specialist, you always need a referral. Go to one of the walk-in clinics or your family doctor before.
+
+| Speciality | Clinic | Doctor | Price | Appointment | Notes
+|--|:--:|:--:|:--:|:--:|------|
+| Urology | [RocklandMD](https://www.rocklandmd.com/en/) Town of Mount Royal Clinic | Dr. Genevieve Desbiens | C$ 325 | Online form | Speaks English, very nice doc. Desjardins covers C$ 250
+| Gynecology | [Curel-Med](http://www.curelmed.ca/) | Dr. Pira Korsieporn | C$ 160 | Online form | Very nice doctor, speaks English. Clinic reception not very friendly. Avoid other docs in the clinic.
+
+### Private medical labs
+
+If you need specific lab tests done, one option to ask if they offer that test in the clinic you are going. Otherwise, you will have to go to a specific laboratory.
+
+| Test type | Clinic | Appointment | Notes
+|----|:--:|:--:|------|
+| Ultra-sound, MRI, X-ray | [IRM Sud-Ouest](https://mobi.irmsudouest.com/) | Call | Friendly staff, English speaking
+| Ultra-sound, MRI, X-ray | [Leger Radiologie](https://legerradiologie.qc.ca/) | Best call or email | Accepts RAMQ, only French
+| Blood tests and others | [Dynacare](https://www.dynacare.ca/find-a-location.aspx) | Online | Has many labs across Montreal. Quick appointments.
+
+Most of these offer lab tests that are covered at 100% by Desjardins Insurance as long as they are requested by a doctor.
+
+### Dentists
+
+You can get a cleaning treatment once a year if you pay for dental insurance through UQAM. Additionally, if you choose your dentist wisely and they offer some student discount, the treatment can become free of charge.
+
+| Clinic | Appointment | Notes
+|----|:--:|-------|
+| Clinique Dentaire Villeray | Call | 57 Rue Villeray, Montréal, QC H2R 1G2; Students 30% off.
+| [Clinique Dentaire La Cité](https://www.cliniquedentairelacite.com/en/) | Email | English-speaking Dentist that directly sends the insurance form to ASEQ, hence, you only have to pay the proportion that is not covered by our insurance. The clinic also has various student discounts if you need further treatments. The discount on cleaning is enough so that your annual dental cleaning would be free.
+
+**Warning**: Some dentists try to scam you. Usually, the first X-ray is necessary but you don't need to do an X-ray every year. If they suggest treatments, you don't have to accept. You can always say no. If you agree to get some treatment done, you could try and ask for a written consent form that outlines that you only want the treatment that you initially agreed upon.
+
+---
+
+## 13. Mental health support
 Whenever you need some additional support, here are some resources for you to get started on finding the help you need.
 
 **Resources from UQAM**: Go to [Services a la vie etudiante](https://vie-etudiante.uqam.ca/nous-contacter/coordonnees-horaire.html#soutien-psychologique) (Student Life Services) and under the tab "Soutien Psychologique" (Psychological support), you'll find the [request form for support and consultation](https://forms.office.com/Pages/ResponsePage.aspx?id=Gk7LEtpCHEmQ4Xp6l1NQb2zuGeD6ebBFnn6fs42pcL5UQTI1VExINDk0V0VLN09FOFBLNTRFR1ExQyQlQCN0PWcu) (if you would like to be communicated in English, make sure to specify that in the form). From here, you will be contacted by a staff member from UQAM Services-conseils (Advisory Services). 
@@ -1019,7 +1040,7 @@ Note:
   ![](Photos/MentalHealth_InsuranceClaimHistory.PNG)
 ---
 
-## 13. Budget and living expenses {#budget}
+## 14. Budget and living expenses {#budget}
 Below is a rough estimation of how much you would need to budget for life in Montreal. The estimated budget is a minimum base for you to start planning, but in no form exactly what you will experience.
 
 ### Before arrival
@@ -1053,7 +1074,7 @@ We recommend that you have a good amount saved up for your first few months in M
 
 ---
 
-## 14. Safety in Montréal
+## 15. Safety in Montréal
 In general, Montréal is a relatively safe city. However, there are thieves and one has to be careful about certain things.
 
 * Bike theft is a big business in Montréal. If you have a bike, the more expensive / better the more dangerous it is to get it stolen. Make sure to get at least one U-lock (don't get any of the curly locks that are easily broken). If you have a good bike, get two U-locks or another chain lock to secure both tires and the frame. Securely lock it if you store the bike anywhere outside. Most apartments in Montréal have emergency stairs to balconies, so lock it even when you leave it on your balcony.
@@ -1066,7 +1087,7 @@ In general, Montréal is a relatively safe city. However, there are thieves and 
 
 ---
 
-## 15. Other resources
+## 16. Other resources
 ### At UQAM
 * Food court in the PK-building (is not particularly cheap)
 * [Fractal](http://aessuqam.org/Cafe-Fractal) (Student coffee shop in the SH-building)
