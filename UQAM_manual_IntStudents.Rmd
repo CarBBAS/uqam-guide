@@ -1,8 +1,8 @@
 ---
 title: "A beginner's guide to UQAM and Canada"
 author: 'Authors: See [contributor](#contributors) list'
-version: "v.3.1"
-date: 'Last updated on: 28 November 2022'
+version: "v.3.2"
+date: 'Last updated on: 17 January 2023'
 output:
   pdf_document:
     toc: yes
@@ -102,6 +102,8 @@ For sure is, you will have to pay CAD$150, and processing times vary depending o
 
 You may need to do medical exams and get police certificates depending on your country of origin. Consult what you need by proceeding in the online application [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html).
 
+> If you have questions, rather than calling Immigration, Refugees and Citizenchip Canada (IRCC) via phone, their Twitter seems to be much more responsive. You can contact their [French](https://twitter.com/CitImmCanFR) or [English](https://twitter.com/CitImmCanada) account.
+
 ---
 
 > **Tip**: We recommend you to bring a buffer of cash to survive for at least a month or two, because processing times until UQAM makes the first payment takes time (~5 weeks)!
@@ -171,8 +173,8 @@ It should say in your acceptance letter what documents you need. Bring **three c
 
 ### 4. Submit stipend form
   Once the main things have been settled, fill out the form "Demande de Versement de Bourse" (Scholarship/Stipend Payment Request). 
+  
 **Physically**, you can find this form in the biology department room in PK building, then ask your PI to sign and fill their sections to receive your stipend. Once the documents are completed, you can submit it to the same biology office that you get the form from. If you have a research associate in your lab, he/she/they will aid you in the process if anything is unclear.
-**Virtually**, you can send your personal information in an email from your UQAM email address to your director so that they can forward this request to UQAM Financial services.
 
 Information/Documents you need to submit the stipend form:
 
@@ -186,12 +188,20 @@ Information/Documents you need to submit the stipend form:
 * Phone number
 * Your PIs UQAM account number (your PI will fill this)
 
+---
+
+**Online**, now you can submit the "Demande de versement de bourse" online:
+
+ ![](./Photos/stipend_form.png)
+
+When they enter the student's permanent code, the rest of the student's personal info that UQAM has on file will auto-fill in the form, so the student may only need to give their supervisor their permanent code. Unfortunately you can't receive your bourse until you are registered for the semester and are in Canada with a Canadian address and bank account. Since registration opens only a couple of weeks before the start of the next semester, this is the earliest that we can prepare the bourse forms. With the online system it will still take 4-6 weeks to process the bourse request.
+
 > It can take more than a month (typically five weeks) until you receive your first payment!
 
 You can sign up for direct deposit [here](https://www.rhu.uqam.ca/index.aspx?id=p710).
 Proceed as *‘Sans nom d’utilisateur (code MS)’* (Without user name (MS code)). It may not work at first if your SIN is not registered with the UQAM registrariat yet.
 
-If you cannot sign up for direct deposit at first, you will get your first payment via a cheque. Most of the bigger banks have a cheque deposit function through their official phone application. In this way, you can easily deposit the cheque immediatley into your account without having to go to a bank branch.
+If you cannot sign up for direct deposit at first, you will get your first payment via a cheque. Most of the bigger banks have a cheque deposit function through their official phone application. In this way, you can easily deposit the cheque immediately into your account without having to go to a bank branch.
 
 ---
 
@@ -403,13 +413,13 @@ Find the details at [SAAQ](https://saaq.gouv.qc.ca/en/drivers-licences/foreign-d
 Depending on how long your first permit is valid, you will need to apply for a study permit extension. Processing times may be longer than your initial study permit waiting period.
 
 The process is almost the same. You will need to first apply for a CAQ. After you have received the CAQ, you can apply to the study permit extension.
-Documents are almost the same, such as photograph, letter from your supervisor for financial support, etc. You will need to provide the number of your previous study permit/CAQ as well.
+You will need to provide the number of your previous study permit/CAQ as well.
 
 If you initially received a stipend to study and the stipend is finished, make sure to change the responsible to pay for your stay not as 'myself' but 'An organization or government' and enter your PI's name and UQAM address.
 
-Additionally, you will need to ask UQAM for documents to prove that you are currently a student. Visit the registrar to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you what you need. You will have to pay for the documents (~CAD$35). Make sure to scan your UQAM documents. Both CAQ application, and study permit applications are online now.
+Additionally, you will need to ask UQAM for documents to prove that you are currently a student. Visit the registrar to get all your documents. If you tell them that you need all the documents to renew your study permit, they will give you what you need. You will have to pay for the documents (~CAD$30). Make sure to scan your UQAM documents. Both CAQ application, and study permit applications are online now.
 
-*Update*: Now, you can also order all documents from UQAM needed for extending the study permit online. Consult this [webpage](https://etudier.uqam.ca/commande-documents-officiels-instructions).
+*Update*: Now, you can also order all documents from UQAM needed for extending the study permit online. Consult this [webpage](https://etudier.uqam.ca/commande-documents-officiels-instructions). (Takes about a week to mail)
 
 You will need to order:
 
@@ -417,38 +427,83 @@ You will need to order:
 * Attestation d'inscription (un trimestre) à temps complet (most recent semester)
 * Attestation d'inscription (plusieurs trimestres - en tableau)
 
-Detailed steps: 
+(If you're short on time, you can still go to the UQAM registrar to immediately get your documents)
 
-1. Check if your passport is valid for the whole duration of your extension. If not, renew before extension.
-2. Extend your CAQ
+---
+
+#### Check your passport
+
+Check if your passport is valid for the whole duration of your extension. If not, renew before extension. 
+**Unlike the study permit, the CAQ is not bound to a specific passport.** So you are able to apply to the CAQ extension while you are renewing your passport. However, it is important that you apply to the CAQ before your old passport expires! It's probably best, to include an explanatory letter that you are waiting for the renewal of your passport.
+
+#### CAQ
+
+There is a detailed step-by-step video on YouTube by the Government of Quebec (in French) to guide you through the creation of your application to the depositing your files on Arrima ([here](https://www.youtube.com/watch?v=RsQ6OvDlzWE)).
+
  - Complete your online application for temporary selection for studies [here](https://www.form.services.micc.gouv.qc.ca/dcae/faces/faces/pages/identite1.jspx?lang=en). You will need to pay **$120**.
- - Create a profile on [Arrima](www.immigration-quebec.gouv.qc.ca/en/informations/arrima/)
+ - Create a profile on [Arrima](www.immigration-quebec.gouv.qc.ca/en/informations/arrima/): Make sure your profile name on Arrima is exactly the same as your online application for temporary selection for studies.
  - Access your online application file [here](https://www.form.services.micc.gouv.qc.ca/dossierClient/faces/pages/authentification.jspx?lang=en&app=DCAE&indCreationCompte=undefined&indCodeAutorisation=undefined) and retrieve your file number
  - They will provide a check-list of documents needed, make sure to upload all documents on Arrima.
- 3. Once you receive the online approval of your CAQ, apply to extend your study permit.
+ 
+ Current required documents are:
+ 
+ - Declaration, commitments and authorization form, dated and signed (1st page of the checklist they send)
+ - Legible copy of pages of your passport bearing personal information and the photo. **Passport must be valid on the date of application.**
+ - Official letter from registrar that you are a full-time student and the number of credits obtained
+ - Official transcripts of grades for the entire period of validity of your CAQ for studies
+ - Proof of financial capacity (Letter from your supervisor to give you money or an official letter from scholarship)
+ - (Additional: You can include your payment proof for the last three semesters from UQAM to show that you are receiving money. Download the proofs on the human resources website [here](https://rhu.uqam.ca/index.aspx?id=p693). Choose 'Relevé de paie' and choose 'without Code MS' to log-in.)
+ 
+Once you receive the online approval of your CAQ, apply to extend your study permit.
+
+#### Study permit
+
   - If you are a US citizen or permanent resident, you can apply to the study permit at a border of entry (POE).
   - Otherwise, you need to apply online.
  
 If any of the links are broken, they updated links might be on the [Quebec government webpage](https://www.quebec.ca/en/education/study-quebec).
 
+Step-by-step:
+
+- Log-in to your account that you used to initially apply for a study permit [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html)
+- Go through the questionnaire
+- Once you fill the questionnaire, the portal provides you with all the documents you need. Make sure you fill all of the required documents. They are mostly the same forms as the original study permit application, so you can use your old form to guide you through the filling process.
+- Submit, pay (~$140 + $85 for biometrics)
+- Wait. Processing times are longer for extensions. Currently it's estimated to be around 140 days.
+- They may contact you to provide biometrics, in that case, make an appointment and go to the office.
+
+ Current required documents are:
+ 
+ - Form IMM5709 filled and validated
+ - Legible copy of pages of your passport bearing personal information and the photo. **Passport must be valid for the entire period of your extension.**
+ - A recent digital photo (passport photo format) of you
+ - Official letter from registrar that you are a full-time student and the number of credits obtained
+ - Proof of financial capacity (Letter from your supervisor to give you money or an official letter from scholarship)
+ - (Additional: You can include your payment proof for the last three semesters from UQAM to show that you are receiving money. Download the proofs on the human resources website [here](https://rhu.uqam.ca/index.aspx?id=p693). Choose 'Relevé de paie' and choose 'without Code MS' to log-in.)
+ 
+> *NEW:* since July 2022: You can leave Canada and come back while you are waiting for your study permit extension. If you have to leave while you are waiting, make sure that your electronic travel authorization (eTA) or visitor visa is **not expired**. If your study permit is not extended by the time you arrive in Canada, you will be let in as a visitor and you are not allowed to study until you receive your study permit. A boder officer might ask you to prove that you have enough money to support yourself, a copy of your extension applicaiton, the payment fee receipt or any other document to prove that you have applied for an extension. For more info check this [Q&A](https://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1308&top=15).
+
 A useful resource at UQAM is the [International Student Office](vie-etudiante.uqam.ca/etudiant-etranger) or contact one of their staff members about upcoming events/workshops on how to extend your study permit ([Yannick Richer](mailto:richer.yannick@uqam.ca)).
 
-> **Tip**: Whenever you renew your study permit, you need to visit the Social Insurance Number office to update them with your new permit to keep your SIN status up-to-date!
+> **Tip**: Whenever you renew and receive your new study permit, you need to visit the Social Insurance Number office to update them with your new permit to keep your SIN status up-to-date!
 
 ---
 
 ### 17. Implicit status
 If you have applied to a permit extension but did not receive your permit before your old permit expires, you will fall into an implicit status.
 
-You are allowed to stay in Canada for this period, however, you cannot leave the country. You will get out, but you will not be able to come back to Canada without a valid permit. Additionally, you will not be covered by your health insurance during this period. If your implicit status prolongs, you may not be able to receive your stipend. Therefore, it is important to apply to your extension ahead of time.
+You are allowed back into Canada if you leave during your implicit status, if you have a valid eTA or visitor visa. However, you will not be covered by your health insurance during this period. If your implicit status prolongs, you may not be able to receive your stipend. Therefore, it is important to apply to your extension ahead of time.
 
 ---
 
 # Post-docs (and research internship)
 ## Before arrival
 
-### 1. UQAM
-Before you can apply to the work permit, you need an LMIA **exemption number** from UQAM. Your PI or the labs research associate will help you through the process. However, if you have any questions regarding the registration process contact:
+### 1. Apply for Labour Market Impact Assessment (LMIA) exemption and employment offer
+
+Before you can apply to the official government documents, you will need to to apply for an LMIA exemption and an employment offer number through UQAM. You need to use this employment offer number when you submit your application for a work permit online because it allows the IRCC (Immigration, Refugees and Citizenship Canada) to connect your request with the official offer from your employer (UQAM).
+
+If you have any questions regarding the registration process contact UQAM through:
 
 * Post-docs: [Stagiaires postdoctoraux Faculté des sciences](<mailto:stagesfs_postdoc@uqam.ca>)
 * Research interns: [Stagiaires de recherche Faculté des sciences](<mailto:stagesfs_recherche@uqam.ca>)
@@ -479,6 +534,8 @@ You will need to provide:
 * Other documents if you bring a spouse
 
 You may need to do medical exams and get police certificates depending on your country of origin. Consult what you need by proceeding in the online application [here](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/apply.html).
+
+> If you have questions, rather than calling Immigration, Refugees and Citizenchip Canada (IRCC) via phone, their Twitter seems to be much more responsive. You can contact their [French](https://twitter.com/CitImmCanFR) or [English](https://twitter.com/CitImmCanada) account.
 
 ---
 
@@ -588,7 +645,7 @@ For some examples of clinics and medical labs, please refer to the [doctor list]
 ---
 
 ### 5. Student Card
-Once you have a registration number, as a post-doc and research intern, you get a student card and get access to student benefits and the gym. Make sure to bring your passport and they will make a picture on-site. Consult opening hours [here](http://ech.uqam.ca/2016-08-02-22-07-10/carte-uqam/horaire-et-coordonnees.html). The place is one floor down from the UQAM registrariat in the UQAM main campus.
+Once you have a registration number, as a post-doc and research intern, you get a student card and get access to the buildings, student benefits and the gym. All instructions can be found [here](https://coci.uqam.ca/). 48h after submission, you can retrieve your card at DS-R502 ([Map](https://plancampus.uqam.ca/pavillon-ds)) Consult the opening hours [here](https://coci.uqam.ca/nous-joindre/). Bring your passport for ID confirmation.
 
 ---
 
@@ -627,7 +684,9 @@ Find the details at [SAAQ](https://saaq.gouv.qc.ca/en/drivers-licences/foreign-d
 ---
 
 ### 9. Renewing your work permit
-In case your working permit ends before your actual end-of-contract (e.g. through to an extension of the contract), it is required that you extend your work permit. The extension has to be done [at least 30 days](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/extend.html) before your current work permit expires. Unfortunately, processing times take very long, estimated of more than 4 months. There are estimations on how long processing times are, however, in our experience, they are not particularly reliable.
+In case your working permit ends before your actual end-of-contract (e.g. through to an extension of the contract), it is required that you extend your work permit. Similar to when you apply to the work permit for the first time, you will need to first apply for an LMIA (labour market impact assessment) exemption and an employment offer number through UQAM.
+
+The extension has to be done [at least 30 days](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit/temporary/extend.html) before your current work permit expires. Unfortunately, processing times take very long, estimated of more than 4 months. There are estimations on how long processing times are, however, in our experience, they are not particularly reliable.
 
 In case your permit expires before you receive your new one, please read the next section on the implicit status.
 
@@ -757,16 +816,18 @@ Additionally, our laboratories are part of an interuniversity limnology society 
 
 ---
 
-## 8. GRIL member
-We are part of an interuniversity limnology research group called [GRIL](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=543). Typically, every student and post-doc join this society. GRIL also organizes an **Annual symposium** around March and a **student workshop** in autumn called ÉcoLac.
+## 8. Groupe de Recherche Interuniversitaire en Limnologie (GRIL)
+
+The GRIL is a provincially-funded research group with members in different universities. At UQAM (aptly named GRIL-UQAM), the group consists of 10 different professors (Yves Prairie, Paul del Giorgio, Beatrix Beisner, Alison Derry, Cassandre Lazar, Philippe Juneau, Dolors Planas, Maikel Rosabal, Michelle Garneau and Marie Laroque), their students, post-docs and research professionals. Here is the group's [webpage](https://gril.uqam.ca/).
+
+Katherine Velghe ([E-mail](velghe.katherine@uqam.ca)) is the research professional who works for the GRIL-UQAM. Her office is located at SB-2305. She is a good resource for lab/field equipment, lab training and techniques, truck management (insurance), building access, mailing lists, keys and printers. Contact her for the GRIL-UQAM welcome document that has information about day-to-day functioning in the research group. 
+
+### Become a GRIL member
+Typically, every student and post-doc who starts working with a GRIL professor joins this society. GRIL also organizes an **Annual symposium** around March and a **student workshop** in autumn (it's a 'student' workshop, but post-docs are very welcomed).
 
 If you arrive in spring or autumn, make sure to ask your cohorts if these events are happening soon, so as not to miss the registration period. The GRIL Symposium usually takes place *mid-March* and the ÉcoLac workshop in the *end of October/beginning of November*. 
 
-To join the GRIL access the [Intranet](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=5451). The password is *GRILdoc*. Go to "Application form for GRIL student membership" and fill in the necessary information. Membership is free for students.
-
-In the Intranet, you will also find information on the various scholarships and travel awards that the GRIL offers.
-
-If you're more interested in the GRIL, we have several groups that are part of GRIL at UQAM and you can check the [UQAM-GRIL website](https://gril.uqam.ca/).
+To join the GRIL access the [Intranet](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw030?owa_no_site=5451). The password is *GRILdoc*. Go to "Application form for GRIL student membership" and fill in the necessary information. Membership is free for students. In the Intranet, you will also find information on the various scholarships and travel awards that the GRIL offers.
 
 ---
 
@@ -991,8 +1052,10 @@ To go to a specialist, you always need a referral. Go to one of the walk-in clin
 
 | Speciality | Clinic | Doctor | Price | Appointment | Notes
 |--|:--:|:--:|:--:|:--:|------|
-| Urology | [RocklandMD](https://www.rocklandmd.com/en/) Town of Mount Royal Clinic | Dr. Genevieve Desbiens | C$ 325 | Online form | Speaks English, very nice doc. Desjardins covers C$ 250
+| Urology | [RocklandMD](https://www.rocklandmd.com/en/) Town of Mount Royal Clinic | Dre. Genevieve Desbiens | C$ 325 | Online form | Speaks English, very nice doc. Desjardins covers C$ 250
 | Gynecology | [Curel-Med](http://www.curelmed.ca/) | Dr. Pira Korsieporn | C$ 160 | Online form | Very nice doctor, speaks English. Clinic reception not very friendly. Avoid other docs in the clinic.
+| Chiropractor | [Clinic Chiropratique Vision](https://visionsante.ca/en/chiropractor-our-services/) | Dr. Hani Karout | Regular visit: C$ 40 | Online or phone | Overall good experience. First visit around C$ 90
+| Chiropractor | [Kiroclinique](https://kiroclinique.ca/en/) | Dre. Diana Al Ayoubi | Student: C$ 45, Regular: C$ 65 | Online or phone | First visit: C$ 125 for students, $140 regular. Very nice doctor! Desjardins pays up to $500/yr.
 
 ### Private medical labs
 
@@ -1087,7 +1150,29 @@ In general, Montréal is a relatively safe city. However, there are thieves and 
 
 ---
 
-## 16. Other resources
+## 16. When you move
+
+### Within Montréal
+
+Before/after you move, you should update your address (at least) at the following sites:
+
+- UQAM portal ([Portail étudiant](https://portailetudiant.uqam.ca/) for students; for postdocs ?)
+- [UQAM Human resources](https://rhu.uqam.ca/index.aspx?id=p629) (through sans code MS for students; with code MS for postdocs)
+- [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/services/e-services/cra-login-services.html)
+- [Québec Revenue Agency](https://citoyens.revenuquebec.ca/CitNA/TW/TW01/TW01.CitoyensNA/IDP/?AuthLevel=600&TYPE=33554433&REALMOID=06-9fb5eeb9-6772-49ed-998f-77e6869754b1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-fEqsYN7tvijETL4BxEFHliHeRjImmjXkIsKDGTL7vJJgfzFMlc5hLBbea7EJOEn%2b&TARGET=-SM-HTTPS:%2f%2fcitoyens.revenuquebec.ca%2fCitPres%2fSX%2fSX00%2fSX00.SXCLT00A.AccueilClient%2fSXCLT00AA%3fSVAR%3d01%26connexion%3dCitoyens)
+- Health Insurance ([Desjardins](https://id.desjardins.com/login?state=hKFo2SBnQVRTbkpIWWZsWFFuNEVPUkNIbzBwVWs4bE9wLXhaX6FupWxvZ2luo3RpZNkgb3A1czR1ZTF2clNCbXgyVW1uX24waTRDbFNUNUc5clmjY2lk2SAyT3NNQkpIVzN4UDNscXlObEt1WmVSQUF2bXJFaUJnMQ&client=2OsMBJHW3xP3lqyNlKuZeRAAvmrEiBg1&protocol=samlp&wa=wsignin1.0&wtrealm=https%3A%2F%2FICA&wctx=rm%3D0%26id%3Dpassive%26ru%3D%252fAGEA-GBIM%252fDefault.aspx&wct=2022-03-10T20%3A52%3A48Z&whr=http%3A%2F%2Fauth.desjardins.com%2Ftrust%2Finitial&wreply=https%3A%2F%2Fwww.agea-gbim.dsf-dfs.com%2FAGEA-GBIM%2FDefault.aspx&connection=gpap&RelayState=RPID%3Dhttps%253a%252f%252fICA%26RelayState%3D%252fAGEA-GBIM%252fDefault.aspx&ui_locales=en&tenant=desjardins))
+- RAMQ (?)
+- Your Bank
+
+Some sites offer to set a 'effective date' of address change.
+
+### Outside of Montréal
+
+It's sad to see you go, but that's life! If you have a nice/cheap apartment, consider asking around at the GRIL-UQAM and see if there are any new students/postdocs expected to come around the time you are leaving. It would save you time and hassle to find someone to take over your lease, if you leave before your lease is over. And, you would do a overwhelmed newcomer a favour!
+
+---
+
+## 17. Other resources
 ### At UQAM
 * Food court in the PK-building (is not particularly cheap)
 * [Fractal](http://aessuqam.org/Cafe-Fractal) (Student coffee shop in the SH-building)
@@ -1195,6 +1280,9 @@ In no particular order:
 Maintainers:
 
 * Masumi Stadler - `@masumistadler`
+
+Past maintainers:
+
 * Indigo Tran - `@indigotran`
 
 Content contributors:
